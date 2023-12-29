@@ -28,9 +28,9 @@ My research interest includes graph representation learning, spatial-temporal da
 - *2023.04*: &nbsp;🎉One paper is accepted by IEEE SMC 2023. 
 
 # 📝 Publications 
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``AAAI 2024``</span> [Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum]([https://arxiv.org/abs/2312.06441](https://arxiv.org/abs/2312.06441)). **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Xibin Zhao, Hai Wan
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE ICPADS 2023``</span> [Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection]([[https://arxiv.org/abs/2312.06441](https://arxiv.org/abs/2312.06441)](https://arxiv.org/abs/2311.10370)). **Fan Xu**, Nan Wang, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, Xibin Zhao
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE SMC 2023``</span> [Exploring Global and Local Information for Anomaly Detection with Normal Samples]([https://arxiv.org/abs/2306.02025](https://arxiv.org/abs/2306.02025)). **Fan Xu**, Nan Wang, Xibin Zhao
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``AAAI 2024``</span> [Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum](https://arxiv.org/abs/2312.06441). **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Xibin Zhao, Hai Wan
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE ICPADS 2023``</span> [Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection](https://arxiv.org/abs/2311.10370). **Fan Xu**, Nan Wang, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, Xibin Zhao
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE SMC 2023``</span> [Exploring Global and Local Information for Anomaly Detection with Normal Samples](https://arxiv.org/abs/2306.02025). **Fan Xu**, Nan Wang, Xibin Zhao
 
 
 <!--
