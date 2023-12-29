@@ -48,8 +48,8 @@ My research interest includes graph representation learning, spatial-temporal da
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - present*, Master student, University of Science and Technology of China. 
+- *2018.09 - 2022.06*, Undergraduate, Dalian Universuty of Technology. 
 
 <!--
 # 💬 Invited Talks
