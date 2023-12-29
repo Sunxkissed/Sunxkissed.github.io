@@ -29,7 +29,7 @@ My research interest includes graph representation learning, spatial-temporal da
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/framework_AAAI24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/framework_AAAI24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum](https://arxiv.org/abs/2312.06441)
