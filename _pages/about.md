@@ -1,3 +1,4 @@
+<!--
 ---
 permalink: /
 title: ""
@@ -8,14 +9,15 @@ redirect_from:
   - /about.html
 ---
 
-% {% if site.google_scholar_stats_use_cdn %}
-% {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-% {% else %}
-% {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-% {% endif %}
-% {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-% <span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me'></span>
+-->
 
 
 I am currently a second-year Master's student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022.
