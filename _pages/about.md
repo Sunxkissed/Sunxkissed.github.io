@@ -22,8 +22,7 @@ redirect_from:
 
 I am currently a second-year Master's student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022.
 
-My research interest includes graph representation learning, spatial-temporal data mining, AI4Science and anomaly detection.
-
+My research interest includes AI4Science, graph representation learning, and anomaly detection.
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉One paper is accepted by ECML-PKDD 2024. 
