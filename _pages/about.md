@@ -26,6 +26,7 @@ My research interest includes graph representation learning, spatial-temporal da
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉One paper is accepted by ECML-PKDD 2024. 
 - *2023.12*: &nbsp;🎉One paper is accepted by AAAI 2024. 
 - *2023.11*: &nbsp;🎉One paper is accepted by IEEE ICPADS 2023.
 - *2023.04*: &nbsp;🎉One paper is accepted by IEEE SMC 2023. 
