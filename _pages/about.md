@@ -44,8 +44,8 @@ My research interest includes AI4Science, graph representation learning, and ano
 <div style="display: flex; align-items: center;">
   <img src="../images/tencent.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
-    <li style="list-style-type: none;">Keen Security Lab, Tencent Technology (Shenzhen) Co., Ltd.</li>
-    <li style="list-style-type: none;"><em>2022.04 - 2023.05</em>, <strong>Research intern</strong></li>
+    <li style="list-style-type: none;">Keen Security Lab, Tencent Technology (Shenzhen)</li>
+    <li style="list-style-type: none;"><em>2022.04 - 2023.05</em>, <strong>Remote Internship</strong></li>
     <li style="list-style-type: none;">mentored by <a href="http://buaahsh.github.io/">Mengxia Luo & Nan Wang</a></li>
   </ul>
 </div>
