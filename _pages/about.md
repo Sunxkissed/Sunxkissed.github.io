@@ -40,7 +40,6 @@ My research interest includes AI4Science, graph representation learning, and ano
 
 
 
-<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/framework_AAAI24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,7 +57,7 @@ My research interest includes AI4Science, graph representation learning, and ano
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
--->
+
 
 # 📖 Educations
 - *2022.09 - present*, Master student, University of Science and Technology of China. 
