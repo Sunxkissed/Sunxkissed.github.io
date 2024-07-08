@@ -24,7 +24,7 @@ My research interest includes AI4Science, graph representation learning, and ano
 
 # 🔥 News
 - *2024.0527*: &nbsp; One paper was accepted by ECML-PKDD 2024 (First Author).
-- *2024.0523*: &nbsp; Three papers were submitted to NeurIPS 2024 (1\*First Author & 1\*Co-First Author).
+- *2024.0523*: &nbsp; Three papers were submitted to NeurIPS 2024 (1\*First Author \& 1\*Co-First Author).
 - *2024.0420*: &nbsp; One paper was submitted to ACM MM2024 (Co-First Author).
 - *2023.1209*: &nbsp; One paper was accepted by AAAI 2024 (First Author). 
 - *2023.1027*: &nbsp; One paper was accepted by IEEE ICPADS 2023 (First Author).
