@@ -1,4 +1,4 @@
-![image](https://github.com/Sunxkissed/Sunxkissed.github.io/assets/94820730/4963fdae-835b-463d-9bba-5b3bfc82aa75)
+
 ---
 permalink: /
 title: ""
