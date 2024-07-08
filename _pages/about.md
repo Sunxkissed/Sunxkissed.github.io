@@ -77,7 +77,10 @@ I am adept at developing various deep learning codes using PyTorch. Specifically
 - *2022.09 - present*, Master student, University of Science and Technology of China. 
 - *2018.09 - 2022.06*, Undergraduate, Dalian Universuty of Technology. 
 
-
+# 🎖 Honors and Awards
+- *2022.11* China Collegiate Computing Competition - Intelligent Interaction Innovation Contest, National Finals Second Prize
+- *2022.09* First-class Academic Scholarship of the University of Science and Technology of China.
+- *2022.06* HarmonyOS Developer Competition - Global Campus AI Algorithm Elite Track, Star Excellence Award (7/1000+)
 
 <!--
 # 🎖 Honors and Awards
