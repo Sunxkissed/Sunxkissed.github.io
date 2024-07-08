@@ -34,10 +34,20 @@ My research interest includes AI4Science, graph representation learning, and ano
 - *2023.0601*: &nbsp;🎉🎉 One paper was accepted by IEEE SMC 2023 (First Author). 
 
 # 📝 Publications 
+#### Anomaly Detection
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECML-PKDD 2024``</span> [GLADformer: A Mixed Perspective for Graph-level Anomaly Detection](https://arxiv.org/abs/2406.00734). **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Dalin Zhang, Siyang Lu, Binyong Li, Wei Gong, Hai Wan, Xibin Zhao
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``AAAI 2024``</span> [Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum](https://arxiv.org/abs/2312.06441). **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Xibin Zhao, Hai Wan
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE ICPADS 2023``</span> [Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection](https://arxiv.org/abs/2311.10370). **Fan Xu**, Nan Wang, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, Xibin Zhao
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE SMC 2023``</span> [Exploring Global and Local Information for Anomaly Detection with Normal Samples](https://arxiv.org/abs/2306.02025). **Fan Xu**, Nan Wang, Xibin Zhao
+
+#### Spatio-temporal Prediction
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://arxiv.org/abs/2305.11421).**Hao Wu**, **Fan Xu**, Xiao Luo#, Chong Chen, Xian-Sheng Hua, Haixin Wang#. ACM MM, 2024 (under review).
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``TPAMI2024``</span> [Earthfarseer-V2: A Versatile All-in-One Model for Learning Complex Spatio-Temporal Dynamics](https://ojs.aaai.org/index.php/AAAI/article/view/29521/30866). **Hao Wu**, Junfeng Fang, Yuxuan Liang, Guibin Zhang, Fan Xu, Wei Xiong, Qingsong Wen, Yu Zheng, Kun Wang#. TPAMI, 2024 (under review).
+
+#### AI for Science
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Spatio-temporal fluid dynamics modeling via physical-awareness and parameter diffusion guidance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HdXMhfcAAAAJ&citation_for_view=HdXMhfcAAAAJ:IWHjjKOFINEC). **Hao Wu**, **Fan Xu**, Yifan Duan, Ziwei Niu, Weiyan Wang, Gaofeng Lu, Kun Wang, Yuxuan Liang#, Yang Wang#. Arxiv, 2024.
+
+
 
 
 #  📖 Research Experience
