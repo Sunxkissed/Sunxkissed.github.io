@@ -70,7 +70,7 @@ My research interest includes AI4Science, graph representation learning, and ano
 </div>
 
 # 💬 Project Skills
-I am proficient in coding various applications of Graph Neural Networks, including at the node-level, edge-level, graph-level, and spatio-temporal graph modeling. Additionally, I have successfully reproduced models like FourCastNet, GraphCast and MeshGraphNet.
+I am adept at developing various deep learning codes using PyTorch. Specifically, I am proficient in coding various applications of Graph Neural Networks, including node-level, edge-level, graph-level, and spatio-temporal graph modeling. Additionally, I have successfully reproduced models like FourCastNet, GraphCast and MeshGraphNet.
 
 
 # 📖 Educations
