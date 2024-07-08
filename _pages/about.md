@@ -69,7 +69,7 @@ My research interest includes AI4Science, graph representation learning, and ano
   <ul style="list-style-type: disc; padding-left: 40px;">
     <li style="list-style-type: none;">Data Intelligence Research Center, Suzhou Institute for Advanced Research, USTC</li>
     <li style="list-style-type: none;"><em>2023.06 - 2024.06</em>, <strong>Remote Internship</strong></li>
-    <li style="list-style-type: none;">mentored by <a href="http://buaahsh.github.io/">Kun Wang & Yang Wang</a></li>
+    <li style="list-style-type: none;">mentored by Kun Wang & Yang Wang</a></li>
   </ul>
 </div>
 
