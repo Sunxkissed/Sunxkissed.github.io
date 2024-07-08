@@ -23,23 +23,35 @@ My research interest includes AI4Science, graph representation learning, and ano
 
 
 # 🔥 News
-- *2024.0527*: &nbsp;🎉🎉 One paper was accepted by ECML-PKDD 2024 (First Author).
-- *2024.0527*: &nbsp;🎉🎉 Three papers were submitted to NeurIPS 2024 (1\*First Author & 1\*Co-First Author).
-- *2024.0420*: &nbsp;🎉🎉 One paper was submitted to ACM MM2024 (Co-First Author).
-- *2023.1209*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024 (First Author). 
-- *2023.1027*: &nbsp;🎉🎉 One paper was accepted by IEEE ICPADS 2023 (First Author).
-- *2023.0601*: &nbsp;🎉🎉 One paper was accepted by IEEE SMC 2023 (First Author). 
+- *2024.0527*: &nbsp;🎉 One paper was accepted by ECML-PKDD 2024 (First Author).
+- *2024.0527*: &nbsp;🎉 Three papers were submitted to NeurIPS 2024 (1\*First Author & 1\*Co-First Author).
+- *2024.0420*: &nbsp;🎉 One paper was submitted to ACM MM2024 (Co-First Author).
+- *2023.1209*: &nbsp;🎉 One paper was accepted by AAAI 2024 (First Author). 
+- *2023.1027*: &nbsp;🎉 One paper was accepted by IEEE ICPADS 2023 (First Author).
+- *2023.0601*: &nbsp;🎉 One paper was accepted by IEEE SMC 2023 (First Author). 
 
 # 📝 Publications 
-<!--
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICASSP 2023``</span> [Instance-Aware Hierarchical Structured Policy for Prompt Learning in Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/10095231). **Xun Wu** *, Guolong Wang *, Zhaoyuan Liu, Xuan Dang, Zhen Qin. IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2023. <span style="color:red">(Top 3% recongintion)</span>
--->
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``TMM 2023``</span> [Knowledge Distillation-based Domain-invariant Representation Learning for Domain Generalization]([https://dl.acm.org/doi/pdf/10.1145/3503161.3548004](https://ieeexplore.ieee.org/abstract/document/10093034)). **Ziwei Niu**, Junkun Yuan, Xu Ma, Yingying Xu, Jing Liu, Yen-Wei Chen, Ruofeng Tong, Lanfen Lin
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICASSP 2023``</span> <span style="color:red">(Oral)</span> [MCKD: Mutually Collaborative Knowledge Distillation For Federated Domain Adaptation And Generalization]([[https://dl.acm.org/doi/pdf/10.1145/3503161.3548004](https://ieeexplore.ieee.org/abstract/document/10093034](https://ieeexplore.ieee.org/abstract/document/10095699))). **Ziwei Niu**, Junkun Yuan, Xu Ma, Yingying Xu, Jing Liu, Yen-Wei Chen, Ruofeng Tong, Lanfen Lin
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ACM MM 2023``</span> [IS2Net: Intra-domain Semantic and Inter-domain Style Enhancement for Semi-supervised Medical Domain Generalization]([https://www.ijcai.org/proceedings/2023/0144](https://dl.acm.org/doi/abs/10.1145/3581783.3612159])). Shiao Xie *, **Ziwei Niu** *, Huimin Huang, Hao Sun, Rui Qin, Yen-Wei Chen, Lanfen Lin
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ACM MM 2023``</span> [HSVLT: Hierarchical Scale-Aware Vision-Language Transformer for Multi-Label Image Classification]([[https://www.ijcai.org/proceedings/2023/0144](https://dl.acm.org/doi/abs/10.1145/3581783.3612159)])). Shuyi Ouyang, Hongyi Wang, **Ziwei Niu**, Zhenjia Bai, Shiao Xie, Yingying Xu, Ruofeng Tong, Yen-Wei Chen, Lanfen Lin
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IJCAI 2023``</span> [SLVIT: Scale-wise language-guided vision transformer for referring image segmentation]([https://www.ijcai.org/proceedings/2023/0144])). Shuyi Ouyang, Hongyi Wang, Shiao Xie, **Ziwei Niu**, Ruofeng Tong, Yen-Wei Chen, Lanfen Lin
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICME 2023``</span> [MedFCT: A Frequency Domain Joint CNN-Transformer Network for Semi-supervised Medical Image Segmentation]([https://www.sciencedirect.com/science/article/pii/S0306457322002485](https://ieeexplore.ieee.org/abstract/document/10219579)). Shiao Xie, Huimin Huang, **Ziwei Niu**, Lanfen Lin, Yen-Wei Chen
+#### Graph Anomaly Detection
+
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECML-PKDD 2024``</span> [GLADformer: A Mixed Perspective for Graph-level Anomaly Detection](https://arxiv.org/abs/2406.00734). **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Dalin Zhang, Siyang Lu, Binyong Li, Wei Gong, Hai Wan, Xibin Zhao
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``AAAI 2024``</span> [Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum](https://arxiv.org/abs/2312.06441). **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Xibin Zhao, Hai Wan
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE ICPADS 2023``</span> [Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection](https://arxiv.org/abs/2311.10370). **Fan Xu**, Nan Wang, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, Xibin Zhao
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE SMC 2023``</span> [Exploring Global and Local Information for Anomaly Detection with Normal Samples](https://arxiv.org/abs/2306.02025). **Fan Xu**, Nan Wang, Xibin Zhao
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;"></span> [Advanced Persistent Threat Detection via Mining Long-Term Features in Provenance Graphs]. **Fan Xu**, Qinxin Zhao, Xiaoxiao Liu, Nan Wang, Meiqi Gao, Xuezhi Wen, Dalin Zhang. Frontiers of Computer Science, 2024 (under review).
+
+#### Spatio-temporal Prediction
+
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://arxiv.org/abs/2305.11421).**Hao Wu**, **Fan Xu**, Xiao Luo#, Chong Chen, Xian-Sheng Hua, Haixin Wang#. ACM MM, 2024 (under review).
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Earthfarseer-V2: A Versatile All-in-One Model for Learning Complex Spatio-Temporal Dynamics](https://ojs.aaai.org/index.php/AAAI/article/view/29521/30866). Hao Wu, Junfeng Fang, Yuxuan Liang, Guibin Zhang, Fan Xu, Wei Xiong, Qingsong Wen, Yu Zheng, Kun Wang#. TPAMI, 2024 (under review).
+
+#### AI for Science
+
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Spatio-temporal fluid dynamics modeling via physical-awareness and parameter diffusion guidance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HdXMhfcAAAAJ&citation_for_view=HdXMhfcAAAAJ:IWHjjKOFINEC). **Hao Wu**, **Fan Xu**, Yifan Duan, Ziwei Niu, Weiyan Wang, Gaofeng Lu, Kun Wang, Yuxuan Liang#, Yang Wang#. Arxiv, 2024.
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;"></span> [SOCST: Learning Continuous Physics Simulation Overcoming Discretization from Partial Observations]. **Fan Xu**, Cheng Yan, Penghao Zhao, Pengliang Ji, Shuaipeng Li, Weiyan Wang, Hao Wu. NeurIPS, 2024 (under review).
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;"></span> [Open-CK: The Non-linear Chaotic Combustion Kinetics Benchmark]. **Zaige Fei**, **Fan Xu**, Yuxuan Liang, Ziwei Niu, Penghao Zhao, Shuaipeng Li, Qingsong Wen, Tengyang Wan, Jinxiang Wang, Jinbao Xue, Hao Wu, Kun Wang, Yang Wang. NeurIPS, 2024 (under review).
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;"></span> [PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling]. Hao Wu, Changhu Wang, Fan Xu, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo. NeurIPS, 2024 (under review).
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Spatio-temporal Twins with A Cache for Modeling Long-term System Dynamics](https://openreview.net/forum?id=aE6HazMgRz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)). Hao Wu, Kun Wang, Fan Xu, Yue Li, Xu Wang, Weiyan Wang, Haixin Wang, Xiao Luo#.  Arxiv, 2024.
+
 
 
 <!--
