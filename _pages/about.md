@@ -17,23 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at College of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院), and advised by Prof. [Lanfen Lin (林兰芬)](http://give.zju.edu.cn/en/memberHomepage/LinLanfen.html). Before that, I graduated from School of Information and Computer Science, Anhui Agricultural University  (安徽农业大学信息与计算机学院) with a bachelor’s degree.
+I am currently a second-year Master's student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022.
 
-My research interest includes domain adaptation, domain generalization, medical image analysis and multi-modal learning.
+My research interest includes AI4Science, graph representation learning, and anomaly detection.
 
-To help a quick start in domain generalization, we set up a [repository](https://github.com/Ziwei-Niu/Domain-generalization) for organizing papers ,codes, datasets and etc related to domain generalization. If you find it helpful, feel free to give it a star 🌟!
-
-<!--
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
--->
 
 # 🔥 News
-- *2023.02*: &nbsp;🎉One paper is accepted by ICASSP 2024. 
-- *2023.07*: &nbsp;🎉Two papers are accepted by ACM MM 2024.
-- *2023.04*: &nbsp;🎉One paper is accepted by IJCAI 2023. 
-- *2023.03*: &nbsp;🎉One paper is accepted by IEEE TMM (IF: 7.3). 
-- *2023.02*: &nbsp;🎉One paper is accepted by ICASSP 2023 Oral. 
-- *2022.07*: &nbsp;🎉 I release a [Domain Generalization Repository](https://github.com/Ziwei-Niu/Domain-generalization) for organizing papers, codes, datasets and etc. Welcome to STAR!
+- *2024.0527*: &nbsp;🎉🎉 One paper was accepted by ECML-PKDD 2024 (First Author).
+- *2024.0527*: &nbsp;🎉🎉 Three papers were submitted to NeurIPS 2024 (1\*First Author & 1\*Co-First Author).
+- *2024.0420*: &nbsp;🎉🎉 One paper was submitted to ACM MM2024 (Co-First Author).
+- *2023.1209*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024 (First Author). 
+- *2023.1027*: &nbsp;🎉🎉 One paper was accepted by IEEE ICPADS 2023 (First Author).
+- *2023.0601*: &nbsp;🎉🎉 One paper was accepted by IEEE SMC 2023 (First Author). 
 
 # 📝 Publications 
 <!--
