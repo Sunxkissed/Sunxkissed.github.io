@@ -53,7 +53,7 @@ My research interest includes AI4Science, graph representation learning, and ano
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Spatio-temporal Twins with A Cache for Modeling Long-term System Dynamics](https://openreview.net/forum?id=aE6HazMgRz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)). Hao Wu, Kun Wang, Fan Xu, Yue Li, Xu Wang, Weiyan Wang, Haixin Wang, Xiao Luo#.  Arxiv, 2024.
 - Exploring Causal Relationships in Physical Dynamical Systems. **Fan Xu**, Penghao Zhao, Ziwei Niu, Hao Wu, Kun Wang, Qingsong Wen. To be submitted to KDD, 2025.
 
-#  📖 Research Experience
+#  💻 Research Experience
 <div style="display: flex; align-items: center;">
   <img src="../images/tencent.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
@@ -73,9 +73,18 @@ My research interest includes AI4Science, graph representation learning, and ano
   </ul>
 </div>
 
+# 💬 Project Skills
+
+
+
+
 # 📖 Educations
 - *2022.09 - present*, Master student, University of Science and Technology of China. 
 - *2018.09 - 2022.06*, Undergraduate, Dalian Universuty of Technology. 
+
+
+
+
 
 
 
