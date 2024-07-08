@@ -40,6 +40,17 @@ My research interest includes AI4Science, graph representation learning, and ano
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE SMC 2023``</span> [Exploring Global and Local Information for Anomaly Detection with Normal Samples](https://arxiv.org/abs/2306.02025). **Fan Xu**, Nan Wang, Xibin Zhao
 
 
+#  📖 Research Experience
+<div style="display: flex; align-items: center;">
+  <img src="../images/tencent.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li style="list-style-type: none;">Machine Learning Platform Department, Large model training group, Tencent</li>
+    <li style="list-style-type: none;"><em>2023.08 - present</em>, <strong>Research intern</strong></li>
+    <li style="list-style-type: none;">mentored by <a href="http://buaahsh.github.io/">Jinbao Xue</a></li>
+  </ul>
+</div>
+
+Tencent Technology (Shenzhen) Co., Ltd.
 
 
 
