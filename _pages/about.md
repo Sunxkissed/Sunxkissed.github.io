@@ -26,10 +26,12 @@ I am currently a second-year Master's student in Computer Science and Technology
 My research interest includes AI4Science, graph representation learning, and anomaly detection.
 
 # 🔥 News
-- *2024.0527*: &nbsp;🎉🎉 One paper is accepted by ECML-PKDD 2024 (First Author). 
-- *2023.1209*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024 (First Author). 
-- *2023.1027*: &nbsp;🎉🎉 One paper is accepted by IEEE ICPADS 2023 (First Author).
-- *2023.0601*: &nbsp;🎉🎉 One paper is accepted by IEEE SMC 2023 (First Author). 
+- *2024.0527*: &nbsp;🎉🎉 One paper was accepted by ECML-PKDD 2024 (First Author).
+- *2024.0527*: &nbsp;🎉🎉 Three papers were submitted to NeurIPS 2024 (1\*First Author & 1\*Co-First Author).
+- *2024.0420*: &nbsp;🎉🎉 One paper was submitted to ACM MM2024.
+- *2023.1209*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024 (First Author). 
+- *2023.1027*: &nbsp;🎉🎉 One paper was accepted by IEEE ICPADS 2023 (First Author).
+- *2023.0601*: &nbsp;🎉🎉 One paper was accepted by IEEE SMC 2023 (First Author). 
 
 # 📝 Publications 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECML-PKDD 2024``</span> [GLADformer: A Mixed Perspective for Graph-level Anomaly Detection](https://arxiv.org/abs/2406.00734). **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Dalin Zhang, Siyang Lu, Binyong Li, Wei Gong, Hai Wan, Xibin Zhao
