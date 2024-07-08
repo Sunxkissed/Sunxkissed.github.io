@@ -60,7 +60,7 @@ My research interest includes AI4Science, graph representation learning, and ano
   <ul style="list-style-type: disc; padding-left: 20px;">
     <li style="list-style-type: none;">Keen Security Lab, Tencent Technology (Shenzhen)</li>
     <li style="list-style-type: none;"><em>2022.04 - 2023.05</em>, <strong>Remote Internship</strong></li>
-    <li style="list-style-type: none;">mentored by Mengxia Luo \& Nan Wang</a></li>
+    <li style="list-style-type: none;">mentored by Mengxia Luo and Nan Wang</li>
   </ul>
 </div>
 
@@ -70,7 +70,7 @@ My research interest includes AI4Science, graph representation learning, and ano
   <ul style="list-style-type: disc; padding-left: 40px;">
     <li style="list-style-type: none;">Data Intelligence Research Center, Suzhou Institute for Advanced Research, USTC</li>
     <li style="list-style-type: none;"><em>2023.06 - 2024.06</em>, <strong>Remote Internship</strong></li>
-    <li style="list-style-type: none;">mentored by Kun Wang \& Yang Wang</a></li>
+    <li style="list-style-type: none;">mentored by Kun Wang and Yang Wang</a></li>
   </ul>
 </div>
 
