@@ -54,6 +54,7 @@ My research interest includes AI4Science, graph representation learning, and ano
 - Exploring Causal Relationships in Physical Dynamical Systems. **Fan Xu**, Penghao Zhao, Ziwei Niu, Hao Wu, Kun Wang, Qingsong Wen. To be submitted to KDD, 2025.
 
 #  💻 Research Experience
+
 <div style="display: flex; align-items: center;">
   <img src="../images/tencent.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
