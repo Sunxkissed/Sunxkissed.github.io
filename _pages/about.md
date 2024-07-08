@@ -37,7 +37,7 @@ My research interest includes AI4Science, graph representation learning, and ano
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``AAAI 2024``</span> [Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum](https://arxiv.org/abs/2312.06441). **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Xibin Zhao, Hai Wan
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE ICPADS 2023``</span> [Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection](https://arxiv.org/abs/2311.10370). **Fan Xu**, Nan Wang, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, Xibin Zhao
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE SMC 2023``</span> [Exploring Global and Local Information for Anomaly Detection with Normal Samples](https://arxiv.org/abs/2306.02025). **Fan Xu**, Nan Wang, Xibin Zhao
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;"></span> Advanced Persistent Threat Detection via Mining Long-Term Features in Provenance Graphs. **Fan Xu**, Qinxin Zhao, Xiaoxiao Liu, Nan Wang, Meiqi Gao, Xuezhi Wen, Dalin Zhang. Frontiers of Computer Science, 2024 (under review).
+- Advanced Persistent Threat Detection via Mining Long-Term Features in Provenance Graphs. **Fan Xu**, Qinxin Zhao, Xiaoxiao Liu, Nan Wang, Meiqi Gao, Xuezhi Wen, Dalin Zhang. Frontiers of Computer Science, 2024 (under review).
 
 #### Spatio-temporal Prediction
 
@@ -47,8 +47,8 @@ My research interest includes AI4Science, graph representation learning, and ano
 #### AI for Science
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Spatio-temporal fluid dynamics modeling via physical-awareness and parameter diffusion guidance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HdXMhfcAAAAJ&citation_for_view=HdXMhfcAAAAJ:IWHjjKOFINEC). **Hao Wu**, **Fan Xu**, Yifan Duan, Ziwei Niu, Weiyan Wang, Gaofeng Lu, Kun Wang, Yuxuan Liang#, Yang Wang#. Arxiv, 2024.
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;"></span> SOCST: Learning Continuous Physics Simulation Overcoming Discretization from Partial Observations. **Fan Xu**, Cheng Yan, Penghao Zhao, Pengliang Ji, Shuaipeng Li, Weiyan Wang, Hao Wu. NeurIPS, 2024 (under review).
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;"></span> Open-CK: The Non-linear Chaotic Combustion Kinetics Benchmark. **Zaige Fei**, **Fan Xu**, Yuxuan Liang, Ziwei Niu, Penghao Zhao, Shuaipeng Li, Qingsong Wen, Tengyang Wan, Jinxiang Wang, Jinbao Xue, Hao Wu, Kun Wang, Yang Wang. NeurIPS, 2024 (under review).
+- SOCST: Learning Continuous Physics Simulation Overcoming Discretization from Partial Observations. **Fan Xu**, Cheng Yan, Penghao Zhao, Pengliang Ji, Shuaipeng Li, Weiyan Wang, Hao Wu. NeurIPS, 2024 (under review).
+- Open-CK: The Non-linear Chaotic Combustion Kinetics Benchmark. **Zaige Fei**, **Fan Xu**, Yuxuan Liang, Ziwei Niu, Penghao Zhao, Shuaipeng Li, Qingsong Wen, Tengyang Wan, Jinxiang Wang, Jinbao Xue, Hao Wu, Kun Wang, Yang Wang. NeurIPS, 2024 (under review).
 - PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling. Hao Wu, Changhu Wang, Fan Xu, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo. NeurIPS, 2024 (under review).
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Spatio-temporal Twins with A Cache for Modeling Long-term System Dynamics](https://openreview.net/forum?id=aE6HazMgRz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)). Hao Wu, Kun Wang, Fan Xu, Yue Li, Xu Wang, Weiyan Wang, Haixin Wang, Xiao Luo#.  Arxiv, 2024.
 
