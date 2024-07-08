@@ -52,23 +52,36 @@ My research interest includes AI4Science, graph representation learning, and ano
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;"></span> [PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling]. Hao Wu, Changhu Wang, Fan Xu, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo. NeurIPS, 2024 (under review).
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Spatio-temporal Twins with A Cache for Modeling Long-term System Dynamics](https://openreview.net/forum?id=aE6HazMgRz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)). Hao Wu, Kun Wang, Fan Xu, Yue Li, Xu Wang, Weiyan Wang, Haixin Wang, Xiao Luo#.  Arxiv, 2024.
 
+#  📖 Research Experience
+<div style="display: flex; align-items: center;">
+  <img src="../images/tencent.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li style="list-style-type: none;">Keen Security Lab, Tencent Technology (Shenzhen)</li>
+    <li style="list-style-type: none;"><em>2022.04 - 2023.05</em>, <strong>Remote Internship</strong></li>
+    <li style="list-style-type: none;">mentored by Mengxia Luo & Nan Wang</a></li>
+  </ul>
+</div>
+
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/ustc.png" alt="" style="width: 180px; margin-right: 100px; margin-left: 40px;"/>
+  <ul style="list-style-type: disc; padding-left: 40px;">
+    <li style="list-style-type: none;">Data Intelligence Research Center, Suzhou Institute for Advanced Research, USTC</li>
+    <li style="list-style-type: none;"><em>2023.06 - 2024.06</em>, <strong>Remote Internship</strong></li>
+    <li style="list-style-type: none;">mentored by Kun Wang & Yang Wang</a></li>
+  </ul>
+</div>
+
+# 📖 Educations
+- *2022.09 - present*, Master student, University of Science and Technology of China. 
+- *2018.09 - 2022.06*, Undergraduate, Dalian Universuty of Technology. 
+
+
+
+
 
 
 <!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
--->
-
 # 🎖 Honors and Awards
 - *2023.10* Outstanding Graduate Student Award of Zhejiang University (Top 20%).
 - *2021.02* Outstanding Undergraduate Award (Top 5%).
@@ -79,7 +92,6 @@ My research interest includes AI4Science, graph representation learning, and ano
 - *2021.09 - present*, Ph.D student, Zhejiang University, Hangzhou. 
 - *2017.09 - 2021.06*, Undergraduate, Anhui Agricultural University, Hefei. 
 
-<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
