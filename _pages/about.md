@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Master's student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022. My research interest includes AI4Science, graph representation learning, and anomaly detection. Feel free to contact me for communication and collaboration!
+I am currently a second-year Master's student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022. My research interest includes AI4Science, graph representation learning, and large language model. Feel free to contact me for communication and collaboration!
 
 
 # 🔥 News
@@ -68,7 +68,7 @@ I am currently a second-year Master's student in Computer Science and Technology
 </div>
 
 # 💬 Project Skills
-I am adept at developing various deep learning codes using PyTorch (Transformer, Diffusion, Mamba, among others.). Specifically, I am proficient in various applications of Graph Neural Networks, including node-level, edge-level, graph-level, and spatio-temporal graph modeling. Additionally, I have successfully reproduced models such as FourCastNet, GraphCast and MeshGraphNet.
+I am adept at developing various deep learning codes using PyTorch (Transformer, Diffusion, Mamba, among others). Specifically, I am proficient in various applications of Graph Neural Networks, including node-level, edge-level, graph-level, and spatio-temporal graph modeling. Additionally, I have successfully reproduced models such as FourCastNet, GraphCast and MeshGraphNet.
 
 
 # 📖 Educations
