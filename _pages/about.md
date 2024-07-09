@@ -67,7 +67,7 @@ I am currently a second-year Master's student in Computer Science and Technology
   <ul style="list-style-type: disc; padding-left: 40px;">
     <li style="list-style-type: none;">Data Intelligence Research Center, Suzhou Institute for Advanced Research, USTC</li>
     <li style="list-style-type: none;"><em>2023.09 - 2024.06</em>, <strong>Remote Internship</strong></li>
-    <li style="list-style-type: none;">mentored by Kun Wang and [Yang Wang](https://faculty.ustc.edu.cn/wangyang/zh_CN/index.htm)</li>
+    <li style="list-style-type: none;">mentored by Kun Wang and <a href="http://buaahsh.github.io/">Yang Wang</a></li>
   </ul>
 </div>
 
