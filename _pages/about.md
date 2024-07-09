@@ -68,7 +68,7 @@ I am currently a second-year Master's student in Computer Science and Technology
 </div>
 
 # 💬 Project Skills
-I am adept at developing various deep learning codes using PyTorch (Transformer, Diffusion, Mamba, et al.). Specifically, I am proficient in various applications of Graph Neural Networks, including node-level, edge-level, graph-level, and spatio-temporal graph modeling. Additionally, I have successfully reproduced models such as FourCastNet, GraphCast and MeshGraphNet.
+I am adept at developing various deep learning codes using PyTorch (Transformer, Diffusion, Mamba, among others.). Specifically, I am proficient in various applications of Graph Neural Networks, including node-level, edge-level, graph-level, and spatio-temporal graph modeling. Additionally, I have successfully reproduced models such as FourCastNet, GraphCast and MeshGraphNet.
 
 
 # 📖 Educations
