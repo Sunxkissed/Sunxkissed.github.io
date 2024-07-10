@@ -87,6 +87,26 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 
 
 
+# Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/TPAMI-HOPE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HOPE: A Hierarchical Perspective for Semi-supervised 2D-3D Cross-Modal Retrieval](https://ieeexplore.ieee.org/document/10553262)  
+
+**Fan Zhang**, Hang Zhou, Xian-Sheng Hua, Chong Chen, Xiao Luo  
+
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024*  
+
+<span style="color:red;">*(CCF Rank A, JCR Q1, IF=23.6)*</span>  
+</div>
+</div>
+
+
+
+
+
+
 <!--
 # 🎖 Honors and Awards
 - *2023.10* Outstanding Graduate Student Award of Zhejiang University (Top 20%).
