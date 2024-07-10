@@ -97,6 +97,9 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Xibin Zhao, Hai Wan
 
 *AAAI, 2024*  
+<span style="color:red;">*(CCF Rank A, JCR Q1, IF=23.6)*</span>  
+</div>
+</div>
 
 ---
 
@@ -108,6 +111,8 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Dalin Zhang, Siyang Lu, Binyong Li, Wei Gong, Hai Wan, Xibin Zhao
 
 *ECML-PKDD, 2024*  
+</div>
+</div>
 
 ---
 
