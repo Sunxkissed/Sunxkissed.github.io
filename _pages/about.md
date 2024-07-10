@@ -89,7 +89,7 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='../images/xf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='../images/xf.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum](https://arxiv.org/abs/2312.06441)
@@ -102,7 +102,7 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='images/xf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='../images/xf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GLADformer: A Mixed Perspective for Graph-level Anomaly Detection](https://arxiv.org/abs/2406.00734)
