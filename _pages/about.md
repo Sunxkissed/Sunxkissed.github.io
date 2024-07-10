@@ -97,7 +97,6 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Xibin Zhao, Hai Wan
 
 *AAAI, 2024*  
-<span style="color:red;">*(CCF Rank A, JCR Q1, IF=23.6)*</span>  
 </div>
 </div>
 
@@ -122,6 +121,8 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 [Exploring Causal Relationships in Physical Dynamical Systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HdXMhfcAAAAJ&citation_for_view=HdXMhfcAAAAJ:IWHjjKOFINEC)
 
 **Fan Xu**, Penghao Zhao, Ziwei Niu, Hao Wu, Kun Wang, Qingsong Wen
+</div>
+</div>
 
 ---
 
@@ -131,6 +132,8 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 [Spatio-temporal fluid dynamics modeling via physical-awareness and parameter diffusion guidance](https://arxiv.org/abs/2403.13850)
 
 **Hao Wu**, **Fan Xu**, Yifan Duan, Ziwei Niu, Weiyan Wang, Gaofeng Lu, Kun Wang, Yuxuan Liang#, Yang Wang#
+</div>
+</div>
 
 ---
 
@@ -142,6 +145,8 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 Hao Wu, Wei Xiong, Fan Xu, Xiao Luo, Chong Chen, Xian-Sheng Hua, Haixin Wang
 
 *ACM MM, 2024 (under review)*
+</div>
+</div>
 
 ---
 
@@ -153,6 +158,8 @@ Hao Wu, Wei Xiong, Fan Xu, Xiao Luo, Chong Chen, Xian-Sheng Hua, Haixin Wang
 **Fan Xu**, Cheng Yan, Penghao Zhao, Pengliang Ji, Shuaipeng Li, Weiyan Wang, Hao Wu
 
 *NeurIPS, 2024 (under review)*
+</div>
+</div>
 
 ---
 
@@ -163,7 +170,9 @@ Hao Wu, Wei Xiong, Fan Xu, Xiao Luo, Chong Chen, Xian-Sheng Hua, Haixin Wang
 
 **Zaige Fei**, **Fan Xu**, Yuxuan Liang, Ziwei Niu, Penghao Zhao, Shuaipeng Li, Qingsong Wen, Tengyang Wan, Jinxiang Wang, Jinbao Xue, Hao Wu, Kun Wang, Yang Wang
 
-NeurIPS, 2024 (under review)
+*NeurIPS, 2024 (under review)*
+</div>
+</div>
 
 ---
 
@@ -174,7 +183,7 @@ NeurIPS, 2024 (under review)
 
 Hao Wu, Changhu Wang, Fan Xu, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo
 
-NeurIPS, 2024 (under review).
+*NeurIPS, 2024 (under review)*
 
 
 
