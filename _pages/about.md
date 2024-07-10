@@ -100,18 +100,18 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 
 **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Xibin Zhao, Hai Wan
 
-*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*  
+*AAAI, 2024*  
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='../images/aaai.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='../images/ecml.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GLADformer: A Mixed Perspective for Graph-level Anomaly Detection](https://arxiv.org/abs/2406.00734)
 
 **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Dalin Zhang, Siyang Lu, Binyong Li, Wei Gong, Hai Wan, Xibin Zhao
 
-*European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2024*  
+*ECML-PKDD, 2024*  
 
 
 
