@@ -89,7 +89,7 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/scost.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/socst.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SOCST: Learning Continuous Physics Simulation Overcoming Discretization from Partial Observations](https://openreview.net/forum?id=MGNsP0LGte&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
