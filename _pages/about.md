@@ -63,9 +63,10 @@ I am currently a second-year Master's student in Computer Science and Technology
   </ul>
 </div>
 
+
 <div style="display: flex; align-items: center;">
-  <img src="../images/ustc.png" alt="" style="width: 180px; margin-right: 100px; margin-left: 40px;"/>
-  <ul style="list-style-type: disc; padding-left: 40px;">
+  <img src="../images/ustc.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
+  <ul style="list-style-type: disc; padding-left: 20px;">
     <li style="list-style-type: none;">Data Intelligence Research Center, Suzhou Institute for Advanced Research, USTC</li>
     <li style="list-style-type: none;"><em>2023.09 - 2024.06</em>, <strong>Remote Internship</strong></li>
     <li style="list-style-type: none;">mentored by Kun Wang and Yang Wang</li>
