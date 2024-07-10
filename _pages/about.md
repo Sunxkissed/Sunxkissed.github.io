@@ -84,7 +84,7 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 # 🎖 Honors and Awards
 - *2022.11* China Collegiate Computing Competition - Intelligent Interaction Innovation Contest, National Finals Second Prize
 - *2022.09* First-class Academic Scholarship of the University of Science and Technology of China.
-- *2022.06* HarmonyOS Developer Competition - Global Campus AI Algorithm Elite Track, Star Excellence Award [(7/1000+)](https://developer.huawei.com/consumer/cn/activity/digixActivity/digixWinnersDetail/101655281685926449)
+- *2022.06* HarmonyOS Developer Competition - Global Campus AI Algorithm Elite Track, Star Excellence Award (7/1000+)
 
 
 
