@@ -97,6 +97,8 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Xibin Zhao, Hai Wan
 
 *AAAI, 2024*  
+</div>
+</div>
 
 ---
 
