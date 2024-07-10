@@ -176,7 +176,7 @@ Hao Wu, Wei Xiong, Fan Xu, Xiao Luo, Chong Chen, Xian-Sheng Hua, Haixin Wang
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='../images/scost.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='../images/pure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling](https://openreview.net/forum?id=z86knmjoUq&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
