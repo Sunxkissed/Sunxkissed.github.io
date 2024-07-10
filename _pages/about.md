@@ -19,6 +19,7 @@ redirect_from:
 
 I am currently a second-year Master's student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022. My research interest includes AI4Science, graph representation learning, and large language model. Feel free to contact me for communication and collaboration!
 
+**Email**: <u>markxu@mail.ustc.edu.cn</u> or <u>xf715122@gmail.com</u>
 
 # 🔥 News
 - *2024.0527*: &nbsp; One paper was accepted by ECML-PKDD 2024 (First Author).
