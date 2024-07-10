@@ -111,6 +111,24 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 
 ---
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='../images/causal.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring Causal Relationships in Physical Dynamical Systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HdXMhfcAAAAJ&citation_for_view=HdXMhfcAAAAJ:IWHjjKOFINEC)
+
+**Fan Xu**, Penghao Zhao, Ziwei Niu, Hao Wu, Kun Wang, Qingsong Wen
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='../images/diffusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spatio-temporal fluid dynamics modeling via physical-awareness and parameter diffusion guidance](https://arxiv.org/abs/2403.13850)
+
+**Hao Wu**, **Fan Xu**, Yifan Duan, Ziwei Niu, Weiyan Wang, Gaofeng Lu, Kun Wang, Yuxuan Liang#, Yang Wang#
+
+---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='../images/pastnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -121,8 +139,6 @@ Hao Wu, Wei Xiong, Fan Xu, Xiao Luo, Chong Chen, Xian-Sheng Hua, Haixin Wang
 *ACM MM, 2024 (under review)*
 
 ---
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='../images/scost.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
