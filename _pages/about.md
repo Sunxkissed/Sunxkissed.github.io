@@ -89,16 +89,6 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/TPAMI-HOPE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[HOPE: A Hierarchical Perspective for Semi-supervised 2D-3D Cross-Modal Retrieval](https://ieeexplore.ieee.org/document/10553262)  
-
-**Fan Zhang**, Hang Zhou, Xian-Sheng Hua, Chong Chen, Xiao Luo  
-
-*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024*  
-
-<span style="color:red;">*(CCF Rank A, JCR Q1, IF=23.6)*</span>  
 </div>
 </div>
 
@@ -109,6 +99,21 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 [Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum](https://arxiv.org/abs/2312.06441)
 
 **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Xibin Zhao, Hai Wan
+
+*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*  
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='../images/aaai.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GLADformer: A Mixed Perspective for Graph-level Anomaly Detection](https://arxiv.org/abs/2406.00734)
+
+**Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Dalin Zhang, Siyang Lu, Binyong Li, Wei Gong, Hai Wan, Xibin Zhao
+
+*European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2024*  
+
+
 
 
 
