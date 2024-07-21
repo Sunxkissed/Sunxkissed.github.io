@@ -152,7 +152,7 @@ Hao Wu, Changhu Wang, Fan Xu, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/pastnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/MM_pastnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://arxiv.org/abs/2305.11421)
