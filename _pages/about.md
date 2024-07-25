@@ -130,17 +130,6 @@ Hao Wu, Changhu Wang, Fan Xu, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/cau.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Exploring Causal Relationships in Physical Dynamical Systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HdXMhfcAAAAJ&citation_for_view=HdXMhfcAAAAJ:IWHjjKOFINEC)
-
-**Fan Xu**, Penghao Zhao, Ziwei Niu, Hao Wu, Kun Wang, Qingsong Wen
-</div>
-</div>
-
----
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/diffusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
