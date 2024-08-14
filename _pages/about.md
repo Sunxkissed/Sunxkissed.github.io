@@ -1,4 +1,4 @@
-<!--
+
 ---
 permalink: /
 title: ""
@@ -17,7 +17,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
--->
+
 
 
 I am Fan Xu, currently a second-year Master's student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022. My research interest includes AI4Science, graph representation learning, and large language model. Feel free to contact me for communication and collaboration!
