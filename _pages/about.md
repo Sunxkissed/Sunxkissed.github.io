@@ -92,6 +92,30 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 
 # Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/LIPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Leveraging Lie Point Symmetries and Causal Inference for Enhanced Neural PDE Solvers](https://openreview.net/forum?id=MGNsP0LGte&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
+
+Cheng Yan, Ziwei Niu, WangZihao, Penghao Zhao, Kun Wang, Fan Xu#, Hao Wu#
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/CIDR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reinforced Causal Discovery of Multivariate Time Series Anomaly Detection](https://openreview.net/forum?id=MGNsP0LGte&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
+
+**Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Binyong Li, Hai Wan, Xibin Zhao
+
+</div>
+</div>
+
+---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/socst.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
