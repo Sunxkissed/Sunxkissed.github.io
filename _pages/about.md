@@ -75,7 +75,7 @@ I am Fan Xu, currently a second-year Master's student in Computer Science and Te
 </div>
 
 # 💬 Project Skills
-I am adept at developing various deep learning algorithms using PyTorch. Specifically, I am proficient in various applications of Graph Neural Networks, including node-level, edge-level, graph-level, and spatio-temporal graph modeling. Additionally, I have successfully reproduced models such as FourCastNet, GraphCast and MeshGraphNet.
+I am adept at developing various deep learning algorithms using PyTorch. Specifically, I am proficient in various applications of graph neural networks and spatio-temporal architectures. Also, I am highly interested in diverse neural operators for fluid dynamics modeling.
 
 # 📖 Educations
 - *2022.09 - present*, Master student, University of Science and Technology of China. 
@@ -197,11 +197,9 @@ Hao Wu, Wei Xiong, Fan Xu, Xiao Luo, Chong Chen, Xian-Sheng Hua, Haixin Wang
 
 
 
-
-
-
-
 <!--
+I am adept at developing various deep learning algorithms using PyTorch. Specifically, I am proficient in various applications of Graph Neural Networks, including node-level, edge-level, graph-level, and spatio-temporal graph modeling. Additionally, I have successfully reproduced models such as FourCastNet, GraphCast and MeshGraphNet.
+
 # 🎖 Honors and Awards
 - *2023.10* Outstanding Graduate Student Award of Zhejiang University (Top 20%).
 - *2021.02* Outstanding Undergraduate Award (Top 5%).
