@@ -180,7 +180,7 @@ Hao Wu, Wei Xiong, Fan Xu, Xiao Luo, Chong Chen, Xian-Sheng Hua, Haixin Wang
 
 **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Dalin Zhang, Siyang Lu, Binyong Li, Wei Gong, Hai Wan, Xibin Zhao
 
-*ECML-PKDD, 2024*  
+*ECML PKDD, 2024*  
 </div>
 </div>
 
