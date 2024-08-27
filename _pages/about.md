@@ -26,7 +26,7 @@ I am Fan Xu, currently a second-year Master's student in Computer Science and Te
 # 🔥 News
 - *2024.0826*: &nbsp; One paper was accepted by FCS 2024 (First Author).
 - *2024.0716*: &nbsp; One paper was accepted by ACM MM 2024 (Co-First Author).
-- *2024.0527*: &nbsp; One paper was accepted by ECML-PKDD 2024 (First Author).
+- *2024.0527*: &nbsp; One paper was accepted by ECML PKDD 2024 (First Author).
 - *2023.1209*: &nbsp; One paper was accepted by AAAI 2024 (First Author). 
 - *2023.1027*: &nbsp; One paper was accepted by IEEE ICPADS 2023 (First Author).
 - *2023.0601*: &nbsp; One paper was accepted by IEEE SMC 2023 (First Author). 
@@ -34,7 +34,7 @@ I am Fan Xu, currently a second-year Master's student in Computer Science and Te
 # 📝 Publications 
 #### Graph Anomaly Detection
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``AAAI 2024``</span> [Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum](https://arxiv.org/abs/2312.06441). **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Xibin Zhao, Hai Wan
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECML-PKDD 2024``</span> [GLADformer: A Mixed Perspective for Graph-level Anomaly Detection](https://arxiv.org/abs/2406.00734). **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Dalin Zhang, Siyang Lu, Binyong Li, Wei Gong, Hai Wan, Xibin Zhao
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECML PKDD 2024``</span> [GLADformer: A Mixed Perspective for Graph-level Anomaly Detection](https://arxiv.org/abs/2406.00734). **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Dalin Zhang, Siyang Lu, Binyong Li, Wei Gong, Hai Wan, Xibin Zhao
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``FCS 2024``</span> [Advanced Persistent Threat Detection via Mining Long-Term Features in Provenance Graphs](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HdXMhfcAAAAJ&citation_for_view=HdXMhfcAAAAJ:IWHjjKOFINEC). **Fan Xu**, Qinxin Zhao, Xiaoxiao Liu, Nan Wang, Meiqi Gao, Xuezhi Wen, Dalin Zhang
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE ICPADS 2023``</span> [Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection](https://arxiv.org/abs/2311.10370). **Fan Xu**, Nan Wang, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, Xibin Zhao
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE SMC 2023``</span> [Exploring Global and Local Information for Anomaly Detection with Normal Samples](https://arxiv.org/abs/2306.02025). **Fan Xu**, Nan Wang, Xibin Zhao
