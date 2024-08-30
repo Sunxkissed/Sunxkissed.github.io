@@ -159,7 +159,7 @@ Hao Wu, Changhu Wang, Fan Xu, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/MM_pastnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='../images/MM_pastnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://openreview.net/forum?id=mL0KvSwXzk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
