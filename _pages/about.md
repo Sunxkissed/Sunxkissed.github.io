@@ -57,6 +57,15 @@ I am Fan Xu, currently a second-year Master's student in Computer Science and Te
 
 #  💻 Research Experience
 <div style="display: flex; align-items: center;">
+  <img src="../images/ustc.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li style="list-style-type: none;">Data Intelligence Research Center, Suzhou Institute for Advanced Research, USTC</li>
+    <li style="list-style-type: none;"><em>2023.09 - 2024.06</em>, <strong>Remote Internship</strong></li>
+    <li style="list-style-type: none;">mentored by Kun Wang and Yang Wang</li>
+  </ul>
+</div>
+
+<div style="display: flex; align-items: center;">
   <img src="../images/tencent.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
     <li style="list-style-type: none;">Keen Security Lab, Tencent Technology (Shenzhen)</li>
@@ -65,15 +74,6 @@ I am Fan Xu, currently a second-year Master's student in Computer Science and Te
   </ul>
 </div>
 
-
-<div style="display: flex; align-items: center;">
-  <img src="../images/ustc.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
-  <ul style="list-style-type: disc; padding-left: 20px;">
-    <li style="list-style-type: none;">Data Intelligence Research Center, Suzhou Institute for Advanced Research, USTC</li>
-    <li style="list-style-type: none;"><em>2023.09 - 2024.06</em>, <strong>Remote Internship</strong></li>
-    <li style="list-style-type: none;">mentored by Kun Wang and Yang Wang</li>
-  </ul>
-</div>
 
 # 💬 Project Skills
 I am adept at developing various deep learning algorithms using PyTorch. Specifically, I am proficient in various applications of graph neural networks and spatio-temporal architectures. Also, I am highly interested in diverse neural operators for fluid dynamics modeling.
