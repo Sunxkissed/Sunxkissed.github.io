@@ -81,14 +81,14 @@ I am Fan Xu, currently a second-year master's student at the University of Scien
 # 💬 Project Skills
 I am adept at developing various deep learning algorithms using PyTorch. Specifically, I am proficient in various applications of graph neural networks and spatio-temporal architectures. Also, I am highly interested in diverse neural operators for fluid dynamics modeling.
 
-# 📖 Educations
-- *2022.09 - present*, Master student, University of Science and Technology of China. 
-- *2018.09 - 2022.06*, Undergraduate, Dalian Universuty of Technology. 
-
 # 🎖 Honors and Awards
 - *2022.11* China Collegiate Computing Competition - Intelligent Interaction Innovation Contest, National Finals Second Prize
 - *2022.09* First-class Academic Scholarship of the University of Science and Technology of China.
 - *2022.06* HarmonyOS Developer Competition - Global Campus AI Algorithm Elite Track, Star Excellence Award (7/1000+)
+
+# 📖 Educations
+- *2022.09 - present*, Master student, University of Science and Technology of China. 
+- *2018.09 - 2022.06*, Undergraduate, Dalian Universuty of Technology. 
 
 # 🐣 Invited Talks
 - *2024.08*, Review of Anomaly Detection Applications and Outlook for Extreme Event Forecasting. @ Tsinghua University
