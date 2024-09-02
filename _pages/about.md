@@ -23,12 +23,13 @@ I am Fan Xu, currently a second-year Master's student in Computer Science and Te
 **Email**: <u>markxu@mail.ustc.edu.cn</u>
 
 # 🔥 News
-- *2024.0826*: &nbsp; One paper was accepted by FCS 2024 (First Author).
-- *2024.0716*: &nbsp; One paper was accepted by ACM MM 2024 (Co-First Author).
-- *2024.0527*: &nbsp; One paper was accepted by ECML PKDD 2024 (First Author).
-- *2023.1209*: &nbsp; One paper was accepted by AAAI 2024 (First Author).
-- *2023.1027*: &nbsp; One paper was accepted by IEEE ICPADS 2023 (First Author).
-- *2023.0601*: &nbsp; One paper was accepted by IEEE SMC 2023 (First Author).
+- *2024.0826*: &nbsp;🎉🎉 One paper was accepted by FCS 2024 (First Author).
+- *2024.0716*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2024 (Co-First Author).
+- *2024.0527*: &nbsp;🎉🎉 One paper was accepted by ECML PKDD 2024 (First Author).
+- *2023.1209*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024 (First Author).
+- *2023.1027*: &nbsp;🎉🎉 One paper was accepted by IEEE ICPADS 2023 (First Author).
+- *2023.0601*: &nbsp;🎉🎉 One paper was accepted by IEEE SMC 2023 (First Author).
+
 
 # 📝 Publications 
 #### Anomaly Detection
