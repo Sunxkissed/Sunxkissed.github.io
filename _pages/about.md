@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am Fan Xu, currently a second-year Master's student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022. My research interest includes AI4Science, graph representation learning, anomaly detection, and large language model. Feel free to contact me for communication and collaboration!
+I am Fan Xu, currently a second-year master's student at the University of Science and Technology of China (USTC). Before that, I received my bachelor's degree from Dalian Universuty of Technology in 2022. My research interest includes AI4Science, graph representation learning, and large language model. Feel free to contact me for communication and collaboration!
+
+
 
 **Email**: <u>markxu@mail.ustc.edu.cn</u>
 
@@ -208,6 +210,7 @@ Hao Wu, Changhu Wang, Fan Xu, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo
 
 
 <!--
+I am Fan Xu, currently a second-year Master's student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022. My research interest includes AI4Science, graph representation learning, anomaly detection, and large language model. Feel free to contact me for communication and collaboration!
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ACM MM 2024``</span> [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://openreview.net/forum?id=mL0KvSwXzk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)).**Hao Wu**, **Fan Xu**, Chong Chen, Xian-Sheng Hua, Xiao Luo#, Haixin Wang#
 
