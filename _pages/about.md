@@ -105,7 +105,6 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 Cheng Yan, Ziwei Niu, WangZihao, Penghao Zhao, Kun Wang, Fan Xu#, Hao Wu#
 
 </div>
-</div>
 
 ---
 
@@ -116,7 +115,6 @@ Cheng Yan, Ziwei Niu, WangZihao, Penghao Zhao, Kun Wang, Fan Xu#, Hao Wu#
 
 **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Binyong Li, Hai Wan, Xibin Zhao
 
-</div>
 </div>
 
 ---
