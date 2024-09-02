@@ -11,6 +11,9 @@ main:
 
   - title: "Research Experience"
     url: "/#-research-experience"
+    
+  - title: "Project Skills"
+    url: "/#-project-skills"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -21,4 +24,5 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
