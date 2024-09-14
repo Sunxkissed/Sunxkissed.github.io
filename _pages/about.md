@@ -25,12 +25,12 @@ I am Fan Xu, currently a second-year master's student at the University of Scien
 **Email**: <u>markxu@mail.ustc.edu.cn</u>
 
 # 🔥 News
-- *2024.0826*: &nbsp; One paper was accepted by FCS 2024 (First Author).
-- *2024.0716*: &nbsp; One paper was accepted by ACM MM 2024 (Co-First Author).
-- *2024.0527*: &nbsp; One paper was accepted by ECML PKDD 2024 (First Author).
-- *2023.1209*: &nbsp; One paper was accepted by AAAI 2024 (First Author).
-- *2023.1027*: &nbsp; One paper was accepted by IEEE ICPADS 2023 (First Author).
-- *2023.0601*: &nbsp; One paper was accepted by IEEE SMC 2023 (First Author).
+- *2024.08*: &nbsp; One paper was accepted by FCS 2024 (First Author).
+- *2024.07*: &nbsp; One paper was accepted by ACM MM 2024 (Co-First Author).
+- *2024.05*: &nbsp; One paper was accepted by ECML PKDD 2024 (First Author).
+- *2023.12*: &nbsp; One paper was accepted by AAAI 2024 (First Author).
+- *2023.10*: &nbsp; One paper was accepted by IEEE ICPADS 2023 (First Author).
+- *2023.06*: &nbsp; One paper was accepted by IEEE SMC 2023 (First Author).
 
 
 # 📝 Publications 
@@ -218,6 +218,13 @@ I am Fan Xu, currently a second-year Master's student in Computer Science and Te
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://arxiv.org/abs/2305.11421).Hao Wu, Wei Xiong, Fan Xu, Xiao Luo#, Chong Chen, Xian-Sheng Hua, Haixin Wang#. Arxiv, 2024.
 
 I am adept at developing various deep learning algorithms using PyTorch. Specifically, I am proficient in various applications of Graph Neural Networks, including node-level, edge-level, graph-level, and spatio-temporal graph modeling. Additionally, I have successfully reproduced models such as FourCastNet, GraphCast and MeshGraphNet.
+
+- *2024.0826*: &nbsp; One paper was accepted by FCS 2024 (First Author).
+- *2024.0716*: &nbsp; One paper was accepted by ACM MM 2024 (Co-First Author).
+- *2024.0527*: &nbsp; One paper was accepted by ECML PKDD 2024 (First Author).
+- *2023.1209*: &nbsp; One paper was accepted by AAAI 2024 (First Author).
+- *2023.1027*: &nbsp; One paper was accepted by IEEE ICPADS 2023 (First Author).
+- *2023.0601*: &nbsp; One paper was accepted by IEEE SMC 2023 (First Author).
 
 # 🎖 Honors and Awards
 - *2023.10* Outstanding Graduate Student Award of Zhejiang University (Top 20%).
