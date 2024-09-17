@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am Fan Xu, currently a second-year master's student at the University of Science and Technology of China (USTC). Before that, I received my bachelor's degree from Dalian Universuty of Technology in 2022. My research interest includes AI4Science, graph representation learning, and large language model. Feel free to contact me for communication and collaboration!
+I am Fan Xu, currently a third-year master's student at the University of Science and Technology of China (USTC). Before that, I received my bachelor's degree from Dalian Universuty of Technology in 2022. My research interest includes AI4Science, graph representation learning, and large language model. Feel free to contact me for communication and collaboration!
 
 
 
@@ -43,7 +43,7 @@ I am Fan Xu, currently a second-year master's student at the University of Scien
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Reinforced Causal Discovery of Multivariate Time Series Anomaly Detection](https://openreview.net/forum?id=Z8aYM2spPP&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). **Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Binyong Li, Hai Wan, Xibin Zhao. Submitted to AAAI, 2025.
 
 #### Spatio-temporal Prediction
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://arxiv.org/abs/2305.11421).Hao Wu, Wei Xiong, Fan Xu, Xiao Luo#, Chong Chen, Xian-Sheng Hua, Haixin Wang#. Arxiv, 2024.
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ACM MM 2024``</span> [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://openreview.net/forum?id=mL0KvSwXzk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)).**Hao Wu**, **Fan Xu**, Chong Chen, Xian-Sheng Hua, Xiao Luo#, Haixin Wang#
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Earthfarseer-V2: A Versatile All-in-One Model for Learning Complex Spatio-Temporal Dynamics](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HdXMhfcAAAAJ&citation_for_view=HdXMhfcAAAAJ:IWHjjKOFINEC). Hao Wu, Junfeng Fang, Yuxuan Liang, Guibin Zhang, Fan Xu, Wei Xiong, Qingsong Wen, Yu Zheng, Kun Wang#. Submitted to TPAMI.
 
 #### AI for Science
