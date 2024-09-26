@@ -25,6 +25,7 @@ I am Fan Xu, currently a third-year master's student at the University of Scienc
 **Email**: <u>markxu@mail.ustc.edu.cn</u>
 
 # 🔥 News
+- *2024.09*: &nbsp; One paper was accepted by NeurIPS 2024.
 - *2024.08*: &nbsp; One paper was accepted by FCS 2024 (First Author).
 - *2024.07*: &nbsp; One paper was accepted by ACM MM 2024 (Co-First Author).
 - *2024.05*: &nbsp; One paper was accepted by ECML PKDD 2024 (First Author).
@@ -47,11 +48,11 @@ I am Fan Xu, currently a third-year master's student at the University of Scienc
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Earthfarseer-V2: A Versatile All-in-One Model for Learning Complex Spatio-Temporal Dynamics](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HdXMhfcAAAAJ&citation_for_view=HdXMhfcAAAAJ:IWHjjKOFINEC). Hao Wu, Junfeng Fang, Yuxuan Liang, Guibin Zhang, Fan Xu, Wei Xiong, Qingsong Wen, Yu Zheng, Kun Wang#. Submitted to TPAMI.
 
 #### AI for Science
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2024``</span> [PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling](https://openreview.net/forum?id=z86knmjoUq&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). Hao Wu, Changhu Wang, Fan Xu, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Spatio-temporal fluid dynamics modeling via physical-awareness and parameter diffusion guidance](https://arxiv.org/abs/2403.13850). **Hao Wu**, **Fan Xu**, Yifan Duan, Ziwei Niu, Weiyan Wang, Gaofeng Lu, Kun Wang, Yuxuan Liang#, Yang Wang#. Submitted to TKDE.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Open-CK: The Non-linear Chaotic Combustion Kinetics Benchmark](https://openreview.net/forum?id=mKFFEXeIQS&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). **Zaige Fei**, **Fan Xu**, Yuxuan Liang, Ziwei Niu, Penghao Zhao, Shuaipeng Li, Qingsong Wen, Tengyang Wan, Jinxiang Wang, Jinbao Xue, Hao Wu, Kun Wang, Yang Wang. Subbmitted to VLDB 2025.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [SOCST: Learning Continuous Physics Simulation Overcoming Discretization from Partial Observations](https://openreview.net/forum?id=6qeHCZljCq&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). **Fan Xu**, Cheng Yan, Penghao Zhao, Hao Wu, Kun Wang#, Yang Wang#. Submitted to AAAI 2025.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Leveraging Lie Point Symmetries and Causal Inference for Enhanced Neural PDE Solvers](https://openreview.net/forum?id=WkVxfNdIPk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). Cheng Yan, Ziwei Niu, WangZihao, Penghao Zhao, Kun Wang, Fan Xu#, Hao Wu#. Submitted to AAAI 2025.
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling](https://openreview.net/forum?id=z86knmjoUq&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). Hao Wu, Changhu Wang, Fan Xu, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo. Submitted to NeurIPS 2024.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Spatio-temporal Twins with A Cache for Modeling Long-term System Dynamics](https://openreview.net/forum?id=aE6HazMgRz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)). Hao Wu, Kun Wang, Fan Xu, Yue Li, Xu Wang, Weiyan Wang, Haixin Wang, Xiao Luo#.  Arxiv, 2024.
 
 
