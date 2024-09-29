@@ -59,24 +59,7 @@ I am Fan Xu, currently a third-year master's student at the University of Scienc
 
 
 
-#  💻 Research Experience
-<div style="display: flex; align-items: center;">
-  <img src="../images/ustc.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
-  <ul style="list-style-type: disc; padding-left: 20px;">
-    <li style="list-style-type: none;">Data Intelligence Research Center, Suzhou Institute for Advanced Research, USTC</li>
-    <li style="list-style-type: none;"><em>2023.09 - 2024.06</em>, <strong>Remote Internship</strong></li>
-    <li style="list-style-type: none;">mentored by Kun Wang and Yang Wang</li>
-  </ul>
-</div>
 
-<div style="display: flex; align-items: center;">
-  <img src="../images/tencent.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
-  <ul style="list-style-type: disc; padding-left: 20px;">
-    <li style="list-style-type: none;">Keen Security Lab, Tencent Technology (Shenzhen)</li>
-    <li style="list-style-type: none;"><em>2022.04 - 2023.05</em>, <strong>Remote Internship</strong></li>
-    <li style="list-style-type: none;">mentored by Mengxia Luo and Nan Wang</li>
-  </ul>
-</div>
 
 
 # 💬 Project Skills
@@ -230,6 +213,25 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 - *2023.1209*: &nbsp; One paper was accepted by AAAI 2024 (First Author).
 - *2023.1027*: &nbsp; One paper was accepted by IEEE ICPADS 2023 (First Author).
 - *2023.0601*: &nbsp; One paper was accepted by IEEE SMC 2023 (First Author).
+
+#  💻 Research Experience
+<div style="display: flex; align-items: center;">
+  <img src="../images/ustc.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li style="list-style-type: none;">Data Intelligence Research Center, Suzhou Institute for Advanced Research, USTC</li>
+    <li style="list-style-type: none;"><em>2023.09 - 2024.06</em>, <strong>Remote Internship</strong></li>
+    <li style="list-style-type: none;">mentored by Kun Wang and Yang Wang</li>
+  </ul>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/tencent.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li style="list-style-type: none;">Keen Security Lab, Tencent Technology (Shenzhen)</li>
+    <li style="list-style-type: none;"><em>2022.04 - 2023.05</em>, <strong>Remote Internship</strong></li>
+    <li style="list-style-type: none;">mentored by Mengxia Luo and Nan Wang</li>
+  </ul>
+</div>
 
 # 🎖 Honors and Awards
 - *2023.10* Outstanding Graduate Student Award of Zhejiang University (Top 20%).
