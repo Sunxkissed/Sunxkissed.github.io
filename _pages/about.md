@@ -83,7 +83,21 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 
 
 
+
 # 🕶️ Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/spark.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SPARK: Physics-Guided Quantitative Augmentation for Dynamical System Modeling](https://openreview.net/forum?id=BZQmpsuW7D&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
+
+**Fan Xu**, Penghao Zhao, Zhipeng Xu, Xinliang Zhou, Xinping Yi, Qingsong Wen, Hao Wu#, Kun Wang#
+
+</div>
+</div>
+
+---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/LIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,7 +115,7 @@ Cheng Yan, Ziwei Niu, WangZihao, Penghao Zhao, Kun Wang, Fan Xu#, Hao Wu#
 
 [Reinforced Causal Discovery of Multivariate Time Series Anomaly Detection](https://openreview.net/forum?id=MGNsP0LGte&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
 
-**Fan Xu**, Nan Wang, Hao Wu, Xuezhi Wen, Binyong Li, Hai Wan, Xibin Zhao
+**Fan Xu**, Nan Wang#, Hao Wu, Xuezhi Wen, Binyong Li, Hai Wan, Xibin Zhao#
 
 </div>
 </div>
@@ -125,7 +139,19 @@ Cheng Yan, Ziwei Niu, WangZihao, Penghao Zhao, Kun Wang, Fan Xu#, Hao Wu#
 
 [Open-CK: The Non-linear Chaotic Combustion Kinetics Benchmark](https://openreview.net/forum?id=mKFFEXeIQS&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
 
-**Zaige Fei**, **Fan Xu**, Yuxuan Liang, Ziwei Niu, Penghao Zhao, Shuaipeng Li, Qingsong Wen, Tengyang Wan, Jinxiang Wang, Jinbao Xue, Hao Wu, Kun Wang, Yang Wang
+**Zaige Fei**, **Fan Xu**, Junyuan Mao, Yuxuan Liang, Qingsong Wen, Kun Wang, Hao Wu#, Yang Wang#
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/fire.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[P-Align: Self-Alignment in Physical Dynamic System Modeling](https://openreview.net/forum?id=AgTSjXh7vl&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
+
+Zhipeng Xu, Fan Xu, Hanbin Wang, Xinliang Xin, Lilan Peng, Qingsong Wen, Kun Wang#, Hao Wu#
 
 </div>
 </div>
