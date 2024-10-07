@@ -26,13 +26,13 @@ I am Fan Xu, currently a third-year master's student at the University of Scienc
 
 
 # 🔥 News
-- *2024.09*: &nbsp; One paper was accepted by NeurIPS 2024.
-- *2024.08*: &nbsp; One paper was accepted by FCS 2024 (First Author).
-- *2024.07*: &nbsp; One paper was accepted by ACM MM 2024 (Co-First Author).
-- *2024.05*: &nbsp; One paper was accepted by ECML PKDD 2024 (First Author).
-- *2023.12*: &nbsp; One paper was accepted by AAAI 2024 (First Author).
-- *2023.10*: &nbsp; One paper was accepted by IEEE ICPADS 2023 (First Author).
-- *2023.06*: &nbsp; One paper was accepted by IEEE SMC 2023 (First Author).
+- *2024.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2024.
+- *2024.08*: &nbsp;🎉🎉 One paper was accepted by FCS 2024 (First Author).
+- *2024.07*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2024 (Co-First Author).
+- *2024.05*: &nbsp;🎉🎉 One paper was accepted by ECML PKDD 2024 (First Author).
+- *2023.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024 (First Author).
+- *2023.10*: &nbsp;🎉🎉 One paper was accepted by IEEE ICPADS 2023 (First Author).
+- *2023.06*: &nbsp;🎉🎉 One paper was accepted by IEEE SMC 2023 (First Author).
 
 
 
