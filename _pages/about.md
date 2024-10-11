@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am Fan Xu, currently a third-year master's student at the University of Science and Technology of China (USTC). Before that, I received my bachelor's degree from Dalian Universuty of Technology in 2022. My research interest includes AI4Science, graph representation learning, and large language model. Feel free to contact me for communication and collaboration!
+I am Fan Xu, currently a third-year master's student at the University of Science and Technology of China (USTC). Before that, I received my bachelor's degree from Dalian Universuty of Technology in 2022. My research interest includes AI4Science, spatiotemporal dynamics modeling, graph representation learning, and large language model. Feel free to contact me for communication and collaboration!
 
 
 
