@@ -41,7 +41,7 @@ I am Fan Xu, currently a third-year master's student at the University of Scienc
 
 #### AI for Science
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ACM MM 2024``</span> [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://openreview.net/forum?id=mL0KvSwXzk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)).**Hao Wu**, **Fan Xu**, Chong Chen, Xian-Sheng Hua, Xiao Luo#, Haixin Wang#
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Open-CK: The Non-linear Chaotic Combustion Kinetics Benchmark](https://openreview.net/forum?id=A23C57icJt&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). **Zaige Fei**, **Fan Xu**, Junyuan Mao, Yuxuan Liang, Qingsong Wen, Kun Wang, Hao Wu#, Yang Wang#
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2025``</span> [Open-CK: The Non-linear Chaotic Combustion Kinetics Benchmark](https://openreview.net/forum?id=A23C57icJt&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). **Zaige Fei**, **Fan Xu**, Junyuan Mao, Yuxuan Liang, Qingsong Wen, Kun Wang, Hao Wu#, Yang Wang#
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2024``</span> [PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling](https://openreview.net/forum?id=z86knmjoUq&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). Hao Wu, Changhu Wang, Fan Xu, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo
 
 #### Anomaly Detection
