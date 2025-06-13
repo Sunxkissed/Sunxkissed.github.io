@@ -88,6 +88,9 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 - *2024.08*, Review of Anomaly Detection Applications and Outlook for Extreme Event Forecasting. @ Tsinghua University
 - *2024.04*, Application and Research of Diffusion model within Timeseries Anomaly Detection. @ Beijing Jiaotong University
 
+# 💻 Academic service
+- Conference Reviewer:
+  ACMMM 2024 Conference Reviewers, KDD 2025 Conference Reviewers, ICLR 2025 Conference Reviewers, NeurIPS2025 Conference Reviewers
 
 
 # 🕶️ Selected Publications
