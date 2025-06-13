@@ -90,7 +90,8 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 
 # 💻 Academic service
 - Conference Reviewer:
-  ACMMM 2024 Conference Reviewers, KDD 2025 Conference Reviewers, ICLR 2025 Conference Reviewers, NeurIPS2025 Conference Reviewers
+
+ACMMM 2024 Conference Reviewers, KDD 2025 Conference Reviewers, ICLR 2025 Conference Reviewers, NeurIPS2025 Conference Reviewers
 
 
 # 🕶️ Selected Publications
