@@ -107,12 +107,51 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/cops' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/cops.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Breaking the Discretization Barrier of Continuous Physics Simulation Learning](https://openreview.net/forum?id=xVveBDPrgI&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
 
 **Fan Xu**, Hao Wu, Nan Wang, Lilan Peng, Kun Wang, Wei Gong<sup>*</sup>, Xibin Zhao<sup>*</sup>
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/triton.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Advanced long-term earth system forecasting by learning the small-scale nature](https://arxiv.org/abs/2505.19432)
+
+Hao Wu<sup>†</sup>, Yuan Gao<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun Wang<sup>†</sup>, Ruijian Gou<sup>†</sup>, Chuhan Wu<sup>†</sup>, Xinliang Liu, Juncai He, Shuhao Cao, Junfeng Fang, Xingjian Shi, Feng Tao, Qi Song, Shengxuan Ji, Yanfei Xiang, Yuze Sun, Jiahao Li, **Fan Xu**, Huanshuo Dong, Haixin Wang, Fan Zhang, Penghao Zhao, Xian Wu, Qingsong Wen, Deliang Chen, Xiaomeng Huang<sup>*</sup>
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/turb_l1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Turb-L1: Achieving Long-term Turbulence Tracing By Tackling Spectral Bias](https://arxiv.org/abs/2505.19038). 
+
+Hao Wu<sup>†</sup>, Yuan Gao<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Zean Han, **Fan Xu**, Zhihong Zhu, Qingsong Wen, Xian Wu, Kun Wang<sup>*</sup>, Xiaomeng Huang<sup>*</sup>
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/oneforecast.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://arxiv.org/abs/2502.00338)
+
+Yuan Gao<sup>†</sup>, Hao Wu<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Huanshuo Dong, **Fan Xu**, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>
+
+*ICML, 2025* 
 
 </div>
 </div>
@@ -140,20 +179,6 @@ Hao Wu<sup>†</sup>, **Fan Xu**<sup>†</sup>, Chong Chen, Xian-Sheng Hua, Xiao
 Zaige Fei<sup>†</sup>, **Fan Xu**<sup>†</sup>, Junyuan Mao, Yuxuan Liang, Qingsong Wen, Kun Wang, Hao Wu<sup>*</sup>, Yang Wang<sup>*</sup>
 
 *ICLR, 2025* 
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/oneforecast.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://arxiv.org/abs/2502.00338)
-
-Yuan Gao<sup>†</sup>, Hao Wu<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Huanshuo Dong, **Fan Xu**, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>
-
-*ICML, 2025* 
 
 </div>
 </div>
