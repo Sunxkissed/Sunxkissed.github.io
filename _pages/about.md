@@ -84,9 +84,7 @@ Feel free to contact me for communication and collaboration via Email: <u>markxu
 - *2024.04*, Application and Research of Diffusion model within Timeseries Anomaly Detection. @ Beijing Jiaotong University
 
 # 💻 Academic service
-- Conference Reviewer:
-
-  ACMMM 2024 Conference Reviewers, KDD 2025 Conference Reviewers, ICLR 2025 Conference Reviewers, NeurIPS2025 Conference Reviewers
+- Conference Reviewer: ACM MM 2024 Conference Reviewers, KDD 2025 Conference Reviewers, ICLR 2025 Conference Reviewers, NeurIPS2025 Conference Reviewers
 
 
 # 📖 Selected Publications
