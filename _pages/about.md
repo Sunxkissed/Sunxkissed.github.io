@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am Fan Xu, a Ph.D. student jointly trained by the University of Science and Technology of China (USTC) and the Shenzhen Loop Area Institute (SLAI). Before that, I finished my Master's studies at USTC, and I received my Bachelor degree in Dalian Universuty of Technology in 2022. My research interests are as follows:
+I am Fan Xu, a Ph.D. student jointly trained by the University of Science and Technology of China (USTC) and the Shenzhen Loop Area Institute (SLAI), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC, and I received my Bachelor degree in Dalian Universuty of Technology in 2022. My research interests are as follows:
 
 * **Scientific Machine Learning**: 
 
