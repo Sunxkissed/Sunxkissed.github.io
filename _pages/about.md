@@ -72,8 +72,7 @@ Feel free to contact me for communication and collaboration via Email: <u>markxu
 
 
 
-# 💬 Project Skills
-I am adept at developing various deep learning algorithms using PyTorch. Specifically, I am proficient in various applications of graph neural networks and spatio-temporal architectures. Also, I am highly interested in diverse neural operators for fluid dynamics modeling.
+
 
 # 🎖 Honors and Awards
 - *2022.11* China Collegiate Computing Competition - Intelligent Interaction Innovation Contest, National Finals Second Prize
@@ -273,7 +272,8 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 
 
 
-
+# 💬 Project Skills
+I am adept at developing various deep learning algorithms using PyTorch. Specifically, I am proficient in various applications of graph neural networks and spatio-temporal architectures. Also, I am highly interested in diverse neural operators for fluid dynamics modeling.
 
 
 
