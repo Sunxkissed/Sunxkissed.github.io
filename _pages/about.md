@@ -19,13 +19,23 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am Fan Xu, currently a third-year master's student at the University of Science and Technology of China (USTC). Before that, I received my bachelor's degree from Dalian Universuty of Technology in 2022. My research interest includes AI4Science, dynamical system modeling, graph representation learning, and large language model. Feel free to contact me for communication and collaboration!
+I am Fan Xu, a Ph.D. student jointly trained by the University of Science and Technology of China (USTC) and the Shenzhen Loop Area Institute (SLAI). My research interests are as follows:
 
+* **Scientific Machine Learning**: 
+
+* **Foundation Models**: 
+
+* **Large Language Model Reasoning**: 
+
+
+
+Feel free to contact me for communication and collaboration!
 
 **Email**: <u>markxu@mail.ustc.edu.cn</u>
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper was accepted by ICML 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 (Co-First Author).
 - *2024.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2024.
 - *2024.08*: &nbsp;🎉🎉 One paper was accepted by FCS 2024 (First Author).
