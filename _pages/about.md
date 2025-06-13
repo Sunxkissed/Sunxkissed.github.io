@@ -104,7 +104,7 @@ Hao Wu<sup>†</sup>, **Fan Xu**<sup>†</sup>, Chong Chen, Xian-Sheng Hua, Xiao
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/fire.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/fire.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Open-CK: The Non-linear Chaotic Combustion Kinetics Benchmark](https://openreview.net/forum?id=mKFFEXeIQS&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
@@ -112,6 +112,20 @@ Hao Wu<sup>†</sup>, **Fan Xu**<sup>†</sup>, Chong Chen, Xian-Sheng Hua, Xiao
 Zaige Fei<sup>†</sup>, **Fan Xu**<sup>†</sup>, Junyuan Mao, Yuxuan Liang, Qingsong Wen, Kun Wang, Hao Wu<sup>*</sup>, Yang Wang<sup>*</sup>
 
 *ICLR, 2025* 
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/oneforecast.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://arxiv.org/abs/2502.00338)
+
+Yuan Gao<sup>†</sup>, Hao Wu<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Huanshuo Dong, **Fan Xu**, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>
+
+*ICML, 2025* 
 
 </div>
 </div>
