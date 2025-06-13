@@ -25,7 +25,6 @@ I am Fan Xu, a Ph.D. student jointly trained by the University of Science and Te
 
 * **Large Language Model Reasoning**: I focus on moving beyond pattern generation to realize efficient reasoning in Large Language Models. This involves investigating the cognitive mechanisms of LLMs, exploring their intrinsic "thought patterns" to improve how they tackle complex problems. Crucially, a parallel focus of my work is addressing the fundamental challenges of safety and hallucination in both Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs). 
 
-I am seeking passionate and like-minded collaborators.
 Feel free to contact me for communication and collaboration via Email: <u>markxu@mail.ustc.edu.cn</u>.
 
 
