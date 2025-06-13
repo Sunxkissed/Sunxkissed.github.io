@@ -93,17 +93,36 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 
 
 
-
-
-
-
-
 # 🕶️ Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/spark.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Physics-Guided Quantitative Augmentation for Dynamical System Modeling](https://openreview.net/forum?id=BZQmpsuW7D&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
+
+**Fan Xu**, Hao Wu, Nan Wang, Yufei Guo, Wei Gong, Kun Wang<sup>*</sup>, Xibin Zhao<sup>*</sup>
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/cops' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Breaking the Discretization Barrier of Continuous Physics Simulation Learning](https://openreview.net/forum?id=xVveBDPrgI&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
+
+**Fan Xu**, Hao Wu, Nan Wang, Lilan Peng, Kun Wang, Wei Gong<sup>*</sup>, Xibin Zhao<sup>*</sup>
+
+</div>
+</div>
+
+---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='../images/MM_pastnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://openreview.net/forum?id=mL0KvSwXzk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
+[PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://arxiv.org/abs/2305.11421)
 
 Hao Wu<sup>†</sup>, **Fan Xu**<sup>†</sup>, Chong Chen, Xian-Sheng Hua, Xiao Luo<sup>*</sup>, Haixin Wang<sup>*</sup>
 
