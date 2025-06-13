@@ -29,9 +29,7 @@ I am Fan Xu, a Ph.D. student jointly trained by the University of Science and Te
 
 
 
-Feel free to contact me for communication and collaboration!
-
-**Email**: <u>markxu@mail.ustc.edu.cn</u>
+Feel free to contact me for communication and collaboration via Email: <u>markxu@mail.ustc.edu.cn</u>.
 
 
 # 🔥 News
