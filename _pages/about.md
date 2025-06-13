@@ -64,14 +64,13 @@ Feel free to contact me for communication and collaboration!
 
 
 
-
-
-#### Anomaly Detection
+#### Graph Representation Learning and Anomaly Detection
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``AAAI 2024``</span> [Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum](https://arxiv.org/abs/2312.06441). **Fan Xu**, Nan Wang<sup>*</sup>, Hao Wu, Xuezhi Wen, Xibin Zhao<sup>*</sup>, Hai Wan
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECML PKDD 2024``</span> [GLADformer: A Mixed Perspective for Graph-level Anomaly Detection](https://arxiv.org/abs/2406.00734). **Fan Xu**, Nan Wang<sup>*</sup>, Hao Wu, Xuezhi Wen, Dalin Zhang, Siyang Lu, Binyong Li, Wei Gong, Hai Wan, Xibin Zhao<sup>*</sup>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``FCS 2024``</span> [Advanced Persistent Threat Detection via Mining Long-Term Features in Provenance Graphs](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HdXMhfcAAAAJ&citation_for_view=HdXMhfcAAAAJ:IWHjjKOFINEC). **Fan Xu**, Qinxin Zhao, Xiaoxiao Liu, Nan Wang<sup>*</sup>, Meiqi Gao, Xuezhi Wen, Dalin Zhang
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE ICPADS 2023``</span> [Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection](https://arxiv.org/abs/2311.10370). **Fan Xu**, Nan Wang<sup>*</sup>, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, Xibin Zhao<sup>*</sup>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE SMC 2023``</span> [Exploring Global and Local Information for Anomaly Detection with Normal Samples](https://arxiv.org/abs/2306.02025). **Fan Xu**, Nan Wang<sup>*</sup>, Xibin Zhao<sup>*</sup>
+
 
 
 
