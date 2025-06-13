@@ -53,7 +53,14 @@ Feel free to contact me for communication and collaboration!
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ACM MM 2024``</span> [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://openreview.net/forum?id=mL0KvSwXzk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)).Hao Wu<sup>†</sup>, **Fan Xu**<sup>†</sup>, Chong Chen, Xian-Sheng Hua, Xiao Luo<sup>*</sup>, Haixin Wang<sup>*</sup>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2025``</span> [Open-CK: The Non-linear Chaotic Combustion Kinetics Benchmark](https://openreview.net/forum?id=A23C57icJt&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). Zaige Fei<sup>†</sup>, **Fan Xu**<sup>†</sup>, Junyuan Mao, Yuxuan Liang, Qingsong Wen, Kun Wang, Hao Wu<sup>*</sup>, Yang Wang<sup>*</sup>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2024``</span> [PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling](https://openreview.net/forum?id=z86knmjoUq&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). Hao Wu, Changhu Wang, **Fan Xu**, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo<sup>*</sup>
-- Yuan Gao, Hao Wu, Ruiqi Shu, Huanshuo Dong, **Fan Xu**, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>, [OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://arxiv.org/abs/2502.00338), **ICML 2025**
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICML 2025``</span> [OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://arxiv.org/abs/2502.00338). Yuan Gao, Hao Wu, Ruiqi Shu, Huanshuo Dong, **Fan Xu**, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Physics-Guided Quantitative Augmentation for Dynamical System Modeling](https://openreview.net/forum?id=BZQmpsuW7D&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). **Fan Xu**, Hao Wu, Nan Wang, Yufei Guo, Wei Gong, Kun Wang<sup>*</sup>, Xibin Zhao<sup>*</sup>
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Physics-Guided Quantitative Augmentation for Dynamical System Modeling](https://openreview.net/forum?id=xVveBDPrgI&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). **Fan Xu**, Hao Wu, Nan Wang, Lilan Peng, Kun Wang, Wei Gong<sup>*</sup>, Xibin Zhao<sup>*</sup>
+
+
+
+
+
 
 
 #### Anomaly Detection
