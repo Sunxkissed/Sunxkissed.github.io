@@ -80,10 +80,6 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 - *2022.09* First-class Academic Scholarship of the University of Science and Technology of China.
 - *2022.06* HarmonyOS Developer Competition - Global Campus AI Algorithm Elite Track, Star Excellence Award (7/1000+)
 
-# 📖 Educations
-- *2022.09 - present*, Master student, University of Science and Technology of China. 
-- *2018.09 - 2022.06*, Undergraduate, Dalian Universuty of Technology. 
-
 # 🐣 Invited Talks
 - *2024.08*, Review of Anomaly Detection Applications and Outlook for Extreme Event Forecasting. @ Tsinghua University
 - *2024.04*, Application and Research of Diffusion model within Timeseries Anomaly Detection. @ Beijing Jiaotong University
@@ -94,7 +90,7 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
   ACMMM 2024 Conference Reviewers, KDD 2025 Conference Reviewers, ICLR 2025 Conference Reviewers, NeurIPS2025 Conference Reviewers
 
 
-# 🕶️ Selected Publications
+# 📖 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/spark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
