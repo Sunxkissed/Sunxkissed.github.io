@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am Fan Xu, currently a second-year Master’s student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022. My research interests are as follows:
+I am Fan Xu, currently a third-year Master’s student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022. My research interests are as follows:
 
 * **Scientific Machine Learning**: I focus on bridging the gap between traditional numerical methods and modern deep learning. The objective is to overcome the limitations of both: the high computational cost of high-fidelity simulations and the physical inconsistency of purely data-driven models. My research aims to accelerate complex simulations and enable robust predictions from sparse or noisy data, paving the way for advancements in areas like fluid dynamics and climate modeling.
 
