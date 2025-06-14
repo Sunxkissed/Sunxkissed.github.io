@@ -23,7 +23,7 @@ I am Fan Xu, a first-year Ph.D. student jointly trained by the University of Sci
 
 * **Scientific Machine Learning**: I focus on bridging the gap between traditional numerical methods and modern deep learning. The objective is to overcome the limitations of both: the high computational cost of high-fidelity simulations and the physical inconsistency of purely data-driven models. My research aims to accelerate complex simulations and enable robust predictions from sparse or noisy data, paving the way for advancements in areas like fluid dynamics and climate modeling.
 
-* **Large Language Model Reasoning**: I focus on moving beyond pattern generation to realize efficient reasoning in Large Language Models. This involves investigating the cognitive mechanisms of LLMs, exploring their intrinsic "thought patterns" to improve how they tackle complex problems. Crucially, a parallel focus of my work is addressing the fundamental challenges of safety and hallucination in both Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs). 
+* **Large Language Model Reasoning**: I focus on moving beyond pattern generation to realize efficient reasoning in Large Language Models. This involves investigating the cognitive mechanisms of LLMs, exploring their intrinsic thought patterns to improve how they tackle complex problems. Crucially, a parallel focus is addressing the fundamental challenges of safety and hallucination in both Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs). 
 
 Feel free to contact me for communication and collaboration via Email: <u>markxu@mail.ustc.edu.cn</u>.
 
