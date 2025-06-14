@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am Fan Xu, a first-year Ph.D. student jointly trained by the University of Science and Technology of China (USTC) and the Shenzhen Loop Area Institute (SLAI), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC, and I received my Bachelor degree at Dalian Universuty of Technology in 2022. My research interests are as follows:
+I am Fan Xu, currently a second-year Master’s student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022. My research interests are as follows:
 
 * **Scientific Machine Learning**: I focus on bridging the gap between traditional numerical methods and modern deep learning. The objective is to overcome the limitations of both: the high computational cost of high-fidelity simulations and the physical inconsistency of purely data-driven models. My research aims to accelerate complex simulations and enable robust predictions from sparse or noisy data, paving the way for advancements in areas like fluid dynamics and climate modeling.
 
@@ -268,6 +268,8 @@ I am adept at developing various deep learning algorithms using PyTorch. Specifi
 - *2023.1027*: &nbsp; One paper was accepted by IEEE ICPADS 2023 (First Author).
 - *2023.0601*: &nbsp; One paper was accepted by IEEE SMC 2023 (First Author).
 
+
+I am Fan Xu, a first-year Ph.D. student jointly trained by the University of Science and Technology of China (USTC) and the Shenzhen Loop Area Institute (SLAI), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC, and I received my Bachelor degree at Dalian Universuty of Technology in 2022. My research interests are as follows:
 
 
 # 💬 Project Skills
