@@ -71,9 +71,6 @@ Feel free to contact me for communication and collaboration via Email: <u>markxu
 
 
 
-
-
-
 # 🎖 Honors and Awards
 - *2022.11* China Collegiate Computing Competition - Intelligent Interaction Innovation Contest, National Finals Second Prize
 - *2022.09* First-class Academic Scholarship of the University of Science and Technology of China.
@@ -85,6 +82,8 @@ Feel free to contact me for communication and collaboration via Email: <u>markxu
 
 # 💻 Academic service
 - Conference Reviewer: ACM MM 2024 Conference Reviewers, KDD 2025 Conference Reviewers, ICLR 2025 Conference Reviewers, NeurIPS 2025 Conference Reviewers
+
+
 
 
 # 📖 Selected Publications
