@@ -19,15 +19,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am Fan Xu, a first-year Ph.D. student jointly trained by the University of Science and Technology of China (USTC) and the Shenzhen Loop Area Institute (SLAI), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC, and I received my Bachelor degree at Dalian Universuty of Technology in 2022. My research interests are as follows:
+I am Fan Xu, a first-year Ph.D. student jointly trained by the University of Science and Technology of China (USTC) and the Shenzhen Loop Area Institute (SLAI), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC, and I received my Bachelor degree at Dalian Universuty of Technology in 2022. My research interest mainly includes foundation model, scientific machine learning, and world model.
 
-* **Scientific Machine Learning**: I focus on bridging the gap between traditional numerical methods and modern deep learning. The objective is to overcome the limitations of both: the high computational cost of high-fidelity simulations and the physical inconsistency of purely data-driven models. My research aims to accelerate complex simulations and enable robust predictions from sparse or noisy data, paving the way for advancements in areas like fluid dynamics and climate modeling.
+Feel free to contact me for communication and collaboration.
 
-* **Large Language Model Reasoning**: I focus on moving beyond pattern generation to realize efficient reasoning in Large Language Models. This involves investigating the cognitive mechanisms of LLMs, exploring their intrinsic thought patterns to improve how they tackle complex problems. Crucially, a parallel focus is addressing the fundamental challenges of safety and hallucination in both Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs). 
-
-Feel free to contact me for communication and collaboration via Email: <u>markxu@mail.ustc.edu.cn</u>.
-
-
+**Email**: <u>markxu@mail.ustc.edu.cn</u>  &nbsp;  **Wechat**: Markxu_0111
 
 
 
@@ -51,8 +47,8 @@ Feel free to contact me for communication and collaboration via Email: <u>markxu
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2025``</span> [Open-CK: The Non-linear Chaotic Combustion Kinetics Benchmark](https://openreview.net/forum?id=A23C57icJt&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). Zaige Fei<sup>†</sup>, **Fan Xu**<sup>†</sup>, Junyuan Mao, Yuxuan Liang, Qingsong Wen, Kun Wang, Hao Wu<sup>*</sup>, Yang Wang<sup>*</sup>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2024``</span> [PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling](https://openreview.net/forum?id=z86knmjoUq&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). Hao Wu, Changhu Wang, **Fan Xu**, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo<sup>*</sup>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICML 2025``</span> [OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://arxiv.org/abs/2502.00338). Yuan Gao, Hao Wu, Ruiqi Shu, Huanshuo Dong, **Fan Xu**, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Physics-Guided Quantitative Augmentation for Dynamical System Modeling](https://openreview.net/forum?id=BZQmpsuW7D&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). **Fan Xu**, Hao Wu, Nan Wang, Yufei Guo, Wei Gong, Kun Wang<sup>*</sup>, Xibin Zhao<sup>*</sup>
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Breaking the Discretization Barrier of Continuous Physics Simulation Learning](https://openreview.net/forum?id=xVveBDPrgI&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). **Fan Xu**, Hao Wu, Nan Wang, Lilan Peng, Kun Wang<sup>*</sup>, Wei Gong, Xibin Zhao<sup>*</sup>
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Physics-Guided Quantitative Augmentation for Dynamical System Modeling](https://openreview.net/forum?id=BZQmpsuW7D&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). **Fan Xu**, Hao Wu, Nan Wang, Yufei Guo, Wei Gong, Kun Wang, Xibin Zhao<sup>*</sup>
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Breaking the Discretization Barrier of Continuous Physics Simulation Learning](https://openreview.net/forum?id=xVveBDPrgI&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). **Fan Xu**, Hao Wu, Nan Wang, Lilan Peng, Kun Wang, Wei Gong, Xibin Zhao<sup>*</sup>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Advanced long-term earth system forecasting by learning the small-scale nature](https://arxiv.org/abs/2505.19432). Hao Wu<sup>†</sup>, Yuan Gao<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun Wang<sup>†</sup>, Ruijian Gou<sup>†</sup>, Chuhan Wu<sup>†</sup>, Xinliang Liu, Juncai He, Shuhao Cao, Junfeng Fang, Xingjian Shi, Feng Tao, Qi Song, Shengxuan Ji, Yanfei Xiang, Yuze Sun, Jiahao Li, **Fan Xu**, Huanshuo Dong, Haixin Wang, Fan Zhang, Penghao Zhao, Xian Wu, Qingsong Wen, Deliang Chen, Xiaomeng Huang<sup>*</sup>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Turb-L1: Achieving Long-term Turbulence Tracing By Tackling Spectral Bias](https://arxiv.org/abs/2505.19038). Hao Wu<sup>†</sup>, Yuan Gao<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Zean Han, **Fan Xu**, Zhihong Zhu, Qingsong Wen, Xian Wu, Kun Wang<sup>*</sup>, Xiaomeng Huang<sup>*</sup>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation](https://arxiv.org/abs/2505.21020). Yuan Gao<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Hao Wu<sup>†</sup>, **Fan Xu**, Yanfei Xiang, Ruijian Gou, Qingsong Wen, Xian Wu, Xiaomeng Huang<sup>*</sup>
@@ -93,7 +89,7 @@ Feel free to contact me for communication and collaboration via Email: <u>markxu
 
 [Physics-Guided Quantitative Augmentation for Dynamical System Modeling](https://openreview.net/forum?id=BZQmpsuW7D&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
 
-**Fan Xu**, Hao Wu, Nan Wang, Yufei Guo, Wei Gong, Kun Wang<sup>*</sup>, Xibin Zhao<sup>*</sup>
+**Fan Xu**, Hao Wu, Nan Wang, Yufei Guo, Wei Gong, Kun Wang, Xibin Zhao<sup>*</sup>
 
 </div>
 </div>
@@ -105,7 +101,7 @@ Feel free to contact me for communication and collaboration via Email: <u>markxu
 
 [Breaking the Discretization Barrier of Continuous Physics Simulation Learning](https://openreview.net/forum?id=xVveBDPrgI&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
 
-**Fan Xu**, Hao Wu, Nan Wang, Lilan Peng, Kun Wang<sup>*</sup>, Wei Gong, Xibin Zhao<sup>*</sup>
+**Fan Xu**, Hao Wu, Nan Wang, Lilan Peng, Kun Wang, Wei Gong, Xibin Zhao<sup>*</sup>
 
 </div>
 </div>
@@ -251,6 +247,14 @@ redirect_from:
 
 
 I am Fan Xu, currently a second-year Master's student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022. My research interest includes AI4Science, graph representation learning, anomaly detection, and large language model. Feel free to contact me for communication and collaboration!
+
+
+My research interests are as follows:
+
+* **Scientific Machine Learning**: I focus on bridging the gap between traditional numerical methods and modern deep learning. The objective is to overcome the limitations of both: the high computational cost of high-fidelity simulations and the physical inconsistency of purely data-driven models. My research aims to accelerate complex simulations and enable robust predictions from sparse or noisy data, paving the way for advancements in areas like fluid dynamics and climate modeling.
+
+* **Large Language Model Reasoning**: I focus on moving beyond pattern generation to realize efficient reasoning in Large Language Models. This involves investigating the cognitive mechanisms of LLMs, exploring their intrinsic thought patterns to improve how they tackle complex problems. Crucially, a parallel focus is addressing the fundamental challenges of safety and hallucination in both Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs). 
+
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ACM MM 2024``</span> [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://openreview.net/forum?id=mL0KvSwXzk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)).**Hao Wu**, **Fan Xu**, Chong Chen, Xian-Sheng Hua, Xiao Luo#, Haixin Wang#
 
