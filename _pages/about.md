@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am Fan Xu, a first-year Ph.D. student jointly trained by the University of Science and Technology of China (USTC) and the Shenzhen Loop Area Institute (SLAI), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC, and I received my Bachelor degree at Dalian Universuty of Technology in 2022. My research interest mainly includes foundation model, scientific machine learning, and world model. Feel free to contact me for communication and collaboration.
+I am Fan Xu, a first-year Ph.D. student jointly trained by the University of Science and Technology of China (USTC) and the Shenzhen Loop Area Institute (SLAI), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC, and I received my Bachelor degree at Dalian Universuty of Technology. My research interest mainly includes foundation model, scientific machine learning, and world model. Feel free to contact me for communication and collaboration.
 
 **Email**: <u>markxu@mail.ustc.edu.cn</u>  &nbsp;  **Wechat**: Markxu_0111
 
@@ -60,8 +60,6 @@ I am Fan Xu, a first-year Ph.D. student jointly trained by the University of Sci
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE SMC 2023``</span> [Exploring Global and Local Information for Anomaly Detection with Normal Samples](https://arxiv.org/abs/2306.02025). **Fan Xu**, Nan Wang<sup>*</sup>, Xibin Zhao<sup>*</sup>
 
 
-
-
 # 🎖 Honors and Awards
 - *2022.11* China Collegiate Computing Competition - Intelligent Interaction Innovation Contest, National Finals Second Prize
 - *2022.09* First-class Academic Scholarship of the University of Science and Technology of China.
@@ -69,11 +67,9 @@ I am Fan Xu, a first-year Ph.D. student jointly trained by the University of Sci
 
 # 🐣 Invited Talks
 - *2024.08*, Review of Anomaly Detection Applications and Outlook for Extreme Event Forecasting. @ Tsinghua University
-- *2024.04*, Application and Research of Diffusion model within Timeseries Anomaly Detection. @ Beijing Jiaotong University
 
 # 💻 Academic service
 - Conference Reviewer: ACM MM 2024 Conference Reviewers, KDD 2025 Conference Reviewers, ICLR 2025 Conference Reviewers, NeurIPS 2025 Conference Reviewers
-
 
 
 
@@ -273,6 +269,7 @@ I am Fan Xu, currently a third-year Master’s student in Computer Science and T
 # 💬 Project Skills
 I am adept at developing various deep learning algorithms using PyTorch. Specifically, I am proficient in various applications of graph neural networks and spatio-temporal architectures. Also, I am highly interested in diverse neural operators for fluid dynamics modeling.
 
+- *2024.04*, Application and Research of Diffusion model within Timeseries Anomaly Detection. @ Beijing Jiaotong University
 
 
 #### AI for Science
