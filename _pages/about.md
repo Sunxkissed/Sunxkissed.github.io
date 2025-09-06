@@ -19,7 +19,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am Fan Xu, a first-year Ph.D. student jointly trained by the University of Science and Technology of China (USTC) and the Shenzhen Loop Area Institute (SLAI), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC, and I received my Bachelor degree at Dalian Universuty of Technology. My research interest mainly includes foundation model, scientific machine learning, and world model. Feel free to contact me for communication and collaboration.
+I am Fan Xu, a first-year Ph.D. student trained by the University of Science and Technology of China (USTC), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC, and I received my Bachelor degree at Dalian Universuty of Technology. My research interest mainly includes foundation model, scientific machine learning, and world model. 
+
+Feel free to contact me for communication and collaboration.
 
 **Email**: <u>markxu@mail.ustc.edu.cn</u>  &nbsp;  **Wechat**: Markxu_0111
 
