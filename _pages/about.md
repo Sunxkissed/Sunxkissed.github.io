@@ -76,6 +76,18 @@ I am Fan Xu, a first-year Ph.D. student trained by the University of Science and
 
 # 📖 Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/HiGO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Advanced Global Wildfire Activity Modeling with Hierarchical Graph ODE](https://openreview.net/forum?id=ieh9QzG6VO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DKDD.org%2F2026%2FResearch_Track_August%2FAuthors%23your-submissions))
+
+**Fan Xu**, Wei Gong, Hao Wu, Nan Wang, Qingsong Wen, Xian Wu, Kun Wang, Xibin Zhao<sup>*</sup>
+
+</div>
+</div>
+
+---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/spark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -91,7 +103,7 @@ I am Fan Xu, a first-year Ph.D. student trained by the University of Science and
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/cops.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Breaking the Discretization Barrier of Continuous Physics Simulation Learning](https://openreview.net/forum?id=xVveBDPrgI&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
+[Breaking the Discretization Barrier of Continuous Physics Simulation Learning](https://openreview.net/forum?id=xVveBDPrgI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 
 **Fan Xu**, Hao Wu, Nan Wang, Lilan Peng, Kun Wang, Wei Gong, Xibin Zhao<sup>*</sup>
 
@@ -176,6 +188,18 @@ Zaige Fei<sup>†</sup>, **Fan Xu**<sup>†</sup>, Junyuan Mao, Yuxuan Liang, Qi
 Hao Wu, Changhu Wang, **Fan Xu**, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo<sup>*</sup>
 
 *NeurIPS, 2024* 
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/CIDeR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Counterfactual-Invariant Representations for Robust Time Series Anomaly Detection](https://openreview.net/forum?id=YYRAWFOlk7&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FConference%2FAuthors%23your-submissions))
+
+**Fan Xu**, Nan Wang, Hao Wu, Cheng Yan, Hai Wan, Wei Gong, Hairong Dong, Xibin Zhao<sup>*</sup>
 
 </div>
 </div>
