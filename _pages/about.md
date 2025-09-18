@@ -182,17 +182,6 @@ Hao Wu, Changhu Wang, **Fan Xu**, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao L
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/diffusion.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Spatio-temporal fluid dynamics modeling via physical-awareness and parameter diffusion guidance](https://arxiv.org/abs/2403.13850)
-
-Hao Wu<sup>†</sup>, **Fan Xu**<sup>†</sup>, Yifan Duan, Ziwei Niu, Weiyan Wang, Gaofeng Lu, Kun Wang, Yuxuan Liang<sup>*</sup>, Yang Wang<sup>*</sup>
-</div>
-</div>
-
----
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='../images/ecml.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
