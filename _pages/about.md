@@ -19,22 +19,32 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am Fan Xu, a first-year Ph.D. student trained by the University of Science and Technology of China (USTC), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC. My research interest mainly includes foundation models, scientific machine learning, and world models. Feel free to contact me for communication and collaboration.
+I am currently a first-year Ph.D. student at the University of Science and Technology of China (USTC), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC. My research interest mainly includes foundation models, scientific machine learning, and world models. Feel free to contact me for communication and collaboration.
 
 **Email**: <u>markxu@mail.ustc.edu.cn</u>  &nbsp;  **Wechat**: Markxu_0111
 
 
-# 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2025 (First Author).
-- *2025.05*: &nbsp;🎉🎉 One paper was accepted by ICML 2025.
-- *2025.01*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 (Co-First Author).
-- *2024.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2024.
-- *2024.08*: &nbsp;🎉🎉 One paper was accepted by FCS 2024 (First Author).
-- *2024.07*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2024 (Co-First Author).
-- *2024.05*: &nbsp;🎉🎉 One paper was accepted by ECML PKDD 2024 (First Author).
-- *2023.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024 (First Author).
-- *2023.10*: &nbsp;🎉🎉 One paper was accepted by IEEE ICPADS 2023 (First Author).
-- *2023.06*: &nbsp;🎉🎉 One paper was accepted by IEEE SMC 2023 (First Author).
+
+<h1 id='news'>🔥 News</h1>
+<style>
+  .scrollable {
+    max-height: 260px; /* 设置最大高度 */
+    overflow-y: scroll; /* 设置垂直滚动条 */
+  }
+</style>
+
+<div class="scrollable">
+  <ul>
+    <li><strong>2025.09.18</strong>: 1 papers were accepted to NeurIPS2025 (First Author).</li>
+    <li><strong>2025.09.10</strong>: I have joined Shenzhen Loop Area Institute as a Phd student @ SLAI. </li>
+    <li><strong>2025.05.01</strong>: 1 paper was accepted to ICML2025.</li>
+    <li><strong>2025.01.22</strong>: 1 paper was accepted to ICLR2025 (Co-First Author).</li>
+    <li><strong>2024.09.26</strong>: 1 paper was accepted to NeurIPS2024.</li>
+    <li><strong>2024.07.16</strong>: 1 paper was accepted to ACM MM2024 (Co-First Author).</li>
+    <li><strong>2024.05.27</strong>: 1 paper was accepted to ECML2024 (First Author).</li>
+    <li><strong>2023.12.09</strong>: 1 paper was accepted to AAAI2024 (First Author).</li>
+  </ul>
+</div>
 
 
 
@@ -252,6 +262,9 @@ redirect_from:
 
 
 
+I am Fan Xu, a first-year Ph.D. student trained by the University of Science and Technology of China (USTC), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC. My research interest mainly includes foundation models, scientific machine learning, and world models. Feel free to contact me for communication and collaboration.
+
+
 I am Fan Xu, currently a second-year Master's student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022. My research interest includes AI4Science, graph representation learning, anomaly detection, and large language model. Feel free to contact me for communication and collaboration!
 
 
@@ -260,6 +273,19 @@ My research interests are as follows:
 * **Scientific Machine Learning**: I focus on bridging the gap between traditional numerical methods and modern deep learning. The objective is to overcome the limitations of both: the high computational cost of high-fidelity simulations and the physical inconsistency of purely data-driven models. My research aims to accelerate complex simulations and enable robust predictions from sparse or noisy data, paving the way for advancements in areas like fluid dynamics and climate modeling.
 
 * **Large Language Model Reasoning**: I focus on moving beyond pattern generation to realize efficient reasoning in Large Language Models. This involves investigating the cognitive mechanisms of LLMs, exploring their intrinsic thought patterns to improve how they tackle complex problems. Crucially, a parallel focus is addressing the fundamental challenges of safety and hallucination in both Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs). 
+
+
+# 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2025 (First Author).
+- *2025.05*: &nbsp;🎉🎉 One paper was accepted by ICML 2025.
+- *2025.01*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 (Co-First Author).
+- *2024.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2024.
+- *2024.08*: &nbsp;🎉🎉 One paper was accepted by FCS 2024 (First Author).
+- *2024.07*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2024 (Co-First Author).
+- *2024.05*: &nbsp;🎉🎉 One paper was accepted by ECML PKDD 2024 (First Author).
+- *2023.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024 (First Author).
+- *2023.10*: &nbsp;🎉🎉 One paper was accepted by IEEE ICPADS 2023 (First Author).
+- *2023.06*: &nbsp;🎉🎉 One paper was accepted by IEEE SMC 2023 (First Author).
 
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ACM MM 2024``</span> [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://openreview.net/forum?id=mL0KvSwXzk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)).**Hao Wu**, **Fan Xu**, Chong Chen, Xian-Sheng Hua, Xiao Luo#, Haixin Wang#
