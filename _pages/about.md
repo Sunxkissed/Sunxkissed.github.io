@@ -19,7 +19,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a first-year Ph.D. student at Shenzhen Loop Area Institute (SLAI), supervised by [Prof. Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN&oi=ao). Before that, I conducted my Master's studies at USTC. My research interest mainly includes foundation models, scientific machine learning, and world models. Feel free to contact me for communication and collaboration.
+I am currently a first-year Ph.D. student at Shenzhen Loop Area Institute (SLAI), supervised by [Prof. Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN&oi=ao). Before that, I conducted my Master's studies at USTC. My research interest mainly includes foundation models, scientific machine learning, and world models.
+
+<span style="color:red;">Please feel free to contact me for communication and collaboration.</span>
 
 **Email**: <u>markxu@mail.ustc.edu.cn</u>  &nbsp;  **Wechat**: Markxu_0111
 
@@ -266,7 +268,6 @@ redirect_from:
 I am Fan Xu, a first-year Ph.D. student trained by the University of Science and Technology of China (USTC), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC. My research interest mainly includes foundation models, scientific machine learning, and world models. Feel free to contact me for communication and collaboration.
 
 I am currently a first-year Ph.D. student at the University of Science and Technology of China (USTC), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC. My research interest mainly includes foundation models, scientific machine learning, and world models. Feel free to contact me for communication and collaboration.
-
 
 I am Fan Xu, currently a second-year Master's student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022. My research interest includes AI4Science, graph representation learning, anomaly detection, and large language model. Feel free to contact me for communication and collaboration!
 
