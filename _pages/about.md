@@ -23,9 +23,7 @@ I am currently a first-year Ph.D. student at Shenzhen Loop Area Institute (SLAI)
 
 <span style="color:red;">Please feel free to contact me for communication and collaboration.</span>
 
-**Email**: <u>markxu@mail.ustc.edu.cn</u>  &nbsp;  **Wechat**: Markxu_0111
-
-
+**Email**: <u>markxu@mail.ustc.edu.cn</u> or <u>fanxu@slai.edu.cn</u> &nbsp; &nbsp;  **Wechat**: Markxu_0111
 
 
 <h1 id='news'>🔥 News</h1>
