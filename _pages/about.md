@@ -110,7 +110,7 @@ I am currently a first-year Ph.D. student at Shenzhen Loop Area Institute (SLAI)
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/cops.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/cops.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Breaking the Discretization Barrier of Continuous Physics Simulation Learning](https://openreview.net/forum?id=xVveBDPrgI&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions))
