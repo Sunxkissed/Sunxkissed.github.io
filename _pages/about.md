@@ -80,7 +80,7 @@ I am currently a first-year Ph.D. student at Shenzhen Loop Area Institute (SLAI)
 - *2024.08*, Review of Anomaly Detection Applications and Outlook for Extreme Event Forecasting. @ Tsinghua University
 
 # 💻 Academic service
-- Conference Reviewer: ACM MM 2024 Conference Reviewers, KDD 2025 Conference Reviewers, ICLR 2025 Conference Reviewers, NeurIPS 2025 Conference Reviewers, AAAI 2026 Conference Program Committee, ICLR 2026 Conference Reviewers
+- Conference Reviewer: ACM MM 2024 Conference Reviewers, KDD 2025 Conference Reviewers, ICLR 2025 Conference Reviewers, NeurIPS 2025 Conference Reviewers, AAAI 2026 Conference Program Committee, ICLR 2026 Conference Reviewers, CVPR 2026 Conference Reviewers
 
 
 
