@@ -36,12 +36,12 @@ I am currently a first-year Ph.D. student at Shenzhen Loop Area Institute (SLAI)
 
 <div class="scrollable">
   <ul>
-    <li><strong>2025.11.08</strong>: 2 paper were accepted to AAAI2026, Congrats to All !</li>
+    <li><strong>2025.11.08</strong>: 2 papers were accepted to AAAI2026, Congrats to All !</li>
     <li><strong>2025.09.18</strong>: 1 paper was accepted to NeurIPS2025 (First Author).</li>
     <li><strong>2025.09.10</strong>: I have joined Shenzhen Loop Area Institute as a Phd student @ SLAI. </li>
-    <li><strong>2025.05.01</strong>: 1 paper was accepted to ICML2025.</li>
+    <li><strong>2025.05.01</strong>: 1 paper was accepted to ICML2025, Congrats to Yuan !</li>
     <li><strong>2025.01.22</strong>: 1 paper was accepted to ICLR2025 (Co-First Author).</li>
-    <li><strong>2024.09.26</strong>: 1 paper was accepted to NeurIPS2024.</li>
+    <li><strong>2024.09.26</strong>: 1 paper was accepted to NeurIPS2024, Congrats to Hao !</li>
     <li><strong>2024.07.16</strong>: 1 paper was accepted to ACM MM2024 (Co-First Author).</li>
     <li><strong>2024.05.27</strong>: 1 paper was accepted to ECML2024 (First Author).</li>
     <li><strong>2023.12.09</strong>: 1 paper was accepted to AAAI2024 (First Author).</li>
