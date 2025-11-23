@@ -369,7 +369,6 @@ layout: single
       <li><strong>2025.01.22</strong>: 1 paper was accepted to ICLR2025 (Co-First Author).</li>
       <li><strong>2024.09.26</strong>: 1 paper was accepted to NeurIPS2024, Congrats to Hao !</li>
       <li><strong>2024.07.16</strong>: 1 paper was accepted to ACM MM2024 (Co-First Author).</li>
-      <li><strong>2024.05.27</strong>: 1 paper was accepted to ECML2024 (First Author).</li>
       <li><strong>2023.12.09</strong>: 1 paper was accepted to AAAI2024 (First Author).</li>
     </ul>
   </div>
