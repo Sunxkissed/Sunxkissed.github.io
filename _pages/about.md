@@ -376,12 +376,10 @@ layout: single
 </div>
 
 
-<!-- ================= PUBLICATIONS ================= -->
-<h1 class="section-title">📝 Publications</h1>
+<!-- ================= SELECTED PUBLICATIONS ================= -->
+<h1 class="section-title">🌟 Selected Publications</h1>
 
-<div class="subsection-title">AI for Science</div>
-
-<!-- Paper: KDD 2026 Wildfire -->
+<!-- Paper: KDD 2026 HiGO -->
 <div class="pub-card">
   <div class="pub-img-col">
     <div class="pub-badge">KDD 2026</div>
@@ -434,23 +432,23 @@ layout: single
     <div class="pub-venue">(NeurIPS 2025)</div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2509.17955">Paper</a></div>
   </div>
-</div>
+</div> 
 
-<!-- Paper: ACM MM 2024 PastNet -->
+<!-- Paper: ICML 2025 OneForecast -->
 <div class="pub-card">
   <div class="pub-img-col">
-    <div class="pub-badge">ACM MM 2024</div>
-    <img src="../images/MM_pastnet.png" class="pub-img" alt="Paper Image">
+    <div class="pub-badge">ICML 2025</div>
+    <img src="../images/oneforecast.png" class="pub-img" alt="Paper Image">
   </div>
   <div class="pub-content-col">
     <div class="pub-title">
-      <a href="https://openreview.net/forum?id=mL0KvSwXzk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)">PastNet: introducing physical inductive biases for spatio-temporal video prediction</a>
+      <a href="https://arxiv.org/abs/2502.00338">OneForecast: A Universal Framework for Global and Regional Weather Forecasting</a>
     </div>
     <div class="pub-authors">
-      Hao Wu<sup>†</sup>, <strong>Fan Xu</strong><sup>†</sup>, Chong Chen, Xian-Sheng Hua, Xiao Luo<sup>*</sup>, Haixin Wang<sup>*</sup>
+      Yuan Gao, Hao Wu, Ruiqi Shu, Huanshuo Dong, <strong>Fan Xu</strong>, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>
     </div>
-    <div class="pub-venue">(ACM MM 2024)</div>
-    <div class="pub-links"><a href="https://arxiv.org/abs/2305.11421">Paper</a></div>
+    <div class="pub-venue">(ICML 2025)</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2502.00338">Paper</a></div>
   </div>
 </div>
 
@@ -490,23 +488,45 @@ layout: single
   </div>
 </div>
 
-<!-- Paper: ICML 2025 OneForecast -->
+<!-- Paper: ACM MM 2024 PastNet -->
 <div class="pub-card">
   <div class="pub-img-col">
-    <div class="pub-badge">ICML 2025</div>
-    <img src="../images/oneforecast.png" class="pub-img" alt="Paper Image">
+    <div class="pub-badge">ACM MM 2024</div>
+    <img src="../images/MM_pastnet.png" class="pub-img" alt="Paper Image">
   </div>
   <div class="pub-content-col">
     <div class="pub-title">
-      <a href="https://arxiv.org/abs/2502.00338">OneForecast: A Universal Framework for Global and Regional Weather Forecasting</a>
+      <a href="https://openreview.net/forum?id=mL0KvSwXzk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)">PastNet: introducing physical inductive biases for spatio-temporal video prediction</a>
     </div>
     <div class="pub-authors">
-      Yuan Gao, Hao Wu, Ruiqi Shu, Huanshuo Dong, <strong>Fan Xu</strong>, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>
+      Hao Wu<sup>†</sup>, <strong>Fan Xu</strong><sup>†</sup>, Chong Chen, Xian-Sheng Hua, Xiao Luo<sup>*</sup>, Haixin Wang<sup>*</sup>
     </div>
-    <div class="pub-venue">(ICML 2025)</div>
-    <div class="pub-links"><a href="https://arxiv.org/abs/2502.00338">Paper</a></div>
+    <div class="pub-venue">(ACM MM 2024)</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2305.11421">Paper</a></div>
   </div>
 </div>
+
+<!-- Paper: AAAI 2024 Fraud -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">AAAI 2024</div>
+    <img src="../images/aaai.png" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2312.06441">Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Fan Xu</strong>, Nan Wang<sup>*</sup>, Hao Wu, Xuezhi Wen, Xibin Zhao<sup>*</sup>, Hai Wan
+    </div>
+    <div class="pub-venue">(AAAI 2024)</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2312.06441">Paper</a></div>
+  </div>
+</div>
+
+
+<!-- ================= PRE-PRINT ================= -->
+<h1 class="section-title">🌟 Pre-prints</h1>
 
 <!-- Paper: Arxiv Unlocking OOD / Spark -->
 <div class="pub-card">
@@ -544,44 +564,6 @@ layout: single
   </div>
 </div>
 
-<!-- Paper: Arxiv Turb-L1 -->
-<div class="pub-card">
-  <div class="pub-img-col">
-    <div class="pub-badge">Arxiv</div>
-    <img src="../images/turb_l1.png" class="pub-img" alt="Paper Image">
-  </div>
-  <div class="pub-content-col">
-    <div class="pub-title">
-      <a href="https://arxiv.org/abs/2505.19038">Turb-L1: Achieving Long-term Turbulence Tracing By Tackling Spectral Bias</a>
-    </div>
-    <div class="pub-authors">
-      Hao Wu<sup>†</sup>, Yuan Gao<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Zean Han, <strong>Fan Xu</strong>, Zhihong Zhu, Qingsong Wen, Xian Wu, Kun Wang<sup>*</sup>, Xiaomeng Huang<sup>*</sup>
-    </div>
-    <div class="pub-venue">(Arxiv)</div>
-    <div class="pub-links"><a href="https://arxiv.org/abs/2505.19038">Paper</a></div>
-  </div>
-</div>
-
-<div class="subsection-title">Graph Representation Learning and Anomaly Detection</div>
-
-<!-- Paper: AAAI 2024 Fraud -->
-<div class="pub-card">
-  <div class="pub-img-col">
-    <div class="pub-badge">AAAI 2024</div>
-    <img src="../images/aaai.png" class="pub-img" alt="Paper Image">
-  </div>
-  <div class="pub-content-col">
-    <div class="pub-title">
-      <a href="https://arxiv.org/abs/2312.06441">Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum</a>
-    </div>
-    <div class="pub-authors">
-      <strong>Fan Xu</strong>, Nan Wang<sup>*</sup>, Hao Wu, Xuezhi Wen, Xibin Zhao<sup>*</sup>, Hai Wan
-    </div>
-    <div class="pub-venue">(AAAI 2024)</div>
-    <div class="pub-links"><a href="https://arxiv.org/abs/2312.06441">Paper</a></div>
-  </div>
-</div>
-
 <!-- Paper: CIDeR -->
 <div class="pub-card">
   <div class="pub-img-col">
@@ -599,6 +581,10 @@ layout: single
     <div class="pub-links"><a href="#">Paper</a></div>
   </div>
 </div>
+
+
+
+
 
 
 <!-- ================= MISC SECTIONS ================= -->
