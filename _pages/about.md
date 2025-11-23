@@ -550,7 +550,7 @@ layout: single
 <!-- Paper: Arxiv Unlocking OOD / Spark -->
 <div class="pub-card">
   <div class="pub-img-col">
-    <div class="pub-badge">Arxiv</div>
+    <div class="pub-badge">Arxiv 2026</div>
     <img src="../images/spark.png" class="pub-img" alt="Paper Image">
   </div>
   <div class="pub-content-col">
@@ -568,7 +568,7 @@ layout: single
 <!-- Paper: CIDeR -->
 <div class="pub-card">
   <div class="pub-img-col">
-    <div class="pub-badge">Conference</div>
+    <div class="pub-badge">Arxiv 2026</div>
     <img src="../images/CIDeR.png" class="pub-img" alt="Paper Image">
   </div>
   <div class="pub-content-col">
