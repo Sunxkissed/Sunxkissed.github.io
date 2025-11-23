@@ -379,6 +379,24 @@ layout: single
 
 <div class="subsection-title">AI for Science</div>
 
+<!-- Paper: KDD 2026 Wildfire -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">KDD 2026</div>
+    <img src="../images/HiGO.png" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://openreview.net/forum?id=BZQmpsuW7D&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)">Advanced Global Wildfire Activity Modeling with Hierarchical Graph ODE</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Fan Xu</strong>, Wei Gong, Hao Wu, Nan Wang, Qingsong Wen, Xian Wu<sup>*</sup>, Kun Wang, Xibin Zhao<sup>*</sup>
+    </div>
+    <div class="pub-venue">(KDD 2026)</div>
+    <div class="pub-links"><a href="https://openreview.net/forum?id=ieh9QzG6VO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DKDD.org%2F2026%2FResearch_Track_August%2FAuthors%23your-submissions)">Paper</a></div>
+  </div>
+</div>
+
 <!-- Paper: NeurIPS 2025 Breaking -->
 <div class="pub-card">
   <div class="pub-img-col">
@@ -488,24 +506,6 @@ layout: single
   </div>
 </div>
 
-<!-- Paper: Arxiv Wildfire -->
-<div class="pub-card">
-  <div class="pub-img-col">
-    <div class="pub-badge">Arxiv</div>
-    <img src="../images/HiGO.png" class="pub-img" alt="Paper Image">
-  </div>
-  <div class="pub-content-col">
-    <div class="pub-title">
-      <a href="https://openreview.net/forum?id=BZQmpsuW7D&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)">Advanced Global Wildfire Activity Modeling with Hierarchical Graph ODE</a>
-    </div>
-    <div class="pub-authors">
-      <strong>Fan Xu</strong>, Wei Gong, Hao Wu, Nan Wang, Qingsong Wen, Xian Wu, Kun Wang, Xibin Zhao<sup>*</sup>
-    </div>
-    <div class="pub-venue">(Arxiv)</div>
-    <div class="pub-links"><a href="https://openreview.net/forum?id=ieh9QzG6VO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DKDD.org%2F2026%2FResearch_Track_August%2FAuthors%23your-submissions)">Paper</a></div>
-  </div>
-</div>
-
 <!-- Paper: Arxiv Unlocking OOD / Spark -->
 <div class="pub-card">
   <div class="pub-img-col">
@@ -580,24 +580,6 @@ layout: single
   </div>
 </div>
 
-<!-- Paper: ECML PKDD 2024 GLADformer -->
-<div class="pub-card">
-  <div class="pub-img-col">
-    <div class="pub-badge">ECML PKDD 2024</div>
-    <img src="../images/ecml.png" class="pub-img" alt="Paper Image">
-  </div>
-  <div class="pub-content-col">
-    <div class="pub-title">
-      <a href="https://arxiv.org/abs/2406.00734">GLADformer: A Mixed Perspective for Graph-level Anomaly Detection</a>
-    </div>
-    <div class="pub-authors">
-      <strong>Fan Xu</strong>, Nan Wang<sup>*</sup>, Hao Wu, Xuezhi Wen, Dalin Zhang, Siyang Lu, Binyong Li, Wei Gong, Hai Wan, Xibin Zhao<sup>*</sup>
-    </div>
-    <div class="pub-venue">(ECML PKDD 2024)</div>
-    <div class="pub-links"><a href="https://arxiv.org/abs/2406.00734">Paper</a></div>
-  </div>
-</div>
-
 <!-- Paper: CIDeR -->
 <div class="pub-card">
   <div class="pub-img-col">
@@ -613,63 +595,6 @@ layout: single
     </div>
     <div class="pub-venue">(Conference)</div>
     <div class="pub-links"><a href="#">Paper</a></div>
-  </div>
-</div>
-
-<!-- Paper: FCS 2024 -->
-<div class="pub-card">
-  <div class="pub-img-col">
-    <div class="pub-badge">FCS 2024</div>
-    <!-- 占位图 -->
-    <img src="https://via.placeholder.com/380x280.png?text=FCS+2024" class="pub-img" alt="Paper Image">
-  </div>
-  <div class="pub-content-col">
-    <div class="pub-title">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HdXMhfcAAAAJ&citation_for_view=HdXMhfcAAAAJ:IWHjjKOFINEC">Advanced Persistent Threat Detection via Mining Long-Term Features in Provenance Graphs</a>
-    </div>
-    <div class="pub-authors">
-      <strong>Fan Xu</strong>, Qinxin Zhao, Xiaoxiao Liu, Nan Wang<sup>*</sup>, Meiqi Gao, Xuezhi Wen, Dalin Zhang
-    </div>
-    <div class="pub-venue">(FCS 2024)</div>
-    <div class="pub-links"><a href="#">Paper</a></div>
-  </div>
-</div>
-
-<!-- Paper: IEEE ICPADS 2023 -->
-<div class="pub-card">
-  <div class="pub-img-col">
-    <div class="pub-badge">IEEE ICPADS 2023</div>
-    <!-- 占位图 -->
-    <img src="https://via.placeholder.com/380x280.png?text=ICPADS+2023" class="pub-img" alt="Paper Image">
-  </div>
-  <div class="pub-content-col">
-    <div class="pub-title">
-      <a href="https://arxiv.org/abs/2311.10370">Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection</a>
-    </div>
-    <div class="pub-authors">
-      <strong>Fan Xu</strong>, Nan Wang<sup>*</sup>, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, Xibin Zhao<sup>*</sup>
-    </div>
-    <div class="pub-venue">(IEEE ICPADS 2023)</div>
-    <div class="pub-links"><a href="https://arxiv.org/abs/2311.10370">Paper</a></div>
-  </div>
-</div>
-
-<!-- Paper: IEEE SMC 2023 -->
-<div class="pub-card">
-  <div class="pub-img-col">
-    <div class="pub-badge">IEEE SMC 2023</div>
-    <!-- 占位图 -->
-    <img src="https://via.placeholder.com/380x280.png?text=SMC+2023" class="pub-img" alt="Paper Image">
-  </div>
-  <div class="pub-content-col">
-    <div class="pub-title">
-      <a href="https://arxiv.org/abs/2306.02025">Exploring Global and Local Information for Anomaly Detection with Normal Samples</a>
-    </div>
-    <div class="pub-authors">
-      <strong>Fan Xu</strong>, Nan Wang<sup>*</sup>, Xibin Zhao<sup>*</sup>
-    </div>
-    <div class="pub-venue">(IEEE SMC 2023)</div>
-    <div class="pub-links"><a href="https://arxiv.org/abs/2306.02025">Paper</a></div>
   </div>
 </div>
 
@@ -694,7 +619,7 @@ layout: single
 <h1 class="section-title">💻 Academic Service</h1>
 <div class="misc-box">
   <strong>Conference Reviewer / PC Member:</strong><br>
-  ACM MM (2024), KDD (2025), ICLR (2025, 2026), NeurIPS (2025), AAAI (2026 PC), CVPR (2026).
+  ACM MM (2024), KDD (2025), ICLR (2025, 2026), NeurIPS (2025), AAAI (2026), CVPR (2026).
 </div>
 
 <!-- Map -->
