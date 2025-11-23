@@ -339,7 +339,7 @@ layout: single
         Email (SLAI)
       </a>
       <button class="link-btn" disabled style="cursor: default; opacity: 0.8; background-color: #f9f9f9;">
-        Wechat: Markxu_0111
+        Google Scholar
       </button>
       <!-- 如有 Scholar/Github 链接可在此添加 -->
     </div>
@@ -359,6 +359,7 @@ layout: single
 <div class="news-wrapper">
   <div class="news-scroll">
     <ul>
+      <li><strong>2025.11.23</strong>: 1 paper was accepted to KDD2026, Main Track (Research) (First Author)</li>
       <li><strong>2025.11.08</strong>: 2 papers were accepted to AAAI2026, Congrats to All !</li>
       <li><strong>2025.09.18</strong>: 1 paper was accepted to NeurIPS2025 (First Author).</li>
       <li><strong>2025.09.10</strong>: I have joined Shenzhen Loop Area Institute as a Phd student @ SLAI. </li>
