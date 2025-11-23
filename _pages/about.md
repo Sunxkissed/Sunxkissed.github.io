@@ -321,7 +321,7 @@ layout: single
     
     <div class="bio-desc">
       <p>
-        I am currently a first-year Ph.D. student at Shenzhen Loop Area Institute (SLAI), supervised by <a href="https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN&oi=ao">Prof. Wanli Ouyang</a>. Before that, I conducted my Master's studies at USTC. My research interest mainly includes foundation models, scientific machine learning, and generative AI.
+        I am currently a first-year Ph.D. student in Computer Science and Technology at Shenzhen Loop Area Institute (SLAI), supervised by <a href="https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN&oi=ao">Prof. Wanli Ouyang</a>. Before that, I conducted my Master's studies at University of Science and Technology of China (USTC). My research interests primarily lie in foundation models, scientific machine learning, and generative AI.
       </p>
     </div>
 
