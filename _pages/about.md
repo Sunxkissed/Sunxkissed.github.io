@@ -338,10 +338,11 @@ layout: single
         <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
         Email (SLAI)
       </a>
-      <a href="https://scholar.google.com/citations?user=qfMSkBgAAAAJ&hl=zh-CN" class="link-btn" target="_blank" rel="noopener noreferrer">
-        <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M12 3L1 9l11 6 9-4.91V17h2V9M5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z"/></svg>
-        Google Scholar
-      </a>
+      <button class="link-btn" disabled style="cursor: default; opacity: 0.8; background-color: #f9f9f9;">
+      Google Scholar
+      </button>
+      <!-- 如有 Scholar/Github 链接可在此添加 -->
+      </div>  
     </div>
   
   <!-- 右侧：头像（使用占位图，因原文无头像链接） -->
