@@ -1,12 +1,12 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
-author_profile: true
+excerpt: "Fan Xu - Research Homepage"
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
-
+layout: single
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -18,401 +18,685 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-I am currently a first-year Ph.D. student at Shenzhen Loop Area Institute (SLAI), supervised by [Prof. Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN&oi=ao). Before that, I conducted my Master's studies at USTC. My research interest mainly includes foundation models, scientific machine learning, and world models.
-
-<span style="color:red;">Please feel free to contact me for communication and collaboration.</span>
-
-**Email**: <u>markxu@mail.ustc.edu.cn</u> or <u>fanxu@slai.edu.cn</u> &nbsp; &nbsp;  **Wechat**: Markxu_0111
-
-
-<h1 id='news'>🔥 News</h1>
+<!-- ================= GLOBAL STYLES (FROM HAO WU) ================= -->
 <style>
-  .scrollable {
-    max-height: 260px; /* 设置最大高度 */
-    overflow-y: scroll; /* 设置垂直滚动条 */
+  /* 0. 基础重置与高定质感 */
+  :root {
+    --accent-color: #003366; /* 经典的学术深蓝 */
+    --text-primary: #111;
+    --text-secondary: #444;
+    --bg-page: #fafafa;
+  }
+
+  /* 隐藏默认侧边栏 */
+  .sidebar { display: none !important; }
+  
+  .page__content {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: var(--bg-page);
+  }
+
+  .page__inner-wrap {
+    max-width: 1060px !important;
+    margin: 0 auto;
+    padding: 60px 40px;
+    float: none !important;
+  }
+
+  /* 1. 全局统一字体 */
+  body, h1, h2, h3, h4, h5, h6, p, div, span, li, a, strong, b, button {
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+    color: var(--text-primary);
+    line-height: 1.6;
+  }
+
+  a { 
+    color: var(--accent-color); 
+    text-decoration: none; 
+    transition: all 0.2s ease; 
+  }
+  a:hover { 
+    color: #0056b3; 
+    text-decoration: underline; 
+  }
+
+  /* 2. 标题样式优化 */
+  .section-title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    color: #000;
+    position: relative;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #eaeaea;
+    letter-spacing: 0.5px;
+  }
+  
+  .subsection-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #333;
+    border-left: 5px solid var(--accent-color);
+    padding-left: 15px;
+  }
+
+  /* --- BIO 布局 --- */
+  .bio-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 60px;
+    margin-bottom: 60px;
+    align-items: flex-start;
+  }
+
+  .bio-text-col { flex: 1; }
+  
+  .bio-name {
+    font-size: 38px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #000;
+  }
+  
+  .bio-sub {
+    font-size: 19px;
+    color: var(--text-secondary);
+    margin-bottom: 25px;
+    font-style: italic;
+  }
+
+  .bio-desc {
+    font-size: 18px;
+    color: #222;
+    text-align: justify;
+    line-height: 1.7;
+  }
+
+  .bio-photo-col {
+    flex: 0 0 240px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .bio-photo {
+    width: 200px;
+    height: 200px; 
+    border-radius: 50%;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+    object-fit: cover;
+    border: 4px solid #fff;
+    background-color: #eee; /* 占位背景色 */
+  }
+
+  /* 按钮链接组 */
+  .link-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 30px;
+  }
+  
+  .link-btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 18px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #333 !important;
+    font-size: 16px;
+    font-weight: bold;
+    transition: all 0.2s;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  }
+  
+  .link-btn svg { margin-right: 8px; fill: #333; }
+
+  .link-btn:hover {
+    background-color: #f4f4f4;
+    border-color: var(--accent-color);
+    color: var(--accent-color) !important;
+    text-decoration: none;
+  }
+
+  /* --- NEWS SECTION --- */
+  .news-wrapper {
+    background: #fff;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.03);
+  }
+  
+  .news-scroll {
+    max-height: 300px;
+    overflow-y: auto;
+    padding-right: 15px;
+  }
+  
+  .news-scroll ul { padding-left: 20px; margin: 0; }
+  .news-scroll li { 
+    margin-bottom: 12px; 
+    font-size: 17px; 
+    color: #333; 
+  }
+  .news-scroll li strong { color: var(--accent-color); }
+
+  /* --- PUBLICATIONS --- */
+  .pub-card {
+    display: flex;
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    margin-bottom: 35px;
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  .pub-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 24px rgba(0,0,0,0.08);
+    border-color: #bbb;
+  }
+
+  .pub-img-col {
+    flex: 0 0 380px; 
+    background: #fff; 
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px solid #eee;
+    padding: 10px;
+  }
+  
+  .pub-img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    display: block;
+    max-height: 280px; 
+  }
+
+  .pub-badge {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background: #003366;
+    color: white;
+    padding: 4px 12px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 4px;
+    z-index: 2;
+    opacity: 0.95;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.25);
+    font-family: Georgia, serif !important;
+  }
+
+  .pub-content-col {
+    flex: 1;
+    padding: 25px 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .pub-title {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 12px;
+    line-height: 1.3;
+    color: #111;
+  }
+  .pub-title a { color: #111; }
+  .pub-title a:hover { color: var(--accent-color); text-decoration: underline; }
+
+  .pub-authors {
+    font-size: 17px;
+    color: #444;
+    margin-bottom: 12px;
+    line-height: 1.5;
+  }
+  .pub-authors strong { color: #000; text-decoration: underline; }
+
+  .pub-venue {
+    font-size: 16px;
+    color: #c62828;
+    margin-bottom: 18px;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  .pub-links a {
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 20px;
+    color: var(--accent-color);
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .pub-links a:hover { text-decoration: underline; }
+  
+  /* --- MISC --- */
+  .misc-box {
+    background: #fbfbfb;
+    padding: 25px;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    font-size: 17px;
+  }
+
+  /* 移动端适配 */
+  @media (max-width: 900px) {
+    .page__inner-wrap { padding: 30px 20px; }
+    .bio-container { flex-direction: column-reverse; gap: 30px; text-align: center; }
+    .bio-photo-col { width: 100%; margin: 0 auto; }
+    .bio-text-col { width: 100%; }
+    .link-grid { justify-content: center; }
+    
+    .pub-card { flex-direction: column; }
+    .pub-img-col { flex: 0 0 auto; width: 100%; border-right: none; border-bottom: 1px solid #eee; padding: 0; }
+    .pub-img { width: 100%; max-height: none; }
+    .pub-content-col { padding: 25px 20px; }
   }
 </style>
 
-<div class="scrollable">
-  <ul>
-    <li><strong>2025.11.08</strong>: 2 papers were accepted to AAAI2026, Congrats to All !</li>
-    <li><strong>2025.09.18</strong>: 1 paper was accepted to NeurIPS2025 (First Author).</li>
-    <li><strong>2025.09.10</strong>: I have joined Shenzhen Loop Area Institute as a Phd student @ SLAI. </li>
-    <li><strong>2025.05.01</strong>: 1 paper was accepted to ICML2025, Congrats to Yuan !</li>
-    <li><strong>2025.01.22</strong>: 1 paper was accepted to ICLR2025 (Co-First Author).</li>
-    <li><strong>2024.09.26</strong>: 1 paper was accepted to NeurIPS2024, Congrats to Hao !</li>
-    <li><strong>2024.07.16</strong>: 1 paper was accepted to ACM MM2024 (Co-First Author).</li>
-    <li><strong>2024.05.27</strong>: 1 paper was accepted to ECML2024 (First Author).</li>
-    <li><strong>2023.12.09</strong>: 1 paper was accepted to AAAI2024 (First Author).</li>
+
+<!-- ================= BIO SECTION ================= -->
+<div class="bio-container">
+  
+  <!-- 左侧：文字介绍 -->
+  <div class="bio-text-col">
+    <div class="bio-name">Fan Xu</div>
+    <div class="bio-sub">Ph.D. Student at Shenzhen Loop Area Institute (SLAI)</div>
+    
+    <div class="bio-desc">
+      <p>
+        I am currently a first-year Ph.D. student at Shenzhen Loop Area Institute (SLAI), supervised by <a href="https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN&oi=ao">Prof. Wanli Ouyang</a>. Before that, I conducted my Master's studies at USTC. My research interest mainly includes foundation models, scientific machine learning, and world models.
+      </p>
+      <p style="color:red; font-weight: bold;">
+        Please feel free to contact me for communication and collaboration.
+      </p>
+    </div>
+
+    <!-- 链接按钮 -->
+    <div class="link-grid">
+      <a href="mailto:markxu@mail.ustc.edu.cn" class="link-btn">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+        Email (USTC)
+      </a>
+      <a href="mailto:fanxu@slai.edu.cn" class="link-btn">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+        Email (SLAI)
+      </a>
+      <button class="link-btn" disabled style="cursor: default; opacity: 0.8; background-color: #f9f9f9;">
+        Wechat: Markxu_0111
+      </button>
+      <!-- 如有 Scholar/Github 链接可在此添加 -->
+    </div>
+  </div>
+  
+  <!-- 右侧：头像（使用占位图，因原文无头像链接） -->
+  <div class="bio-photo-col"> 
+    <!-- 提示：请将此处 src 替换为您的头像路径，例如 ../images/avatar.jpg -->
+    <img src="https://via.placeholder.com/200?text=Fan+Xu" class="bio-photo" alt="Fan Xu">
+  </div>
+
+</div>
+
+
+<!-- ================= NEWS SECTION ================= -->
+<h1 class="section-title" id='news'>🔥 News</h1>
+<div class="news-wrapper">
+  <div class="news-scroll">
+    <ul>
+      <li><strong>2025.11.08</strong>: 2 papers were accepted to AAAI2026, Congrats to All !</li>
+      <li><strong>2025.09.18</strong>: 1 paper was accepted to NeurIPS2025 (First Author).</li>
+      <li><strong>2025.09.10</strong>: I have joined Shenzhen Loop Area Institute as a Phd student @ SLAI. </li>
+      <li><strong>2025.05.01</strong>: 1 paper was accepted to ICML2025, Congrats to Yuan !</li>
+      <li><strong>2025.01.22</strong>: 1 paper was accepted to ICLR2025 (Co-First Author).</li>
+      <li><strong>2024.09.26</strong>: 1 paper was accepted to NeurIPS2024, Congrats to Hao !</li>
+      <li><strong>2024.07.16</strong>: 1 paper was accepted to ACM MM2024 (Co-First Author).</li>
+      <li><strong>2024.05.27</strong>: 1 paper was accepted to ECML2024 (First Author).</li>
+      <li><strong>2023.12.09</strong>: 1 paper was accepted to AAAI2024 (First Author).</li>
+    </ul>
+  </div>
+</div>
+
+
+<!-- ================= PUBLICATIONS ================= -->
+<h1 class="section-title">📝 Publications</h1>
+
+<div class="subsection-title">AI for Science</div>
+
+<!-- Paper: NeurIPS 2025 Breaking -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">NeurIPS 2025</div>
+    <img src="../images/cops.png" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2509.17955">Breaking the Discretization Barrier of Continuous Physics Simulation Learning</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Fan Xu</strong>, Hao Wu, Nan Wang, Lilan Peng, Kun Wang, Wei Gong, Xibin Zhao<sup>*</sup>
+    </div>
+    <div class="pub-venue">(NeurIPS 2025)</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2509.17955">Paper</a></div>
+  </div>
+</div>
+
+<!-- Paper: ACM MM 2024 PastNet -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">ACM MM 2024</div>
+    <img src="../images/MM_pastnet.png" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://openreview.net/forum?id=mL0KvSwXzk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)">PastNet: introducing physical inductive biases for spatio-temporal video prediction</a>
+    </div>
+    <div class="pub-authors">
+      Hao Wu<sup>†</sup>, <strong>Fan Xu</strong><sup>†</sup>, Chong Chen, Xian-Sheng Hua, Xiao Luo<sup>*</sup>, Haixin Wang<sup>*</sup>
+    </div>
+    <div class="pub-venue">(ACM MM 2024)</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2305.11421">Paper</a></div>
+  </div>
+</div>
+
+<!-- Paper: ICLR 2025 Open-CK -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">ICLR 2025</div>
+    <img src="../images/fire.png" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://openreview.net/forum?id=A23C57icJt&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)">Open-CK: The Non-linear Chaotic Combustion Kinetics Benchmark</a>
+    </div>
+    <div class="pub-authors">
+      Zaige Fei<sup>†</sup>, <strong>Fan Xu</strong><sup>†</sup>, Junyuan Mao, Yuxuan Liang, Qingsong Wen, Kun Wang, Hao Wu<sup>*</sup>, Yang Wang<sup>*</sup>
+    </div>
+    <div class="pub-venue">(ICLR 2025)</div>
+    <div class="pub-links"><a href="https://openreview.net/forum?id=mKFFEXeIQS&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)">Paper</a></div>
+  </div>
+</div>
+
+<!-- Paper: NeurIPS 2024 PURE -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">NeurIPS 2024</div>
+    <img src="../images/pure.png" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://openreview.net/forum?id=z86knmjoUq&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)">PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling</a>
+    </div>
+    <div class="pub-authors">
+      Hao Wu, Changhu Wang, <strong>Fan Xu</strong>, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo<sup>*</sup>
+    </div>
+    <div class="pub-venue">(NeurIPS 2024)</div>
+    <div class="pub-links"><a href="https://openreview.net/forum?id=z86knmjoUq&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)">Paper</a></div>
+  </div>
+</div>
+
+<!-- Paper: ICML 2025 OneForecast -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">ICML 2025</div>
+    <img src="../images/oneforecast.png" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2502.00338">OneForecast: A Universal Framework for Global and Regional Weather Forecasting</a>
+    </div>
+    <div class="pub-authors">
+      Yuan Gao, Hao Wu, Ruiqi Shu, Huanshuo Dong, <strong>Fan Xu</strong>, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>
+    </div>
+    <div class="pub-venue">(ICML 2025)</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2502.00338">Paper</a></div>
+  </div>
+</div>
+
+<!-- Paper: AAAI 2026 NeuralOM -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">AAAI 2026</div>
+    <!-- 占位图：原文此条目无对应图片 -->
+    <img src="https://via.placeholder.com/380x280.png?text=NeuralOM" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2505.21020">NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation</a>
+    </div>
+    <div class="pub-authors">
+      Yuan Gao, Ruiqi Shu, Hao Wu, <strong>Fan Xu</strong>, Yanfei Xiang, Ruijian Gou, Qingsong Wen, Xian Wu, Kun Wang, Xiaomeng Huang<sup>*</sup>
+    </div>
+    <div class="pub-venue">(AAAI 2026)</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2505.21020">Paper</a></div>
+  </div>
+</div>
+
+<!-- Paper: Arxiv Wildfire -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">Arxiv</div>
+    <img src="../images/HiGO.png" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://openreview.net/forum?id=BZQmpsuW7D&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)">Advanced Global Wildfire Activity Modeling with Hierarchical Graph ODE</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Fan Xu</strong>, Wei Gong, Hao Wu, Nan Wang, Qingsong Wen, Xian Wu, Kun Wang, Xibin Zhao<sup>*</sup>
+    </div>
+    <div class="pub-venue">(Arxiv)</div>
+    <div class="pub-links"><a href="https://openreview.net/forum?id=ieh9QzG6VO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DKDD.org%2F2026%2FResearch_Track_August%2FAuthors%23your-submissions)">Paper</a></div>
+  </div>
+</div>
+
+<!-- Paper: Arxiv Unlocking OOD / Spark -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">Arxiv</div>
+    <img src="../images/spark.png" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2510.24216">Unlocking Out-of-Distribution Generalization in Dynamics through Physics-Guided Augmentation</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Fan Xu</strong>, Wei Gong, Hao Wu, Nan Wang, Qingsong Wen, Kun Wang, Xian Wu, Xibin Zha<sup>*</sup>
+    </div>
+    <div class="pub-venue">(Arxiv)</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2510.24216">Paper</a></div>
+  </div>
+</div>
+
+<!-- Paper: Arxiv Triton -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">Arxiv</div>
+    <img src="../images/triton.png" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2505.19432">Advanced long-term earth system forecasting by learning the small-scale nature</a>
+    </div>
+    <div class="pub-authors">
+      Hao Wu<sup>†</sup>, Yuan Gao<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun Wang<sup>†</sup>, Ruijian Gou<sup>†</sup>, Chuhan Wu<sup>†</sup>, Xinliang Liu, Juncai He, Shuhao Cao, Junfeng Fang, Xingjian Shi, Feng Tao, Qi Song, Shengxuan Ji, Yanfei Xiang, Yuze Sun, Jiahao Li, <strong>Fan Xu</strong>, Huanshuo Dong, Haixin Wang, Fan Zhang, Penghao Zhao, Xian Wu, Qingsong Wen, Deliang Chen, Xiaomeng Huang<sup>*</sup>
+    </div>
+    <div class="pub-venue">(Arxiv)</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2505.19432">Paper</a></div>
+  </div>
+</div>
+
+<!-- Paper: Arxiv Turb-L1 -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">Arxiv</div>
+    <img src="../images/turb_l1.png" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2505.19038">Turb-L1: Achieving Long-term Turbulence Tracing By Tackling Spectral Bias</a>
+    </div>
+    <div class="pub-authors">
+      Hao Wu<sup>†</sup>, Yuan Gao<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Zean Han, <strong>Fan Xu</strong>, Zhihong Zhu, Qingsong Wen, Xian Wu, Kun Wang<sup>*</sup>, Xiaomeng Huang<sup>*</sup>
+    </div>
+    <div class="pub-venue">(Arxiv)</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2505.19038">Paper</a></div>
+  </div>
+</div>
+
+<div class="subsection-title">Graph Representation Learning and Anomaly Detection</div>
+
+<!-- Paper: AAAI 2024 Fraud -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">AAAI 2024</div>
+    <img src="../images/aaai.png" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2312.06441">Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Fan Xu</strong>, Nan Wang<sup>*</sup>, Hao Wu, Xuezhi Wen, Xibin Zhao<sup>*</sup>, Hai Wan
+    </div>
+    <div class="pub-venue">(AAAI 2024)</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2312.06441">Paper</a></div>
+  </div>
+</div>
+
+<!-- Paper: ECML PKDD 2024 GLADformer -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">ECML PKDD 2024</div>
+    <img src="../images/ecml.png" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2406.00734">GLADformer: A Mixed Perspective for Graph-level Anomaly Detection</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Fan Xu</strong>, Nan Wang<sup>*</sup>, Hao Wu, Xuezhi Wen, Dalin Zhang, Siyang Lu, Binyong Li, Wei Gong, Hai Wan, Xibin Zhao<sup>*</sup>
+    </div>
+    <div class="pub-venue">(ECML PKDD 2024)</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2406.00734">Paper</a></div>
+  </div>
+</div>
+
+<!-- Paper: CIDeR -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">Conference</div>
+    <img src="../images/CIDeR.png" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://openreview.net/forum?id=YYRAWFOlk7&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FConference%2FAuthors%23your-submissions)">Learning Counterfactual-Invariant Representations for Robust Time Series Anomaly Detection</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Fan Xu</strong>, Nan Wang, Hao Wu, Cheng Yan, Hai Wan, Wei Gong, Hairong Dong, Xibin Zhao<sup>*</sup>
+    </div>
+    <div class="pub-venue">(Conference)</div>
+    <div class="pub-links"><a href="#">Paper</a></div>
+  </div>
+</div>
+
+<!-- Paper: FCS 2024 -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">FCS 2024</div>
+    <!-- 占位图 -->
+    <img src="https://via.placeholder.com/380x280.png?text=FCS+2024" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HdXMhfcAAAAJ&citation_for_view=HdXMhfcAAAAJ:IWHjjKOFINEC">Advanced Persistent Threat Detection via Mining Long-Term Features in Provenance Graphs</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Fan Xu</strong>, Qinxin Zhao, Xiaoxiao Liu, Nan Wang<sup>*</sup>, Meiqi Gao, Xuezhi Wen, Dalin Zhang
+    </div>
+    <div class="pub-venue">(FCS 2024)</div>
+    <div class="pub-links"><a href="#">Paper</a></div>
+  </div>
+</div>
+
+<!-- Paper: IEEE ICPADS 2023 -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">IEEE ICPADS 2023</div>
+    <!-- 占位图 -->
+    <img src="https://via.placeholder.com/380x280.png?text=ICPADS+2023" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2311.10370">Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Fan Xu</strong>, Nan Wang<sup>*</sup>, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, Xibin Zhao<sup>*</sup>
+    </div>
+    <div class="pub-venue">(IEEE ICPADS 2023)</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2311.10370">Paper</a></div>
+  </div>
+</div>
+
+<!-- Paper: IEEE SMC 2023 -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">IEEE SMC 2023</div>
+    <!-- 占位图 -->
+    <img src="https://via.placeholder.com/380x280.png?text=SMC+2023" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2306.02025">Exploring Global and Local Information for Anomaly Detection with Normal Samples</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Fan Xu</strong>, Nan Wang<sup>*</sup>, Xibin Zhao<sup>*</sup>
+    </div>
+    <div class="pub-venue">(IEEE SMC 2023)</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2306.02025">Paper</a></div>
+  </div>
+</div>
+
+
+<!-- ================= MISC SECTIONS ================= -->
+<h1 class="section-title">🎖 Honors and Awards</h1>
+<div class="misc-box">
+  <ul style="line-height: 1.6; padding-left: 20px;">
+    <li><em>2022, 2024, 2025</em>, First-class Academic Scholarship of the University of Science and Technology of China.</li>
+    <li><em>2022.11</em>, China Collegiate Computing Competition - Intelligent Interaction Innovation Contest, National Finals Second Prize.</li>
+    <li><em>2022.06</em>, HarmonyOS Developer Competition - Global Campus AI Algorithm Elite Track, Star Excellence Award (7/1000+).</li>
   </ul>
 </div>
 
-
-# 📝 Publications 
-
-#### AI for Science
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2025``</span> [Breaking the Discretization Barrier of Continuous Physics Simulation Learning](https://arxiv.org/abs/2509.17955). **Fan Xu**, Hao Wu, Nan Wang, Lilan Peng, Kun Wang, Wei Gong, Xibin Zhao<sup>*</sup>
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ACM MM 2024``</span> [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://openreview.net/forum?id=mL0KvSwXzk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)).Hao Wu<sup>†</sup>, **Fan Xu**<sup>†</sup>, Chong Chen, Xian-Sheng Hua, Xiao Luo<sup>*</sup>, Haixin Wang<sup>*</sup>
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2025``</span> [Open-CK: The Non-linear Chaotic Combustion Kinetics Benchmark](https://openreview.net/forum?id=A23C57icJt&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). Zaige Fei<sup>†</sup>, **Fan Xu**<sup>†</sup>, Junyuan Mao, Yuxuan Liang, Qingsong Wen, Kun Wang, Hao Wu<sup>*</sup>, Yang Wang<sup>*</sup>
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2024``</span> [PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling](https://openreview.net/forum?id=z86knmjoUq&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). Hao Wu, Changhu Wang, **Fan Xu**, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo<sup>*</sup>
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICML 2025``</span> [OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://arxiv.org/abs/2502.00338). Yuan Gao, Hao Wu, Ruiqi Shu, Huanshuo Dong, **Fan Xu**, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``AAAI 2026``</span> [NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation](https://arxiv.org/abs/2505.21020). Yuan Gao, Ruiqi Shu, Hao Wu, **Fan Xu**, Yanfei Xiang, Ruijian Gou, Qingsong Wen, Xian Wu, Kun Wang, Xiaomeng Huang<sup>*</sup>
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Advanced Global Wildfire Activity Modeling with Hierarchical Graph ODE](https://openreview.net/forum?id=BZQmpsuW7D&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). **Fan Xu**, Wei Gong, Hao Wu, Nan Wang, Qingsong Wen, Xian Wu, Kun Wang, Xibin Zhao<sup>*</sup>
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Unlocking Out-of-Distribution Generalization in Dynamics through Physics-Guided Augmentation](https://arxiv.org/abs/2510.24216). **Fan Xu**, Wei Gong, Hao Wu, Nan Wang, Qingsong Wen, Kun Wang, Xian Wu, Xibin Zha<sup>*</sup>
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Advanced long-term earth system forecasting by learning the small-scale nature](https://arxiv.org/abs/2505.19432). Hao Wu<sup>†</sup>, Yuan Gao<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun Wang<sup>†</sup>, Ruijian Gou<sup>†</sup>, Chuhan Wu<sup>†</sup>, Xinliang Liu, Juncai He, Shuhao Cao, Junfeng Fang, Xingjian Shi, Feng Tao, Qi Song, Shengxuan Ji, Yanfei Xiang, Yuze Sun, Jiahao Li, **Fan Xu**, Huanshuo Dong, Haixin Wang, Fan Zhang, Penghao Zhao, Xian Wu, Qingsong Wen, Deliang Chen, Xiaomeng Huang<sup>*</sup>
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Turb-L1: Achieving Long-term Turbulence Tracing By Tackling Spectral Bias](https://arxiv.org/abs/2505.19038). Hao Wu<sup>†</sup>, Yuan Gao<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Zean Han, **Fan Xu**, Zhihong Zhu, Qingsong Wen, Xian Wu, Kun Wang<sup>*</sup>, Xiaomeng Huang<sup>*</sup>
-
-#### Graph Representation Learning and Anomaly Detection
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``AAAI 2024``</span> [Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum](https://arxiv.org/abs/2312.06441). **Fan Xu**, Nan Wang<sup>*</sup>, Hao Wu, Xuezhi Wen, Xibin Zhao<sup>*</sup>, Hai Wan
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECML PKDD 2024``</span> [GLADformer: A Mixed Perspective for Graph-level Anomaly Detection](https://arxiv.org/abs/2406.00734). **Fan Xu**, Nan Wang<sup>*</sup>, Hao Wu, Xuezhi Wen, Dalin Zhang, Siyang Lu, Binyong Li, Wei Gong, Hai Wan, Xibin Zhao<sup>*</sup>
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``FCS 2024``</span> [Advanced Persistent Threat Detection via Mining Long-Term Features in Provenance Graphs](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HdXMhfcAAAAJ&citation_for_view=HdXMhfcAAAAJ:IWHjjKOFINEC). **Fan Xu**, Qinxin Zhao, Xiaoxiao Liu, Nan Wang<sup>*</sup>, Meiqi Gao, Xuezhi Wen, Dalin Zhang
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE ICPADS 2023``</span> [Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection](https://arxiv.org/abs/2311.10370). **Fan Xu**, Nan Wang<sup>*</sup>, Xuezhi Wen, Meiqi Gao, Chaoqun Guo, Xibin Zhao<sup>*</sup>
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IEEE SMC 2023``</span> [Exploring Global and Local Information for Anomaly Detection with Normal Samples](https://arxiv.org/abs/2306.02025). **Fan Xu**, Nan Wang<sup>*</sup>, Xibin Zhao<sup>*</sup>
-
-
-# 🎖 Honors and Awards
-- *2022, 2024, 2025* First-class Academic Scholarship of the University of Science and Technology of China.
-- *2022.11* China Collegiate Computing Competition - Intelligent Interaction Innovation Contest, National Finals Second Prize
-- *2022.06* HarmonyOS Developer Competition - Global Campus AI Algorithm Elite Track, Star Excellence Award (7/1000+)
-
-# 🐣 Invited Talks
-- *2024.08*, Review of Anomaly Detection Applications and Outlook for Extreme Event Forecasting. @ Tsinghua University
-
-# 💻 Academic service
-- Conference Reviewer: ACM MM 2024 Conference Reviewers, KDD 2025 Conference Reviewers, ICLR 2025 Conference Reviewers, NeurIPS 2025 Conference Reviewers, AAAI 2026 Conference Program Committee, ICLR 2026 Conference Reviewers, CVPR 2026 Conference Reviewers
-
-
-
-# 📖 Selected Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/HiGO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Advanced Global Wildfire Activity Modeling with Hierarchical Graph ODE](https://openreview.net/forum?id=ieh9QzG6VO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DKDD.org%2F2026%2FResearch_Track_August%2FAuthors%23your-submissions))
-
-**Fan Xu**, Wei Gong, Hao Wu, Nan Wang, Qingsong Wen, Xian Wu, Kun Wang, Xibin Zhao<sup>*</sup>
-
-</div>
+<h1 class="section-title">💬 Invited Talks</h1>
+<div class="misc-box">
+  <ul style="line-height: 1.6; padding-left: 20px;">
+    <li><em>2024.08</em>, Review of Anomaly Detection Applications and Outlook for Extreme Event Forecasting. @ Tsinghua University</li>
+  </ul>
 </div>
 
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/spark.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Unlocking Out-of-Distribution Generalization in Dynamics through Physics-Guided Augmentation](https://arxiv.org/abs/2510.24216)
-
-**Fan Xu**, Wei Gong, Hao Wu, Nan Wang, Qingsong Wen, Kun Wang, Xian Wu, Xibin Zha<sup>*</sup>
-
-</div>
+<h1 class="section-title">💻 Academic Service</h1>
+<div class="misc-box">
+  <strong>Conference Reviewer / PC Member:</strong><br>
+  ACM MM (2024), KDD (2025), ICLR (2025, 2026), NeurIPS (2025), AAAI (2026 PC), CVPR (2026).
 </div>
 
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/cops.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Breaking the Discretization Barrier of Continuous Physics Simulation Learning](https://arxiv.org/abs/2509.17955)
-
-**Fan Xu**, Hao Wu, Nan Wang, Lilan Peng, Kun Wang, Wei Gong, Xibin Zhao<sup>*</sup>
-
-*NeurIPS, 2025* 
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/triton.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Advanced long-term earth system forecasting by learning the small-scale nature](https://arxiv.org/abs/2505.19432)
-
-Hao Wu<sup>†</sup>, Yuan Gao<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun Wang<sup>†</sup>, Ruijian Gou<sup>†</sup>, Chuhan Wu<sup>†</sup>, Xinliang Liu, Juncai He, Shuhao Cao, Junfeng Fang, Xingjian Shi, Feng Tao, Qi Song, Shengxuan Ji, Yanfei Xiang, Yuze Sun, Jiahao Li, **Fan Xu**, Huanshuo Dong, Haixin Wang, Fan Zhang, Penghao Zhao, Xian Wu, Qingsong Wen, Deliang Chen, Xiaomeng Huang<sup>*</sup>
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/turb_l1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-[Turb-L1: Achieving Long-term Turbulence Tracing By Tackling Spectral Bias](https://arxiv.org/abs/2505.19038). 
-
-Hao Wu<sup>†</sup>, Yuan Gao<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Zean Han, **Fan Xu**, Zhihong Zhu, Qingsong Wen, Xian Wu, Kun Wang<sup>*</sup>, Xiaomeng Huang<sup>*</sup>
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='../images/oneforecast.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[OneForecast: A Universal Framework for Global and Regional Weather Forecasting](https://arxiv.org/abs/2502.00338)
-
-Yuan Gao<sup>†</sup>, Hao Wu<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Huanshuo Dong, **Fan Xu**, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>
-
-*ICML, 2025* 
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='../images/MM_pastnet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://arxiv.org/abs/2305.11421)
-
-Hao Wu<sup>†</sup>, **Fan Xu**<sup>†</sup>, Chong Chen, Xian-Sheng Hua, Xiao Luo<sup>*</sup>, Haixin Wang<sup>*</sup>
-
-*ACM MM, 2024*  
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='../images/fire.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Open-CK: The Non-linear Chaotic Combustion Kinetics Benchmark](https://openreview.net/forum?id=mKFFEXeIQS&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
-
-Zaige Fei<sup>†</sup>, **Fan Xu**<sup>†</sup>, Junyuan Mao, Yuxuan Liang, Qingsong Wen, Kun Wang, Hao Wu<sup>*</sup>, Yang Wang<sup>*</sup>
-
-*ICLR, 2025* 
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/pure.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling](https://openreview.net/forum?id=z86knmjoUq&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
-
-Hao Wu, Changhu Wang, **Fan Xu**, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo<sup>*</sup>
-
-*NeurIPS, 2024* 
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='../images/CIDeR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning Counterfactual-Invariant Representations for Robust Time Series Anomaly Detection](https://openreview.net/forum?id=YYRAWFOlk7&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FConference%2FAuthors%23your-submissions))
-
-**Fan Xu**, Nan Wang, Hao Wu, Cheng Yan, Hai Wan, Wei Gong, Hairong Dong, Xibin Zhao<sup>*</sup>
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML-PKDD 2024</div><img src='../images/ecml.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[GLADformer: A Mixed Perspective for Graph-level Anomaly Detection](https://arxiv.org/abs/2406.00734)
-
-**Fan Xu**, Nan Wang<sup>*</sup>, Hao Wu, Xuezhi Wen, Dalin Zhang, Siyang Lu, Binyong Li, Wei Gong, Hai Wan, Xibin Zhao<sup>*</sup>
-
-*ECML PKDD, 2024*  
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='../images/aaai.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum](https://arxiv.org/abs/2312.06441)
-
-**Fan Xu**, Nan Wang<sup>*</sup>, Hao Wu, Xuezhi Wen, Xibin Zhao<sup>*</sup>, Hai Wan
-
-*AAAI, 2024*  
-</div>
-</div>
-
-<div style="width: 200px; height: 200px;">
+<!-- Map -->
+<div style="margin-top: 40px; width: 200px; height: 200px;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=vVlvDabXwmen4OHhXasyewzZDnAZ72bjHHXZxx5J1wI"></script>
 </div>
-
-
-
-
-
-
-<!--
-
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-
-
-I am Fan Xu, a first-year Ph.D. student trained by the University of Science and Technology of China (USTC), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC. My research interest mainly includes foundation models, scientific machine learning, and world models. Feel free to contact me for communication and collaboration.
-
-I am currently a first-year Ph.D. student at the University of Science and Technology of China (USTC), specializing in Computer Science and Technology. Before that, I conducted my Master's studies at USTC. My research interest mainly includes foundation models, scientific machine learning, and world models.
-
-I am currently a first-year Ph.D. student at the University of Science and Technology of China (USTC), specializing in Computer Science and Technology. Before that, I finished my Master's studies at USTC. My research interest mainly includes foundation models, scientific machine learning, and world models. Feel free to contact me for communication and collaboration.
-
-I am Fan Xu, currently a second-year Master's student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022. My research interest includes AI4Science, graph representation learning, anomaly detection, and large language model. Feel free to contact me for communication and collaboration!
-
-I am currently a first-year Ph.D. student at Shenzhen Loop Area Institute (SLAI), supervised by [Prof. Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN&oi=ao). Before that, I conducted my Master's studies at USTC. My research interest mainly includes foundation models, scientific machine learning, and world models.
-
-<span style="color:red;">Please feel free to contact me for communication and collaboration.</span>
-
-**Email**: <u>markxu@mail.ustc.edu.cn</u> or <u>fanxu@slai.edu.cn</u> &nbsp; &nbsp;  **Wechat**: Markxu_0111
-
-
-
-My research interests are as follows:
-
-* **Scientific Machine Learning**: I focus on bridging the gap between traditional numerical methods and modern deep learning. The objective is to overcome the limitations of both: the high computational cost of high-fidelity simulations and the physical inconsistency of purely data-driven models. My research aims to accelerate complex simulations and enable robust predictions from sparse or noisy data, paving the way for advancements in areas like fluid dynamics and climate modeling.
-
-* **Large Language Model Reasoning**: I focus on moving beyond pattern generation to realize efficient reasoning in Large Language Models. This involves investigating the cognitive mechanisms of LLMs, exploring their intrinsic thought patterns to improve how they tackle complex problems. Crucially, a parallel focus is addressing the fundamental challenges of safety and hallucination in both Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs). 
-
-
-# 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2025 (First Author).
-- *2025.05*: &nbsp;🎉🎉 One paper was accepted by ICML 2025.
-- *2025.01*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 (Co-First Author).
-- *2024.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2024.
-- *2024.08*: &nbsp;🎉🎉 One paper was accepted by FCS 2024 (First Author).
-- *2024.07*: &nbsp;🎉🎉 One paper was accepted by ACM MM 2024 (Co-First Author).
-- *2024.05*: &nbsp;🎉🎉 One paper was accepted by ECML PKDD 2024 (First Author).
-- *2023.12*: &nbsp;🎉🎉 One paper was accepted by AAAI 2024 (First Author).
-- *2023.10*: &nbsp;🎉🎉 One paper was accepted by IEEE ICPADS 2023 (First Author).
-- *2023.06*: &nbsp;🎉🎉 One paper was accepted by IEEE SMC 2023 (First Author).
-
-
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ACM MM 2024``</span> [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://openreview.net/forum?id=mL0KvSwXzk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)).**Hao Wu**, **Fan Xu**, Chong Chen, Xian-Sheng Hua, Xiao Luo#, Haixin Wang#
-
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ACM MM 2024``</span> [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://openreview.net/forum?id=mL0KvSwXzk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)).**Hao Wu**, **Fan Xu**, Chong Chen, Xian-Sheng Hua, Xiao Luo#, Haixin Wang#
-
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://arxiv.org/abs/2305.11421).Hao Wu, Wei Xiong, Fan Xu, Xiao Luo#, Chong Chen, Xian-Sheng Hua, Haixin Wang#. Arxiv, 2024.
-
-I am adept at developing various deep learning algorithms using PyTorch. Specifically, I am proficient in various applications of Graph Neural Networks, including node-level, edge-level, graph-level, and spatio-temporal graph modeling. Additionally, I have successfully reproduced models such as FourCastNet, GraphCast and MeshGraphNet.
-
-- *2024.0826*: &nbsp; One paper was accepted by FCS 2024 (First Author).
-- *2024.0716*: &nbsp; One paper was accepted by ACM MM 2024 (Co-First Author).
-- *2024.0527*: &nbsp; One paper was accepted by ECML PKDD 2024 (First Author).
-- *2023.1209*: &nbsp; One paper was accepted by AAAI 2024 (First Author).
-- *2023.1027*: &nbsp; One paper was accepted by IEEE ICPADS 2023 (First Author).
-- *2023.0601*: &nbsp; One paper was accepted by IEEE SMC 2023 (First Author).
-
-
-I am Fan Xu, currently a third-year Master’s student in Computer Science and Technology, University of Science and Technology of China (USTC). Before that, I received my bachelor degree in Dalian Universuty of Technology in 2022. My research interests are as follows:
-
-
-# 💬 Project Skills
-I am adept at developing various deep learning algorithms using PyTorch. Specifically, I am proficient in various applications of graph neural networks and spatio-temporal architectures. Also, I am highly interested in diverse neural operators for fluid dynamics modeling.
-
-- *2024.04*, Application and Research of Diffusion model within Timeseries Anomaly Detection. @ Beijing Jiaotong University
-
-
-#### AI for Science
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``NeurIPS 2024``</span> [PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling](https://openreview.net/forum?id=z86knmjoUq&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). Hao Wu, Changhu Wang, Fan Xu, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Open-CK: The Non-linear Chaotic Combustion Kinetics Benchmark](https://openreview.net/forum?id=A23C57icJt&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). **Zaige Fei**, **Fan Xu**, Junyuan Mao, Yuxuan Liang, Qingsong Wen, Kun Wang, Hao Wu#, Yang Wang#
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [SPARK: Physics-Guided Quantitative Augmentation for Dynamical System Modeling](https://openreview.net/forum?id=BZQmpsuW7D&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). **Fan Xu**, Penghao Zhao, Zhipeng Xu, Xinliang Zhou, Xinping Yi, Qingsong Wen, Hao Wu#, Kun Wang#.
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Leveraging Lie Point Symmetries and Causal Inference for Enhanced Neural PDE Solvers](https://openreview.net/forum?id=WkVxfNdIPk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). Cheng Yan, Ziwei Niu, WangZihao, Penghao Zhao, Kun Wang, Fan Xu#, Hao Wu#
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [P-Align: Self-Alignment in Physical Dynamic System Modeling](https://openreview.net/forum?id=AgTSjXh7vl&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). Zhipeng Xu, Fan Xu, Hanbin Wang, Xinliang Xin, Lilan Peng, Qingsong Wen, Kun Wang#, Hao Wu#
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [SOCST: Learning Continuous Physics Simulation Overcoming Discretization from Partial Observations](https://openreview.net/forum?id=6qeHCZljCq&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)). **Fan Xu**, Cheng Yan, Hao Wu
-
-#### Spatio-temporal Prediction
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ACM MM 2024``</span> [PastNet: introducing physical inductive biases for spatio-temporal video prediction](https://openreview.net/forum?id=mL0KvSwXzk&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)).**Hao Wu**, **Fan Xu**, Chong Chen, Xian-Sheng Hua, Xiao Luo#, Haixin Wang#
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Earthfarseer-V2: A Versatile All-in-One Model for Learning Complex Spatio-Temporal Dynamics](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HdXMhfcAAAAJ&citation_for_view=HdXMhfcAAAAJ:IWHjjKOFINEC). Hao Wu, Junfeng Fang, Yuxuan Liang, Guibin Zhang, Fan Xu, Wei Xiong, Qingsong Wen, Yu Zheng, Kun Wang#. Submitted to TPAMI.
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Spatio-temporal Twins with A Cache for Modeling Long-term System Dynamics](https://openreview.net/forum?id=aE6HazMgRz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)). Hao Wu, Kun Wang, Fan Xu, Yue Li, Xu Wang, Weiyan Wang, Haixin Wang, Xiao Luo#
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arxiv``</span> [Spatio-temporal fluid dynamics modeling via physical-awareness and parameter diffusion guidance](https://arxiv.org/abs/2403.13850). **Hao Wu**, **Fan Xu**, Yifan Duan, Ziwei Niu, Weiyan Wang, Gaofeng Lu, Kun Wang, Yuxuan Liang#, Yang Wang#
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/LIPS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Leveraging Lie Point Symmetries and Causal Inference for Enhanced Neural PDE Solvers](https://openreview.net/forum?id=MGNsP0LGte&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
-
-Cheng Yan, Ziwei Niu, WangZihao, Penghao Zhao, Kun Wang, Fan Xu#, Hao Wu#
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/CIDR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Reinforced Causal Discovery of Multivariate Time Series Anomaly Detection](https://openreview.net/forum?id=MGNsP0LGte&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
-
-**Fan Xu**, Nan Wang#, Hao Wu, Xuezhi Wen, Binyong Li, Hai Wan, Xibin Zhao#
-
-</div>
-</div>
-
----
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/socst.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SOCST: Learning Continuous Physics Simulation Overcoming Discretization from Partial Observations](https://openreview.net/forum?id=MGNsP0LGte&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5))
-
-**Fan Xu**, Cheng Yan, Penghao Zhao, Hao Wu, Kun Wang#, Yang Wang#
-
-</div>
-</div>
-
----
-
-
-
-#  💻 Research Experience
-<div style="display: flex; align-items: center;">
-  <img src="../images/ustc.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
-  <ul style="list-style-type: disc; padding-left: 20px;">
-    <li style="list-style-type: none;">Data Intelligence Research Center, Suzhou Institute for Advanced Research, USTC</li>
-    <li style="list-style-type: none;"><em>2023.09 - 2024.06</em>, <strong>Remote Internship</strong></li>
-    <li style="list-style-type: none;">mentored by Kun Wang and Yang Wang</li>
-  </ul>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <img src="../images/tencent.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
-  <ul style="list-style-type: disc; padding-left: 20px;">
-    <li style="list-style-type: none;">Keen Security Lab, Tencent Technology (Shenzhen)</li>
-    <li style="list-style-type: none;"><em>2022.04 - 2023.05</em>, <strong>Remote Internship</strong></li>
-    <li style="list-style-type: none;">mentored by Mengxia Luo and Nan Wang</li>
-  </ul>
-</div>
-
-# 🎖 Honors and Awards
-- *2023.10* Outstanding Graduate Student Award of Zhejiang University (Top 20%).
-- *2021.02* Outstanding Undergraduate Award (Top 5%).
-- *2020.10* National Scholarship, highest scholarship from Ministry of Education of China (Top 1%).
-- *2020.03* Provincial Hundred-excellent College Student Award (Top 1%). 
-
-# 📖 Educations
-- *2021.09 - present*, Ph.D student, Zhejiang University, Hangzhou. 
-- *2017.09 - 2021.06*, Undergraduate, Anhui Agricultural University, Hefei. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
