@@ -598,12 +598,6 @@ layout: single
   </ul>
 </div>
 
-<h1 class="section-title">💬 Invited Talks</h1>
-<div class="misc-box">
-  <ul style="line-height: 1.6; padding-left: 20px;">
-    <li><em>2024.08</em>, Review of Anomaly Detection Applications and Outlook for Extreme Event Forecasting. @ Tsinghua University</li>
-  </ul>
-</div>
 
 <h1 class="section-title">💻 Academic Service</h1>
 <div class="misc-box">
@@ -624,6 +618,15 @@ layout: single
       <p style="color:red; font-weight: bold;">
         Please feel free to contact me for communication and collaboration.
       </p>
+
+
+
+<h1 class="section-title">💬 Invited Talks</h1>
+<div class="misc-box">
+  <ul style="line-height: 1.6; padding-left: 20px;">
+    <li><em>2024.08</em>, Review of Anomaly Detection Applications and Outlook for Extreme Event Forecasting. @ Tsinghua University</li>
+  </ul>
+</div>
 
 
 
