@@ -384,7 +384,7 @@ layout: single
       <a href="https://openreview.net/forum?id=BZQmpsuW7D&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)">Advanced Global Wildfire Activity Modeling with Hierarchical Graph ODE</a>
     </div>
     <div class="pub-authors">
-      <strong>Fan Xu</strong>, Wei Gong, Hao Wu, Nan Wang, Qingsong Wen, Xian Wu<sup>*</sup>, Kun Wang, Xibin Zhao<sup>*</sup>
+      <strong>Fan Xu</strong>, Wei Gong, Hao Wu, Lilan Peng, Nan Wang, Qingsong Wen, Xian Wu<sup>*</sup>, Kun Wang, Xibin Zhao<sup>*</sup>
     </div>
     <div class="pub-venue">(KDD 2026)</div>
     <div class="pub-links"><a href="https://openreview.net/forum?id=ieh9QzG6VO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DKDD.org%2F2026%2FResearch_Track_August%2FAuthors%23your-submissions)">Paper</a></div>
@@ -558,7 +558,7 @@ layout: single
       <a href="https://arxiv.org/abs/2510.24216">Unlocking Out-of-Distribution Generalization in Dynamics through Physics-Guided Augmentation</a>
     </div>
     <div class="pub-authors">
-      <strong>Fan Xu</strong>, Wei Gong, Hao Wu, Nan Wang, Qingsong Wen, Kun Wang, Xian Wu, Xibin Zha<sup>*</sup>
+      <strong>Fan Xu</strong>, Wei Gong, Hao Wu, Nan Wang, Qingsong Wen, Kun Wang, Xian Wu, Xibin Zhao<sup>*</sup>
     </div>
     <div class="pub-venue">(Arxiv 2026)</div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2510.24216">Paper</a></div>
