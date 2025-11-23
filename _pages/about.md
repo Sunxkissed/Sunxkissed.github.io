@@ -530,18 +530,25 @@ layout: single
 <!-- Paper: Arxiv Triton -->
 <div class="pub-card">
   <div class="pub-img-col">
-    <div class="pub-badge">Arxiv</div>
+    <div class="pub-badge">Arxiv 2026</div>
     <img src="../images/Tritoncast.png" class="pub-img" alt="Paper Image">
   </div>
   <div class="pub-content-col">
     <div class="pub-title">
-      <a href="https://arxiv.org/abs/2505.19432">Advanced long-term earth system forecasting by learning the small-scale nature</a>
+      <a href="https://tritoncast4earth.netlify.app/">Advanced Long-term Earth System Forecasting</a>
     </div>
     <div class="pub-authors">
-      Hao Wu<sup>†</sup>, Yuan Gao<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun Wang<sup>†</sup>, Ruijian Gou<sup>†</sup>, Chuhan Wu<sup>†</sup>, Xinliang Liu, Juncai He, Shuhao Cao, Junfeng Fang, Xingjian Shi, Feng Tao, Qi Song, Shengxuan Ji, Yanfei Xiang, Yuze Sun, Jiahao Li, <strong>Fan Xu</strong>, Huanshuo Dong, Haixin Wang, Fan Zhang, Penghao Zhao, Xian Wu, Qingsong Wen, Deliang Chen, Xiaomeng Huang<sup>*</sup>
+      Hao Wu, Yuan Gao, Ruijian Gou, Xian Wu, Chuhan Wu, Huahui Yi, Johannes Brandstetter, Fan Xu, Niklas Boers, Kun Wang, Penghao Zhao, Hao Jia, Qi Song, Xinliang Liu, Juncai He, Shuhao Cao, Huanshuo Dong, Yanfei Xiang, Fan Zhang, Haixin Wang, Xingjian Shi, Qiufeng Wang, Shuaipeng Li, Ruobing Xie, Feng Tao, Yuxu Lu, Yu Guo, Yuntian Chen, Yuxuan Liang, Qingsong Wen, Wanli Ouyang, Deliang Chen, Xiaomeng Huang
     </div>
-    <div class="pub-venue">(Arxiv 2026)</div>
-    <div class="pub-links"><a href="https://arxiv.org/abs/2505.19432">Paper</a></div>
+    <div class="pub-venue">
+      (Submit to Journal)
+    </div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2505.19432">Paper</a>
+      <a href="https://github.com/Alexander-wu/TritonCast">Code</a>
+      <a href="https://huggingface.co/TritonCast">Hugging Face</a>
+      <a href="https://tritoncast4earth.netlify.app/">Project Page</a>
+    </div>
   </div>
 </div>
 
