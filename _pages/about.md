@@ -323,9 +323,6 @@ layout: single
       <p>
         I am currently a first-year Ph.D. student at Shenzhen Loop Area Institute (SLAI), supervised by <a href="https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN&oi=ao">Prof. Wanli Ouyang</a>. Before that, I conducted my Master's studies at USTC. My research interest mainly includes foundation models, scientific machine learning, and world models.
       </p>
-      <p style="color:red; font-weight: bold;">
-        Please feel free to contact me for communication and collaboration.
-      </p>
     </div>
 
     <!-- 链接按钮 -->
@@ -618,3 +615,18 @@ layout: single
 <div style="margin-top: 40px; width: 200px; height: 200px;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=vVlvDabXwmen4OHhXasyewzZDnAZ72bjHHXZxx5J1wI"></script>
 </div>
+
+
+
+
+
+<!-- 
+      <p style="color:red; font-weight: bold;">
+        Please feel free to contact me for communication and collaboration.
+      </p>
+
+
+
+-->
+
+
