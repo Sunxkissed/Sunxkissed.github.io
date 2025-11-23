@@ -527,6 +527,24 @@ layout: single
 <!-- ================= PRE-PRINT ================= -->
 <h1 class="section-title">🌟 Pre-prints</h1>
 
+<!-- Paper: Arxiv Triton -->
+<div class="pub-card">
+  <div class="pub-img-col">
+    <div class="pub-badge">Arxiv</div>
+    <img src="../images/Tritoncast.png" class="pub-img" alt="Paper Image">
+  </div>
+  <div class="pub-content-col">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2505.19432">Advanced long-term earth system forecasting by learning the small-scale nature</a>
+    </div>
+    <div class="pub-authors">
+      Hao Wu<sup>†</sup>, Yuan Gao<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun Wang<sup>†</sup>, Ruijian Gou<sup>†</sup>, Chuhan Wu<sup>†</sup>, Xinliang Liu, Juncai He, Shuhao Cao, Junfeng Fang, Xingjian Shi, Feng Tao, Qi Song, Shengxuan Ji, Yanfei Xiang, Yuze Sun, Jiahao Li, <strong>Fan Xu</strong>, Huanshuo Dong, Haixin Wang, Fan Zhang, Penghao Zhao, Xian Wu, Qingsong Wen, Deliang Chen, Xiaomeng Huang<sup>*</sup>
+    </div>
+    <div class="pub-venue">(Arxiv 2026)</div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2505.19432">Paper</a></div>
+  </div>
+</div>
+
 <!-- Paper: Arxiv Unlocking OOD / Spark -->
 <div class="pub-card">
   <div class="pub-img-col">
@@ -540,26 +558,8 @@ layout: single
     <div class="pub-authors">
       <strong>Fan Xu</strong>, Wei Gong, Hao Wu, Nan Wang, Qingsong Wen, Kun Wang, Xian Wu, Xibin Zha<sup>*</sup>
     </div>
-    <div class="pub-venue">(Arxiv)</div>
+    <div class="pub-venue">(Arxiv 2026)</div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2510.24216">Paper</a></div>
-  </div>
-</div>
-
-<!-- Paper: Arxiv Triton -->
-<div class="pub-card">
-  <div class="pub-img-col">
-    <div class="pub-badge">Arxiv</div>
-    <img src="../images/triton.png" class="pub-img" alt="Paper Image">
-  </div>
-  <div class="pub-content-col">
-    <div class="pub-title">
-      <a href="https://arxiv.org/abs/2505.19432">Advanced long-term earth system forecasting by learning the small-scale nature</a>
-    </div>
-    <div class="pub-authors">
-      Hao Wu<sup>†</sup>, Yuan Gao<sup>†</sup>, Ruiqi Shu<sup>†</sup>, Kun Wang<sup>†</sup>, Ruijian Gou<sup>†</sup>, Chuhan Wu<sup>†</sup>, Xinliang Liu, Juncai He, Shuhao Cao, Junfeng Fang, Xingjian Shi, Feng Tao, Qi Song, Shengxuan Ji, Yanfei Xiang, Yuze Sun, Jiahao Li, <strong>Fan Xu</strong>, Huanshuo Dong, Haixin Wang, Fan Zhang, Penghao Zhao, Xian Wu, Qingsong Wen, Deliang Chen, Xiaomeng Huang<sup>*</sup>
-    </div>
-    <div class="pub-venue">(Arxiv)</div>
-    <div class="pub-links"><a href="https://arxiv.org/abs/2505.19432">Paper</a></div>
   </div>
 </div>
 
@@ -576,7 +576,7 @@ layout: single
     <div class="pub-authors">
       <strong>Fan Xu</strong>, Nan Wang, Hao Wu, Cheng Yan, Hai Wan, Wei Gong, Hairong Dong, Xibin Zhao<sup>*</sup>
     </div>
-    <div class="pub-venue">(Conference)</div>
+    <div class="pub-venue">(Arxiv 2026)</div>
     <div class="pub-links"><a href="#">Paper</a></div>
   </div>
 </div>
