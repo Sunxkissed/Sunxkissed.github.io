@@ -405,7 +405,7 @@ layout: single
     <div class="pub-authors">
       Yuan Gao, Ruiqi Shu, Hao Wu, <strong>Fan Xu</strong>, Yanfei Xiang, Ruijian Gou, Qingsong Wen, Xian Wu, Kun Wang, Xiaomeng Huang<sup>*</sup>
     </div>
-    <div class="pub-venue">(AAAI 2026)</div>
+    <div class="pub-venue">(AAAI 2026, CCF Rank A)</div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2505.21020">Paper</a></div>
   </div>
 </div>
@@ -423,7 +423,7 @@ layout: single
     <div class="pub-authors">
       <strong>Fan Xu</strong>, Hao Wu, Nan Wang, Lilan Peng, Kun Wang, Wei Gong, Xibin Zhao<sup>*</sup>
     </div>
-    <div class="pub-venue">(NeurIPS 2025)</div>
+    <div class="pub-venue">(NeurIPS 2025, CCF Rank A)</div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2509.17955">Paper</a></div>
   </div>
 </div> 
@@ -441,7 +441,7 @@ layout: single
     <div class="pub-authors">
       Yuan Gao, Hao Wu, Ruiqi Shu, Huanshuo Dong, <strong>Fan Xu</strong>, Rui Chen, Yibo Yan, Qingsong Wen, Xuming Hu, Kun Wang, Jiahao Wu, Qing Li, Hui Xiong, Xiaomeng Huang<sup>*</sup>
     </div>
-    <div class="pub-venue">(ICML 2025)</div>
+    <div class="pub-venue">(ICML 2025, CCF Rank A)</div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2502.00338">Paper</a></div>
   </div>
 </div>
@@ -459,7 +459,7 @@ layout: single
     <div class="pub-authors">
       Zaige Fei<sup>†</sup>, <strong>Fan Xu</strong><sup>†</sup>, Junyuan Mao, Yuxuan Liang, Qingsong Wen, Kun Wang, Hao Wu<sup>*</sup>, Yang Wang<sup>*</sup>
     </div>
-    <div class="pub-venue">(ICLR 2025)</div>
+    <div class="pub-venue">(ICLR 2025, THU Rank A)</div>
     <div class="pub-links"><a href="https://openreview.net/forum?id=mKFFEXeIQS&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)">Paper</a></div>
   </div>
 </div>
@@ -477,7 +477,7 @@ layout: single
     <div class="pub-authors">
       Hao Wu, Changhu Wang, <strong>Fan Xu</strong>, Jinbao Xue, Chong Chen, Xian-Sheng Hua, Xiao Luo<sup>*</sup>
     </div>
-    <div class="pub-venue">(NeurIPS 2024)</div>
+    <div class="pub-venue">(NeurIPS 2024, CCF Rank A)</div>
     <div class="pub-links"><a href="https://openreview.net/forum?id=z86knmjoUq&referrer=%5Bthe%20profile%20of%20Fan%20Xu%5D(%2Fprofile%3Fid%3D~Fan_Xu5)">Paper</a></div>
   </div>
 </div>
@@ -495,7 +495,7 @@ layout: single
     <div class="pub-authors">
       Hao Wu<sup>†</sup>, <strong>Fan Xu</strong><sup>†</sup>, Chong Chen, Xian-Sheng Hua, Xiao Luo<sup>*</sup>, Haixin Wang<sup>*</sup>
     </div>
-    <div class="pub-venue">(ACM MM 2024)</div>
+    <div class="pub-venue">(ACM MM 2024, CCF Rank A)</div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2305.11421">Paper</a></div>
   </div>
 </div>
@@ -513,7 +513,7 @@ layout: single
     <div class="pub-authors">
       <strong>Fan Xu</strong>, Nan Wang<sup>*</sup>, Hao Wu, Xuezhi Wen, Xibin Zhao<sup>*</sup>, Hai Wan
     </div>
-    <div class="pub-venue">(AAAI 2024)</div>
+    <div class="pub-venue">(AAAI 2024, CCF Rank A)</div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2312.06441">Paper</a></div>
   </div>
 </div>
