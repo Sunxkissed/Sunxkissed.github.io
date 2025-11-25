@@ -404,9 +404,7 @@ layout: single
     <div class="pub-authors">
       Yuan Gao<sup>†</sup>, Hao Wu<sup>†‡</sup>, <strong>Fan Xu<strong>, Yanfei Xiang, Ruijian Gou, Ruiqi Shu, Qingsong Wen, Xian Wu, Kun Wang*, Xiaomeng Huang*
     </div>
-    <div class="pub-venue">
-      (AAAI 2026, CCF Rank A)
-    </div>
+    <div class="pub-venue">(AAAI 2026, CCF Rank A)</div>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2505.21020">Paper</a>
       <a href="https://github.com/YuanGao-YG/NeuralOM">Code</a>
