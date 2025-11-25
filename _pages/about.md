@@ -395,7 +395,7 @@ layout: single
 <div class="pub-card">
   <div class="pub-img-col">
     <div class="pub-badge">AAAI 2026</div>
-    <img src="../images/fig_main.jpg" class="pub-img" alt="Paper Image">
+    <img src="../images/neuralom.png" class="pub-img" alt="Paper Image">
   </div>
   <div class="pub-content-col">
     <div class="pub-title">
