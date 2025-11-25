@@ -402,7 +402,7 @@ layout: single
       <a href="https://arxiv.org/abs/2505.21020">NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation</a>
     </div>
     <div class="pub-authors">
-      Yuan Gao<sup>†</sup>, Hao Wu<sup>†‡</sup>, <strong>Fan Xu<strong>, Yanfei Xiang, Ruijian Gou, Ruiqi Shu, Qingsong Wen, Xian Wu, Kun Wang*, Xiaomeng Huang*
+      Yuan Gao<sup>†</sup>, Hao Wu<sup>†‡</sup>, <strong>Fan Xu</strong>, Yanfei Xiang, Ruijian Gou, Ruiqi Shu, Qingsong Wen, Xian Wu, Kun Wang*, Xiaomeng Huang*
     </div>
     <div class="pub-venue">(AAAI 2026, CCF Rank A)</div>
     <div class="pub-links">
