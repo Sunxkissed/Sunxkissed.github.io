@@ -386,7 +386,7 @@ layout: single
     <div class="pub-authors">
       <strong>Fan Xu</strong>, Wei Gong, Hao Wu, Lilan Peng, Nan Wang, Qingsong Wen, Xian Wu<sup>*</sup>, Kun Wang, Xibin Zhao<sup>*</sup>
     </div>
-    <div class="pub-venue">(KDD 2026)</div>
+    <div class="pub-venue">(KDD 2026, CCF Rank A)</div>
     <div class="pub-links"><a href="https://openreview.net/forum?id=ieh9QzG6VO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DKDD.org%2F2026%2FResearch_Track_August%2FAuthors%23your-submissions)">Paper</a></div>
   </div>
 </div>
