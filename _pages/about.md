@@ -395,20 +395,26 @@ layout: single
 <div class="pub-card">
   <div class="pub-img-col">
     <div class="pub-badge">AAAI 2026</div>
-    <!-- 占位图：原文此条目无对应图片 -->
-    <img src="../images/neuralom.png" class="pub-img" alt="Paper Image">
+    <img src="../images/fig_main.jpg" class="pub-img" alt="Paper Image">
   </div>
   <div class="pub-content-col">
     <div class="pub-title">
       <a href="https://arxiv.org/abs/2505.21020">NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation</a>
     </div>
     <div class="pub-authors">
-      Yuan Gao, Ruiqi Shu, Hao Wu, <strong>Fan Xu</strong>, Yanfei Xiang, Ruijian Gou, Qingsong Wen, Xian Wu, Kun Wang, Xiaomeng Huang<sup>*</sup>
+      Yuan Gao<sup>†</sup>, Hao Wu<sup>†‡</sup>, <strong>Fan Xu<strong>, Yanfei Xiang, Ruijian Gou, Ruiqi Shu, Qingsong Wen, Xian Wu, Kun Wang*, Xiaomeng Huang*
     </div>
-    <div class="pub-venue">(AAAI 2026, CCF Rank A)</div>
-    <div class="pub-links"><a href="https://arxiv.org/abs/2505.21020">Paper</a></div>
+    <div class="pub-venue">
+      (AAAI 2026, CCF Rank A)
+    </div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2505.21020">Paper</a>
+      <a href="https://github.com/YuanGao-YG/NeuralOM">Code</a>
+      <img src="https://img.shields.io/github/stars/YuanGao-YG/NeuralOM?label=Star&style=social" style="vertical-align:middle; height: 16px;">
+    </div>
   </div>
 </div>
+
 
 <!-- Paper: NeurIPS 2025 Breaking -->
 <div class="pub-card">
