@@ -529,7 +529,7 @@ layout: single
 <!-- Paper: Arxiv Triton -->
 <div class="pub-card">
   <div class="pub-img-col">
-    <div class="pub-badge">Arxiv 2026</div>
+    <div class="pub-badge">Arxiv 2025</div>
     <img src="../images/temperature_850_animation.gif" class="pub-img" alt="Paper Image">
   </div>
   <div class="pub-content-col">
@@ -554,7 +554,7 @@ layout: single
 <!-- Paper: Arxiv Unlocking OOD / Spark -->
 <div class="pub-card">
   <div class="pub-img-col">
-    <div class="pub-badge">Arxiv 2026</div>
+    <div class="pub-badge">Arxiv 2025</div>
     <img src="../images/spark.png" class="pub-img" alt="Paper Image">
   </div>
   <div class="pub-content-col">
@@ -564,7 +564,7 @@ layout: single
     <div class="pub-authors">
       <strong>Fan Xu</strong>, Wei Gong, Hao Wu, Nan Wang, Qingsong Wen, Kun Wang, Xian Wu, Xibin Zhao<sup>*</sup>
     </div>
-    <div class="pub-venue">(Arxiv 2026)</div>
+    <div class="pub-venue">(Arxiv 2025)</div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2510.24216">Paper</a></div>
   </div>
 </div>
@@ -572,7 +572,7 @@ layout: single
 <!-- Paper: CIDeR -->
 <div class="pub-card">
   <div class="pub-img-col">
-    <div class="pub-badge">Arxiv 2026</div>
+    <div class="pub-badge">Arxiv 2025</div>
     <img src="../images/CIDeR.png" class="pub-img" alt="Paper Image">
   </div>
   <div class="pub-content-col">
@@ -582,7 +582,7 @@ layout: single
     <div class="pub-authors">
       <strong>Fan Xu</strong>, Nan Wang, Hao Wu, Cheng Yan, Hai Wan, Wei Gong, Hairong Dong, Xibin Zhao<sup>*</sup>
     </div>
-    <div class="pub-venue">(Arxiv 2026)</div>
+    <div class="pub-venue">(Arxiv 2025)</div>
     <div class="pub-links"><a href="#">Paper</a></div>
   </div>
 </div>
