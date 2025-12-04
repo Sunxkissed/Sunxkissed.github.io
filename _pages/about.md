@@ -617,27 +617,6 @@ layout: single
 
 
 
-<!-- Paper: CIDeR -->
-<div class="pub-card">
-  <div class="pub-img-col">
-    <div class="pub-badge">Arxiv 2025</div>
-    <img src="../images/CIDeR.png" class="pub-img" alt="Paper Image">
-  </div>
-  <div class="pub-content-col">
-    <div class="pub-title">
-      <a href="https://openreview.net/forum?id=YYRAWFOlk7&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FConference%2FAuthors%23your-submissions)">Learning Counterfactual-Invariant Representations for Robust Time Series Anomaly Detection</a>
-    </div>
-    <div class="pub-authors">
-      <strong>Fan Xu</strong>, Nan Wang, Hao Wu, Cheng Yan, Hai Wan, Wei Gong, Hairong Dong, Xibin Zhao<sup>*</sup>
-    </div>
-    <div class="pub-venue">(Arxiv 2025)</div>
-    <div class="pub-links"><a href="#">Paper</a></div>
-  </div>
-</div>
-
-
-
-
 
 -->
 
