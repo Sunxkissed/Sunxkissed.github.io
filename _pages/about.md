@@ -428,7 +428,7 @@ layout: single
   <!-- 右侧：头像（使用占位图，因原文无头像链接） -->
   <div class="bio-photo-col"> 
     <!-- 提示：请将此处 src 替换为您的头像路径，例如 ../images/avatar.jpg -->
-    <img src="../images/touxiang.png" class="bio-photo" alt="Fan Xu">
+    <img src="../images/touxiang1.png" class="bio-photo" alt="Fan Xu">
   </div>
 
 </div>
