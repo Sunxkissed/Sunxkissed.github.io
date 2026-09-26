@@ -33,6 +33,8 @@ export interface LocaleMessages {
     viewAll: string;
   };
   publications: {
+    coFirstAuthor: string;
+    correspondingAuthor: string;
     searchPlaceholder: string;
     filters: string;
     year: string;
@@ -79,10 +81,12 @@ const en: LocaleMessages = {
   home: {
     about: 'About',
     news: 'News',
-    selectedPublications: 'Publications',
+    selectedPublications: 'Selected Publications',
     viewAll: 'View All',
   },
   publications: {
+    coFirstAuthor: 'co-first author',
+    correspondingAuthor: 'corresponding author',
     searchPlaceholder: 'Search publications...',
     filters: 'Filters',
     year: 'Year',
@@ -129,10 +133,12 @@ const zh: LocaleMessages = {
   home: {
     about: '关于我',
     news: '动态',
-    selectedPublications: '论文',
+    selectedPublications: '精选论文',
     viewAll: '查看全部',
   },
   publications: {
+    coFirstAuthor: '共同一作',
+    correspondingAuthor: '通讯作者',
     searchPlaceholder: '搜索论文...',
     filters: '筛选',
     year: '年份',
