@@ -226,6 +226,11 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 {author.isCorresponding && (
                                                     <sup className={`ml-0 ${author.isHighlighted ? 'text-accent' : 'text-neutral-600 dark:text-neutral-400'}`}>†</sup>
                                                 )}
+                                                {author.isHighlighted && (author.isCoAuthor || author.isCorresponding) && (
+                                                    <span className="ml-1 text-xs font-medium text-accent">
+                                                        ({author.isCorresponding ? messages.publications.correspondingAuthor : messages.publications.coFirstAuthor})
+                                                    </span>
+                                                )}
                                                 {idx < pub.authors.length - 1 && ', '}
                                             </span>
                                         ))}
