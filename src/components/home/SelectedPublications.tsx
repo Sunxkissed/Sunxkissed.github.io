@@ -57,17 +57,11 @@ export default function SelectedPublications({ publications, title }: SelectedPu
                             <p className="text-sm text-neutral-600 leading-relaxed mb-2">
                                 {pub.authors.map((author, idx) => (
                                     <span key={idx}>
-                                        <span className={`${author.isHighlighted ? 'font-semibold text-accent' : ''} ${author.isCoAuthor ? `underline underline-offset-4 ${author.isHighlighted ? 'decoration-accent' : 'decoration-neutral-400'}` : ''}`}>
+                                        <span className={author.isHighlighted ? 'font-semibold text-accent' : ''}>
                                             {author.name}
+                                            {author.isCoAuthor && <sup>*</sup>}
+                                            {author.isCorresponding && <sup>†</sup>}
                                         </span>
-                                        {author.isCorresponding && (
-                                            <sup className={`ml-0 ${author.isHighlighted ? 'text-accent' : 'text-neutral-600 dark:text-neutral-500'}`}>†</sup>
-                                        )}
-                                        {author.isHighlighted && (author.isCoAuthor || author.isCorresponding) && (
-                                            <span className="ml-1 text-xs font-medium text-accent">
-                                                ({author.isCorresponding ? messages.publications.correspondingAuthor : messages.publications.coFirstAuthor})
-                                            </span>
-                                        )}
                                         {idx < pub.authors.length - 1 && ', '}
                                     </span>
                                 ))}
