@@ -45,7 +45,7 @@ function processSections(sections: SectionConfig[], locale?: string): SectionCon
           : allPubs;
         return {
           ...section,
-          publications: filteredPubs.slice(0, section.limit || 5),
+          publications: filteredPubs.slice(0, section.limit),
         };
       }
       case 'list': {

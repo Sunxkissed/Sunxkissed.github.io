@@ -20,7 +20,7 @@
 | News / 最新动态 | `content/news.toml` | `content_zh/news.toml` |
 | 论文列表 | `content/publications.bib` | 共用默认论文文件 |
 | 论文页选项 | `content/publications.toml` | `content_zh/publications.toml` |
-| 首页板块与精选论文数量 | `content/about.toml` | `content_zh/about.toml` |
+| 首页板块与论文列表 | `content/about.toml` | `content_zh/about.toml` |
 | 奖项 | `content/awards.toml` | `content_zh/awards.toml` |
 | 学术服务 | `content/services.toml` | `content_zh/services.toml` |
 | 简历 | `content/cv.md` | `content_zh/cv.md` |
@@ -31,7 +31,9 @@
 
 上传图片或 PDF 时，在 GitHub 的 `public/` 对应目录中选择 **Add file → Upload files**。例如 `public/papers/example.png` 的网页地址为 `/papers/example.png`。BibTeX 的论文配图字段只填写文件名，例如 `preview = {example.png}`，程序会自动补上 `/papers/`。
 
-TOML 的字符串要保留引号；新增 News、奖项等条目时，可以复制现有条目的格式。论文中的 `selected = {true}` 控制是否作为精选论文展示，具体写法沿用已有 BibTeX 条目。
+TOML 的字符串要保留引号；新增 News、奖项等条目时，可以复制现有条目的格式。首页目前展示全部论文，按年份从新到旧排列。若以后只想展示精选论文，可在 `about.toml` 的论文板块中设置 `filter = "selected"`，再用 BibTeX 中的 `selected = {true}` 标记需要展示的论文；可选的 `limit` 控制展示数量。
+
+奖项、学术服务和简历目前暂时隐藏，原内容文件仍保留。如需恢复展示，在中英文 `config.toml` 的 `navigation` 中重新添加对应页面即可。
 
 ## 首次启用（只需一次）
 

@@ -201,19 +201,19 @@ export default function PublicationsList({ config, publications, embedded = fals
                         >
                             <div className="flex flex-col md:flex-row gap-6">
                                 {pub.preview && (
-                                    <div className="w-full md:w-48 flex-shrink-0">
+                                    <div className="w-full md:w-60 xl:w-72 flex-shrink-0">
                                         <div className="aspect-video md:aspect-[4/3] relative rounded-lg overflow-hidden bg-neutral-100 dark:bg-neutral-800">
                                             <Image
                                                 src={`/papers/${pub.preview}`}
                                                 alt={pub.title}
                                                 fill
-                                                className="object-cover"
-                                                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                                                className="object-contain p-2"
+                                                sizes="(min-width: 1280px) 288px, (min-width: 768px) 240px, calc(100vw - 96px)"
                                             />
                                         </div>
                                     </div>
                                 )}
-                                <div className="flex-grow">
+                                <div className="min-w-0 flex-grow">
                                     <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary mb-2 leading-tight`}>
                                         <FormattedBibTeXText nodes={pub.titleNodes} fallback={pub.title} />
                                     </h3>

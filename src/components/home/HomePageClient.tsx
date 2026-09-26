@@ -54,9 +54,9 @@ export default function HomePageClient({ dataByLocale, defaultLocale }: HomePage
   }
 
   return (
-    <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 bg-background min-h-screen">
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
-        <div className="lg:col-span-1">
+    <div className="site-container py-8 lg:py-10 bg-background min-h-screen">
+      <div className="grid grid-cols-1 lg:grid-cols-[minmax(18rem,0.95fr)_minmax(0,2.25fr)] gap-10 xl:gap-16">
+        <div className="min-w-0">
           <Profile
             author={data.author}
             social={data.social}
@@ -65,7 +65,7 @@ export default function HomePageClient({ dataByLocale, defaultLocale }: HomePage
           />
         </div>
 
-        <div className="lg:col-span-2 space-y-8">
+        <div className="min-w-0 space-y-10">
           {data.pagesToShow.map((page) => (
             <section key={page.id} id={page.id} className="scroll-mt-24 space-y-8">
               {page.type === 'about' && page.sections.map((section: SectionConfig) => {
@@ -84,7 +84,6 @@ export default function HomePageClient({ dataByLocale, defaultLocale }: HomePage
                         key={section.id}
                         publications={section.publications || []}
                         title={section.title}
-                        enableOnePageMode={data.enableOnePageMode}
                       />
                     );
                   case 'list':

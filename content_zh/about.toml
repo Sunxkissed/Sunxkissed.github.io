@@ -21,9 +21,6 @@ title = "动态"
 source = "news.toml"
 
 [[sections]]
-id = "featured_publications"
+id = "publications"
 type = "publications"
-title = "精选论文"
-filter = "selected"
-limit = 5
-
+title = "论文"
