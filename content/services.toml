@@ -1,0 +1,9 @@
+type = "card"
+title = "Services"
+description = "Professional services and community involvement."
+
+[[items]]
+title = "Reviewer"
+subtitle = "Conference Name"
+date = ""
+content = "ICLR, NeurIPS, ICML, CVPR, KDD, AAAI, ACM MM"

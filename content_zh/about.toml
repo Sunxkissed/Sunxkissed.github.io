@@ -1,0 +1,29 @@
+type = "about"
+title = "关于我"
+
+[profile]
+research_interests = [
+  "生成式AI",
+  "世界模型",
+  "智能体强化学习"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "关于我"
+
+[[sections]]
+id = "news"
+type = "list"
+title = "动态"
+source = "news.toml"
+
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "精选论文"
+filter = "selected"
+limit = 5
+

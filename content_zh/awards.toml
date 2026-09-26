@@ -1,0 +1,10 @@
+type = "card"
+title = "奖项"
+description = "我获得的荣誉与奖项。"
+
+[[items]]
+title = "一等学业奖学金"
+subtitle = "中国科学技术大学"
+date = "2025"
+content = ""
+

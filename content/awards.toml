@@ -1,0 +1,10 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards I have received."
+
+[[items]]
+title = "First-Class Academic Scholarship"
+subtitle = "University of Science and Technology of China"
+date = "2025"
+content = ""
+
