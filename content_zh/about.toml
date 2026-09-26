@@ -23,4 +23,6 @@ source = "news.toml"
 [[sections]]
 id = "publications"
 type = "publications"
-title = "论文"
+title = "精选论文"
+filter = "selected"
+order = ["xu2026tyche", "wu2026roboalign", "xu2026breaking", "xu2026advanced"]

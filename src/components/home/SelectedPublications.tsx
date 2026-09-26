@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion';
 import Image from 'next/image';
+import Link from 'next/link';
 import { Publication } from '@/types/publication';
 import { useMessages } from '@/lib/i18n/useMessages';
 import FormattedBibTeXText from '@/components/publications/FormattedBibTeXText';
@@ -21,7 +22,12 @@ export default function SelectedPublications({ publications, title }: SelectedPu
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.4 }}
         >
-            <h2 className="text-2xl font-serif font-bold text-primary mb-5">{resolvedTitle}</h2>
+            <div className="flex items-center justify-between gap-4 mb-5">
+                <h2 className="text-2xl font-serif font-bold text-primary">{resolvedTitle}</h2>
+                <Link href="/publications" className="shrink-0 text-sm font-medium text-accent hover:underline underline-offset-4">
+                    {messages.home.viewAll} <span aria-hidden="true">→</span>
+                </Link>
+            </div>
             <div className="space-y-5">
                 {publications.map((pub, index) => (
                     <motion.article
@@ -56,6 +62,11 @@ export default function SelectedPublications({ publications, title }: SelectedPu
                                         </span>
                                         {author.isCorresponding && (
                                             <sup className={`ml-0 ${author.isHighlighted ? 'text-accent' : 'text-neutral-600 dark:text-neutral-500'}`}>†</sup>
+                                        )}
+                                        {author.isHighlighted && (author.isCoAuthor || author.isCorresponding) && (
+                                            <span className="ml-1 text-xs font-medium text-accent">
+                                                ({author.isCorresponding ? messages.publications.correspondingAuthor : messages.publications.coFirstAuthor})
+                                            </span>
                                         )}
                                         {idx < pub.authors.length - 1 && ', '}
                                     </span>

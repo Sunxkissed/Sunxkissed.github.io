@@ -13,6 +13,7 @@ interface SectionConfig {
   source?: string;
   filter?: string;
   limit?: number;
+  order?: string[];
   content?: string;
   publications?: Publication[];
   items?: NewsItem[];
@@ -43,9 +44,14 @@ function processSections(sections: SectionConfig[], locale?: string): SectionCon
         const filteredPubs = section.filter === 'selected'
           ? allPubs.filter((p) => p.selected)
           : allPubs;
+        const priority = new Map((section.order || []).map((id, index) => [id, index]));
+        const orderedPubs = [...filteredPubs].sort((a, b) =>
+          (priority.get(a.id) ?? Number.MAX_SAFE_INTEGER) -
+          (priority.get(b.id) ?? Number.MAX_SAFE_INTEGER)
+        );
         return {
           ...section,
-          publications: filteredPubs.slice(0, section.limit),
+          publications: orderedPubs.slice(0, section.limit),
         };
       }
       case 'list': {
