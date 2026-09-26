@@ -85,8 +85,8 @@ const en: LocaleMessages = {
     viewAll: 'View All',
   },
   publications: {
-    coFirstAuthor: 'co-first author',
-    correspondingAuthor: 'corresponding author',
+    coFirstAuthor: '*',
+    correspondingAuthor: '',
     searchPlaceholder: 'Search publications...',
     filters: 'Filters',
     year: 'Year',
