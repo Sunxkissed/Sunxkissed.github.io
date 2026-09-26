@@ -31,7 +31,9 @@
 
 上传图片或 PDF 时，在 GitHub 的 `public/` 对应目录中选择 **Add file → Upload files**。例如 `public/papers/example.png` 的网页地址为 `/papers/example.png`。BibTeX 的论文配图字段只填写文件名，例如 `preview = {example.png}`，程序会自动补上 `/papers/`。
 
-TOML 的字符串要保留引号；新增 News、奖项等条目时，可以复制现有条目的格式。首页目前展示全部论文，按年份从新到旧排列。若以后只想展示精选论文，可在 `about.toml` 的论文板块中设置 `filter = "selected"`，再用 BibTeX 中的 `selected = {true}` 标记需要展示的论文；可选的 `limit` 控制展示数量。
+TOML 的字符串要保留引号；新增 News、奖项等条目时，可以复制现有条目的格式。首页的 Selected Publications 通过 `about.toml` 的 `filter = "selected"` 展示 BibTeX 中标记 `selected = {true}` 的论文，View All 打开完整论文列表。中英文 `about.toml` 的 `order` 数组可以按 BibTeX 条目 ID 指定置顶顺序；未列出的论文继续按年份从新到旧排列，可选的 `limit` 控制展示数量。
+
+作者字段中，在自己的姓名后加 `#` 标注共同一作，加 `*` 标注通讯作者，例如 `Xu, Fan#` 或 `Xu, Fan*`。这些标记会在中英文页面显示对应署名说明，导出 BibTeX 时会移除。
 
 奖项、学术服务和简历目前暂时隐藏，原内容文件仍保留。如需恢复展示，在中英文 `config.toml` 的 `navigation` 中重新添加对应页面即可。
 
