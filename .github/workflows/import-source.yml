@@ -1,0 +1,32 @@
+name: Import PRISM source (one-time migration)
+
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/import-source.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import-source:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout current website
+        uses: actions/checkout@v4
+      - name: Verify and unpack reviewed source
+        run: |
+          echo "f1a1a25de923222927aca6837b10d49fb09c44c58c2cb84b15f828289b3a8be1  prism-source.tar.gz" | sha256sum --check -
+          mkdir "$RUNNER_TEMP/prism-source"
+          tar -xzf prism-source.tar.gz -C "$RUNNER_TEMP/prism-source"
+      - name: Replace generated website with editable source
+        run: |
+          git rm -r --ignore-unmatch -- .nojekyll 404 404.html _next awards bio.jpg cv favicon.svg index.html index.txt papers publications services
+          cp -a "$RUNNER_TEMP/prism-source/." .
+          git rm -- prism-source.tar.gz
+          git add --all
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m "Migrate personal website to editable PRISM source"
+          git push origin HEAD:main
