@@ -67,7 +67,11 @@ export default function SelectedPublications({ publications, title }: SelectedPu
                                 ))}
                             </p>
                             <p className="text-sm text-neutral-500 leading-relaxed">
-                                {[pub.journal || pub.conference, pub.year].filter(Boolean).join(' · ')}
+                                {pub.journal || pub.conference}{' '}
+                                <span className="font-semibold text-red-600 dark:text-red-400">
+                                    （CCF A）
+                                </span>
+                                {' · '}{pub.year}
                             </p>
                             {pub.description && (
                                 <p className="text-sm text-neutral-500 mt-2 line-clamp-2">
