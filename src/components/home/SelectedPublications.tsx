@@ -22,11 +22,25 @@ export default function SelectedPublications({ publications, title }: SelectedPu
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.4 }}
         >
-            <div className="flex items-center justify-between gap-4 mb-5">
-                <h2 className="text-2xl font-serif font-bold text-primary">{resolvedTitle}</h2>
-                <Link href="/publications" className="shrink-0 text-sm font-medium text-accent hover:underline underline-offset-4">
-                    {messages.home.viewAll} <span aria-hidden="true">→</span>
-                </Link>
+            <div className="flex flex-col gap-3 mb-5 sm:flex-row sm:items-start sm:justify-between">
+                <h2 className="text-2xl font-serif font-bold text-primary">
+                    {resolvedTitle}
+                </h2>
+            
+                <div className="flex flex-col items-end gap-2">
+                    <Link
+                        href="/publications"
+                        className="text-sm font-medium text-accent hover:underline underline-offset-4"
+                    >
+                        {messages.home.viewAll}
+                        <span aria-hidden="true"> →</span>
+                    </Link>
+            
+                    <p className="text-xs text-neutral-500 whitespace-nowrap">
+                        <span>* Equal contribution</span>
+                        <span className="ml-4">† Corresponding author</span>
+                    </p>
+                </div>
             </div>
             <div className="space-y-5">
                 {publications.map((pub, index) => (
