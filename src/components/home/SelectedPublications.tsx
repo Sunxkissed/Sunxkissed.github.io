@@ -27,20 +27,20 @@ export default function SelectedPublications({ publications, title }: SelectedPu
                     {resolvedTitle}
                 </h2>
             
-                <div className="flex flex-col items-end gap-2">
-                    <Link
-                        href="/publications"
-                        className="text-sm font-medium text-accent hover:underline underline-offset-4"
-                    >
-                        {messages.home.viewAll}
-                        <span aria-hidden="true"> →</span>
-                    </Link>
+            <div className="flex flex-wrap items-center justify-end gap-x-6 gap-y-2">
+                <p className="text-xs text-neutral-500 whitespace-nowrap">
+                    <span>* Equal contribution</span>
+                    <span className="ml-4">† Corresponding author</span>
+                </p>
             
-                    <p className="text-xs text-neutral-500 whitespace-nowrap">
-                        <span>* Equal contribution</span>
-                        <span className="ml-4">† Corresponding author</span>
-                    </p>
-                </div>
+                <Link
+                    href="/publications"
+                    className="shrink-0 text-sm font-medium text-accent hover:underline underline-offset-4"
+                >
+                    {messages.home.viewAll}
+                    <span aria-hidden="true"> →</span>
+                </Link>
+            </div>
             </div>
             <div className="space-y-5">
                 {publications.map((pub, index) => (
