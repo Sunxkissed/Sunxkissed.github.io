@@ -53,7 +53,7 @@ export default function SelectedPublications({ publications, title }: SelectedPu
                     >
                         {pub.preview && (
                             <div className="w-full sm:w-48 xl:w-60 shrink-0">
-                                <div className="relative aspect-[16/10] overflow-hidden rounded-lg border border-neutral-200 bg-white">
+                                <div className="relative aspect-[16/8] overflow-hidden rounded-lg border border-neutral-200 bg-white">
                                     <Image
                                         src={`/papers/${pub.preview}`}
                                         alt={pub.title}
